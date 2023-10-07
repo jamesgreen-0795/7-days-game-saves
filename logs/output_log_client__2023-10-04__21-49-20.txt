@@ -1,0 +1,432 @@
+Mono path[0] = 'D:/Programs/Steam/steamapps/common/7 Days To Die/7DaysToDie_Data/Managed'
+Mono config path = 'D:/Programs/Steam/steamapps/common/7 Days To Die/MonoBleedingEdge/etc'
+Loading player data from D:/Programs/Steam/steamapps/common/7 Days To Die/7DaysToDie_Data/data.unity3d
+Initialize engine version: 2021.3.19f1 (c9714fde33b6)
+[Subsystems] Discovering subsystems at path D:/Programs/Steam/steamapps/common/7 Days To Die/7DaysToDie_Data/UnitySubsystems
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     4037 MB
+    Driver:   31.0.15.3623
+Begin MonoManager ReloadAssembly
+- Completed reload, in  9.505 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 66.354300 ms
+2023-10-04T21:50:12 0.073 INF Version: Alpha 21.1 (b16) Compatibility Version: Alpha 21.1, Build: WindowsPlayer 64 Bit
+2023-10-04T21:50:12 0.075 INF System information:
+2023-10-04T21:50:12 0.075 INF    OS: Windows 10  (10.0.19045) 64bit
+2023-10-04T21:50:12 0.076 INF    CPU: Intel(R) Core(TM) i5-4690K CPU @ 3.50GHz (cores: 4)
+2023-10-04T21:50:12 0.076 INF    RAM: 16332 MB
+2023-10-04T21:50:12 0.076 INF    GPU: NVIDIA GeForce GTX 970 (4037 MB)
+2023-10-04T21:50:12 0.094 INF    Graphics API: Direct3D 11.0 [level 11.1] (shader level 5.0)
+2023-10-04T21:50:12 0.120 INF Last played version: Alpha 21.1
+2023-10-04T21:50:12 0.122 INF Local UTC offset: 1 hours
+2023-10-04T21:50:12 0.155 INF Command line arguments: D:\Programs\Steam\steamapps\common\7 Days To Die\7DaysToDie.exe -force-d3d11 -nogs -logfile C:\Users\james\AppData\Roaming\7DaysToDie\logs\output_log_client__2023-10-04__21-49-20.txt
+2023-10-04T21:50:12 0.170 INF [Platform] Init
+2023-10-04T21:50:12 0.301 INF [Platform] Using native platform: Steam
+2023-10-04T21:50:12 0.302 INF [Platform] Using cross platform: EOS
+2023-10-04T21:50:12 0.303 INF [Platform] Using server platform: Steam
+2023-10-04T21:50:12 0.303 INF [Platform] Using server platform: XBL
+2023-10-04T21:50:12 0.311 INF Starting PlayerInputManager...
+2023-10-04T21:50:12 0.579 INF InControl (version 1.8.2 build 9357, native module = False, XInput = True)
+2023-10-04T21:50:12 0.597 INF [Platform] Initializing Steam
+2023-10-04T21:50:14 2.382 INF [Steamworks.NET] SteamAPI_Init() ok
+2023-10-04T21:50:14 2.384 INF [Steamworks.NET] Registering auth callbacks
+2023-10-04T21:50:14 2.386 INF Not running in Big Picture Mode, no on-screen keyboard available
+2023-10-04T21:50:14 2.386 INF [Platform] Initializing EOS
+2023-10-04T21:50:15 2.883 INF [EOS] Initialize: Success
+2023-10-04T21:50:15 3.135 INF [Platform] Initializing XBL
+2023-10-04T21:50:15 3.455 INF Localization language from platform: english
+2023-10-04T21:50:15 3.477 INF Texture quality is set to 1
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 19.187600 ms
+Fallback handler could not load library D:/Programs/Steam/steamapps/common/7 Days To Die/7DaysToDie_Data/MonoBleedingEdge/data-000001E7D46E90D0.dll
+2023-10-04T21:50:25 13.189 INF Awake IsFocused: True
+2023-10-04T21:50:25 13.189 INF Awake
+2023-10-04T21:50:26 13.713 INF Occlusion: Awake
+2023-10-04T21:50:26 13.796 INF Resetting Game
+2023-10-04T21:50:26 13.811 INF Persistent GamePrefs saved
+2023-10-04T21:50:26 13.811 INF Game Reset
+2023-10-04T21:50:26 13.812 WRN Device name for flag StandaloneWindows is unknown
+2023-10-04T21:50:26 13.862 INF ApplyAllOptions streaming budget 3633.3 MB
+2023-10-04T21:50:26 13.887 INF ApplyAllOptions current screen 1920 x 1080, 60hz, window 1920 x 1080, mode FullScreenWindow
+2023-10-04T21:50:26 13.910 INF Texture quality is set to 1
+2023-10-04T21:50:26 13.910 INF ApplyTextureFilter 1, AF Enable
+2023-10-04T21:50:26 13.912 INF ApplyTerrainOptions 2
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 6570.
+Total: 24.838900 ms (FindLiveObjects: 0.442600 ms CreateObjectMapping: 0.637300 ms MarkObjects: 23.714600 ms  DeleteObjects: 0.043300 ms)
+
+2023-10-04T21:50:27 15.050 INF [MODS] No mods folder found
+2023-10-04T21:50:27 15.050 INF [MODS] Initializing mod code
+2023-10-04T21:50:27 15.050 INF [MODS] Loading done
+2023-10-04T21:50:27 15.158 INF Permissions file 'serveradmin.xml' not found, creating.
+2023-10-04T21:50:27 15.237 INF Command "chunkcache" has no explicit permission level, but a default permission of 1000, adding to permission list
+2023-10-04T21:50:27 15.238 INF Command "createwebuser" has no explicit permission level, but a default permission of 1000, adding to permission list
+2023-10-04T21:50:27 15.239 INF Command "debugshot" has no explicit permission level, but a default permission of 1000, adding to permission list
+2023-10-04T21:50:27 15.239 INF Command "debugweather" has no explicit permission level, but a default permission of 1000, adding to permission list
+2023-10-04T21:50:27 15.239 INF Command "decomgr" has no explicit permission level, but a default permission of 1000, adding to permission list
+2023-10-04T21:50:27 15.241 INF Command "getgamepref" has no explicit permission level, but a default permission of 1000, adding to permission list
+2023-10-04T21:50:27 15.241 INF Command "getgamestat" has no explicit permission level, but a default permission of 1000, adding to permission list
+2023-10-04T21:50:27 15.241 INF Command "getlogpath" has no explicit permission level, but a default permission of 1000, adding to permission list
+2023-10-04T21:50:27 15.241 INF Command "getoptions" has no explicit permission level, but a default permission of 1000, adding to permission list
+2023-10-04T21:50:27 15.241 INF Command "gettime" has no explicit permission level, but a default permission of 1000, adding to permission list
+2023-10-04T21:50:27 15.241 INF Command "gfx" has no explicit permission level, but a default permission of 1000, adding to permission list
+2023-10-04T21:50:27 15.242 INF Command "graph" has no explicit permission level, but a default permission of 1000, adding to permission list
+2023-10-04T21:50:27 15.243 INF Command "help" has no explicit permission level, but a default permission of 1000, adding to permission list
+2023-10-04T21:50:27 15.244 INF Command "listplayerids" has no explicit permission level, but a default permission of 1000, adding to permission list
+2023-10-04T21:50:27 15.244 INF Command "listthreads" has no explicit permission level, but a default permission of 1000, adding to permission list
+2023-10-04T21:50:27 15.245 INF Command "loot" has no explicit permission level, but a default permission of 1000, adding to permission list
+2023-10-04T21:50:27 15.246 INF Command "memcl" has no explicit permission level, but a default permission of 1000, adding to permission list
+2023-10-04T21:50:27 15.254 INF Command "settempunit" has no explicit permission level, but a default permission of 1000, adding to permission list
+2023-10-04T21:50:27 15.363 INF GameSense server not found (no props file), disabling
+2023-10-04T21:50:27 15.366 INF [PartyQuests] Initialized
+2023-10-04T21:50:27 15.367 INF Awake done in 2177 ms
+2023-10-04T21:50:28 15.838 INF [XUi] Instantiating XUi from default prefab.
+2023-10-04T21:50:28 15.881 INF Reloading serveradmin.xml
+2023-10-04T21:50:28 15.881 INF Loading permissions file at 'C:\Users\james\AppData\Roaming/7DaysToDie/Saves/serveradmin.xml'
+2023-10-04T21:50:28 15.890 INF Loading permissions file done.
+2023-10-04T21:50:28 15.911 INF [XUi] XUi instantiation completed in 72 ms
+2023-10-04T21:50:28 16.333 INF [XUi] Loading XUi asynchronously
+2023-10-04T21:50:28 16.374 INF Updated culture for display texts
+2023-10-04T21:50:29 17.440 INF [XUi] Parsing all window groups completed in 844 ms total.
+Couldn't create a Convex Mesh from source mesh "Head" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+2023-10-04T21:50:38 26.325 INF [XUi] Initialized all window groups completed in 2831 ms total.
+2023-10-04T21:50:39 26.713 INF LoadTextureArraysForQuality quality -1 to 1, reload False
+2023-10-04T21:50:50 37.711 INF LoadTextureArraysForQuality took 10.997
+2023-10-04T21:50:50 37.762 INF Loaded (local): rwgmixer in 0.05
+2023-10-04T21:50:50 37.960 INF Loaded (local): archetypes in 0.20
+2023-10-04T21:50:50 38.011 INF Loaded (local): loadingscreen in 0.05
+2023-10-04T21:50:50 38.012 INF WorldStaticData.Init() needed 18.000s
+2023-10-04T21:50:50 38.030 INF [Steamworks.NET] Login ok.
+2023-10-04T21:50:50 38.031 INF [EOS] Login
+2023-10-04T21:50:50 38.367 INF AchievementManager: Received stats and achievements from Steam
+2023-10-04T21:50:50 38.389 WRN [Steam] Tick took exceptionally long: 94 ms
+2023-10-04T21:50:52 40.286 WRN [EOS] [LogEOS - Warning] Error response received from backend. ServiceName=[EOSAuth], OperationName=[TokenGrant], Url=[<Redacted>], HttpStatus=[404], ErrorCode=[errors.com.epicgames.eos.auth.user_not_found], NumericErrorCode=[110016], ErrorMessage=[EOS User Identity not found. identityProviderId: steam accountId: 76561198035149876], CorrId=[EOS-NifRd_2XjkezLtkMOw22Rw-svXiKC163UGFKM9Me9q8iQ-2AMKBLCR2EGEoQoh9jucLw]
+2023-10-04T21:50:52 40.430 INF [EOS] Creating account
+2023-10-04T21:50:53 40.997 INF [EOS] CreateUser succeeded, PUID: 00029b07b6734cde870ee9a5989c255f
+2023-10-04T21:50:53 40.998 INF [EOS] Getting native user for 00029b07b6734cde870ee9a5989c255f
+2023-10-04T21:50:53 41.000 INF [EOS] CopyIdToken result: Success
+2023-10-04T21:50:53 41.582 WRN [EOS] No platform -> EOS mappings found
+2023-10-04T21:50:54 42.041 WRN [EOS] [LogEOSTitleStorage - Warning] CacheRegistry: could not open registry file for reading.
+2023-10-04T21:50:54 42.127 WRN [EOS] [LogEOSTitleStorage - Warning] Deleting local invalid cache file. CacheFilename=[C:/Users/james/AppData/Roaming/7DaysToDie/titlestorage/8a44365d5ccb43328b4df2f8ca199e43/__cache_registry_lock]
+2023-10-04T21:50:54 42.496 INF [EOS] TransferProgress: News.xml, 4380 / 4380
+2023-10-04T21:50:54 42.496 WRN [EOS] [LogHttp - Warning] Payload is incomplete. Response still processing. 000001E86EE8C0B0
+2023-10-04T21:50:55 42.815 INF [EOS] Read (News.xml) completed: Success, received 4322 bytes
+2023-10-04T21:51:57 104.745 INF NET: Starting server protocols
+2023-10-04T21:51:57 105.141 INF NET: LiteNetLib server started
+2023-10-04T21:51:57 105.144 INF [Steamworks.NET] NET: Server started
+2023-10-04T21:51:57 105.144 INF Started thread SteamNetworkingServer
+2023-10-04T21:51:57 105.144 INF [EOS-P2PS] Server started
+2023-10-04T21:51:57 105.146 INF StartGame
+2023-10-04T21:51:57 105.146 INF NetPackageManager Init
+2023-10-04T21:51:57 105.228 INF [XUi] Instantiating XUi from default prefab.
+2023-10-04T21:51:57 105.243 INF [XUi] XUi instantiation completed in 15 ms
+2023-10-04T21:51:57 105.256 INF Persistent GamePrefs saved
+GamePref.AdminFileName = serveradmin.xml
+GamePref.AirDropFrequency = 72
+GamePref.AirDropMarker = True
+GamePref.AllowSpawnNearBackpack = True
+GamePref.AutopilotMode = 0
+GamePref.BedrollDeadZoneSize = 15
+GamePref.BedrollExpiryTime = 45
+GamePref.BlockDamageAI = 100
+GamePref.BlockDamageAIBM = 100
+GamePref.BlockDamagePlayer = 100
+GamePref.BloodMoonEnemyCount = 8
+GamePref.BloodMoonFrequency = 7
+GamePref.BloodMoonRange = 0
+GamePref.BloodMoonWarning = 8
+GamePref.BuildCreate = False
+GamePref.ConnectToServerIP = 127.0.0.1
+GamePref.ConnectToServerPort = 26900
+GamePref.CraftTimer = 
+GamePref.CreateLevelDim = 8
+GamePref.CreateLevelName = My Level
+GamePref.CreativeMenuEnabled = False
+GamePref.DayCount = 3
+GamePref.DayLightLength = 18
+GamePref.DayNightLength = 60
+GamePref.DebugMenuEnabled = False
+GamePref.DebugMenuShowTasks = False
+GamePref.DebugStopEnemiesMoving = False
+GamePref.DropOnDeath = 1
+GamePref.DropOnQuit = 0
+GamePref.DynamicMeshDistance = 1000
+GamePref.DynamicMeshEnabled = True
+GamePref.DynamicMeshLandClaimBuffer = 3
+GamePref.DynamicMeshLandClaimOnly = True
+GamePref.DynamicMeshMaxItemCache = 3
+GamePref.DynamicMeshMaxRegionCache = 1
+GamePref.DynamicMeshUseImposters = False
+GamePref.DynamicSpawner = 
+GamePref.EACEnabled = False
+GamePref.EnableMapRendering = False
+GamePref.EnemyDifficulty = 0
+GamePref.EnemySpawnMode = True
+GamePref.FavoriteServersList = 
+GamePref.FragLimit = 20
+GamePref.GameDifficulty = 1
+GamePref.GameGuidClient = 
+GamePref.GameMode = GameModeSurvival
+GamePref.GameName = My Game
+GamePref.GameNameClient = My Game
+GamePref.GameVersion = Alpha 21.1
+GamePref.GameWorld = Navezgane
+GamePref.HideCommandExecutionLog = 0
+GamePref.JoiningOptions = True
+GamePref.LandClaimCount = 3
+GamePref.LandClaimDeadZone = 30
+GamePref.LandClaimDecayMode = 0
+GamePref.LandClaimExpiryTime = 7
+GamePref.LandClaimOfflineDelay = 0
+GamePref.LandClaimOfflineDurabilityModifier = 4
+GamePref.LandClaimOnlineDurabilityModifier = 4
+GamePref.LandClaimSize = 41
+GamePref.Language = 
+GamePref.LanguageBrowser = 
+GamePref.LastGameResetRevision = 13
+GamePref.LastLoadedPrefab = 
+GamePref.LastLoadingTipRead = -1
+GamePref.LootAbundance = 100
+GamePref.LootRespawnDays = 7
+GamePref.LootTimer = 
+GamePref.MatchLength = 10
+GamePref.MaxChunkAge = -1
+GamePref.MaxQueuedMeshLayers = 40
+GamePref.MaxSpawnedAnimals = 50
+GamePref.MaxSpawnedZombies = 64
+GamePref.MaxUncoveredMapChunksPerPlayer = 524288
+GamePref.NewGameSetDefaults = True
+GamePref.NoGraphicsMode = False
+GamePref.OptionsAllowController = True
+GamePref.OptionsAmbientVolumeLevel = 1
+GamePref.OptionsAudioOcclusion = False
+GamePref.OptionsBackgroundGlobalOpacity = 0.75
+GamePref.OptionsControllerTriggerEffects = False
+GamePref.OptionsControllerVibration = True
+GamePref.OptionsControlsResetRevision = 0
+GamePref.OptionsDisableChunkLODs = False
+GamePref.OptionsDynamicMusicDailyTime = 0.45
+GamePref.OptionsDynamicMusicEnabled = True
+GamePref.OptionsForegroundGlobalOpacity = 1
+GamePref.OptionsGfxAA = 2
+GamePref.OptionsGfxAASharpness = 0
+GamePref.OptionsGfxBloom = True
+GamePref.OptionsGfxBrightness = 0.5
+GamePref.OptionsGfxDOF = False
+GamePref.OptionsGfxDynamicMinFPS = 30
+GamePref.OptionsGfxDynamicMode = 0
+GamePref.OptionsGfxDynamicScale = 1
+GamePref.OptionsGfxFOV = 65
+GamePref.OptionsGfxGameplayResolutionHeight = 0
+GamePref.OptionsGfxGameplayResolutionWidth = 0
+GamePref.OptionsGfxGrassDistance = 2
+GamePref.OptionsGfxLODDistance = 0.5
+GamePref.OptionsGfxMotionBlur = 1
+GamePref.OptionsGfxObjQuality = 2
+GamePref.OptionsGfxOcclusion = True
+GamePref.OptionsGfxQualityPreset = 2
+GamePref.OptionsGfxReflectQuality = 1
+GamePref.OptionsGfxReflectShadows = False
+GamePref.OptionsGfxResetRevision = 3
+GamePref.OptionsGfxResolution = 0
+GamePref.OptionsGfxShadowDistance = 1
+GamePref.OptionsGfxSSAO = True
+GamePref.OptionsGfxSSReflections = 1
+GamePref.OptionsGfxStreamMipmaps = True
+GamePref.OptionsGfxSunShafts = True
+GamePref.OptionsGfxTerrainQuality = 2
+GamePref.OptionsGfxTexFilter = 1
+GamePref.OptionsGfxTexQuality = 1
+GamePref.OptionsGfxTreeDistance = 4
+GamePref.OptionsGfxUMATexQuality = 1
+GamePref.OptionsGfxViewDistance = 6
+GamePref.OptionsGfxVsync = 1
+GamePref.OptionsGfxWaterPtlLimiter = 0.5
+GamePref.OptionsGfxWaterQuality = 1
+GamePref.OptionsHudOpacity = 1
+GamePref.OptionsHudSize = 1
+GamePref.OptionsInterfaceSensitivity = 0.75
+GamePref.OptionsIntroMovieEnabled = True
+GamePref.OptionsInvertMouse = False
+GamePref.OptionsJournalPopup = True
+GamePref.OptionsLiteNetLibMtuOverride = False
+GamePref.OptionsLookSensitivity = 0.5
+GamePref.OptionsMenuMusicVolumeLevel = 0.7
+GamePref.OptionsMicVolumeLevel = 0.75
+GamePref.OptionsMumblePositionalAudioSupport = False
+GamePref.OptionsMusicVolumeLevel = 0.6
+GamePref.OptionsOverallAudioVolumeLevel = 1
+GamePref.OptionsPlayChanceFrequency = 3
+GamePref.OptionsPlayChanceProbability = 0.983
+GamePref.OptionsPlayerModel = playerMale
+GamePref.OptionsPlayerModelTexture = Player/Male/Player_male
+GamePref.OptionsPOICulling = 1
+GamePref.OptionsQuestsAutoAccept = True
+GamePref.OptionsQuestsAutoShare = True
+GamePref.OptionsScreenBoundsValue = 1
+GamePref.OptionsSelectionBoxAlphaMultiplier = 0.4
+GamePref.OptionsShowCompass = True
+GamePref.OptionsShowCrosshair = True
+GamePref.OptionsStabSpawnBlocksOnGround = True
+GamePref.OptionsSubtitlesEnabled = True
+GamePref.OptionsTempCelsius = False
+GamePref.OptionsUiFpsScaling = 1
+GamePref.OptionsVehicleLookSensitivity = 0.5
+GamePref.OptionsVoiceChatEnabled = True
+GamePref.OptionsVoiceInputDevice = 
+GamePref.OptionsVoiceOutputDevice = 
+GamePref.OptionsVoiceVolumeLevel = 0.75
+GamePref.OptionsWeaponAiming = False
+GamePref.OptionsZoomAccel = 0.5
+GamePref.OptionsZoomSensitivity = 0.3
+GamePref.PartySharedKillRange = 100
+GamePref.PersistentPlayerProfiles = False
+GamePref.PlayerAutologin = False
+GamePref.PlayerKillingMode = 2
+GamePref.PlayerName = jamesgreen0795
+GamePref.PlayerSafeZoneHours = 7
+GamePref.PlayerSafeZoneLevel = 5
+GamePref.PlayerToken = 
+GamePref.PlaytestBiome = 3
+GamePref.RebuildMap = False
+GamePref.Region = Europe
+GamePref.SaveDataLimit = -1
+GamePref.SaveGameFolder = C:\Users\james\AppData\Roaming/7DaysToDie/Saves
+GamePref.SelectionContextMode = 0
+GamePref.SelectionOperationMode = 0
+GamePref.ServerAdminSlots = 0
+GamePref.ServerAdminSlotsPermission = 0
+GamePref.ServerDescription = 
+GamePref.ServerDisabledNetworkProtocols = 
+GamePref.ServerHistoryCache = 
+GamePref.ServerIP = 
+GamePref.ServerIsPublic = True
+GamePref.ServerLoginConfirmationText = 
+GamePref.ServerMaxAllowedViewDistance = 12
+GamePref.ServerMaxPlayerCount = 8
+GamePref.ServerMaxWorldTransferSpeedKiBs = 512
+GamePref.ServerName = Default Server
+GamePref.ServerPort = 26900
+GamePref.ServerReservedSlots = 0
+GamePref.ServerReservedSlotsPermission = 100
+GamePref.ServerVisibility = 1
+GamePref.ServerWebsiteURL = 
+GamePref.ShowFriendPlayerOnMap = True
+GamePref.TelnetEnabled = False
+GamePref.TelnetFailedLoginLimit = 10
+GamePref.TelnetFailedLoginsBlocktime = 10
+GamePref.TelnetPort = 25003
+GamePref.TerminalWindowEnabled = True
+GamePref.TwitchBloodMoonAllowed = True
+GamePref.TwitchServerPermission = 90
+GamePref.UNUSED_ControlPanelEnabled = False
+GamePref.UNUSED_ControlPanelPort = 8080
+GamePref.UNUSED_LastLoadedPrefabSize = 
+GamePref.UNUSED_OptionsBloom = 
+GamePref.UNUSED_OptionsDOF = 
+GamePref.UNUSED_OptionsFieldOfViewNew = 
+GamePref.UNUSED_OptionsGamma = 
+GamePref.UNUSED_OptionsMotionBlur = 
+GamePref.UNUSED_OptionsObjectBlur = 
+GamePref.UNUSED_OptionsReflectionBounces = 
+GamePref.UNUSED_OptionsReflectionCullList = 
+GamePref.UNUSED_OptionsReflectionFarClip = 
+GamePref.UNUSED_OptionsReflectionRefreshMode = 
+GamePref.UNUSED_OptionsReflectionShadowDistance = 
+GamePref.UNUSED_OptionsReflectionTimeSlicingMode = 
+GamePref.UNUSED_OptionsSSAO = 
+GamePref.UNUSED_OptionsStreamingMipmapsBudget = 
+GamePref.UNUSED_OptionsSunShafts = 
+GamePref.UNUSED_PlayerId = 
+GamePref.UserDataFolder = C:\Users\james\AppData\Roaming/7DaysToDie
+GamePref.WebDashboardEnabled = False
+GamePref.WebDashboardPort = 8080
+GamePref.WebDashboardUrl = 
+GamePref.WorldGenSeed = 
+GamePref.WorldGenSize = 8192
+GamePref.XPMultiplier = 100
+GamePref.ZombieBMMove = 3
+GamePref.ZombieFeralMove = 3
+GamePref.ZombieFeralSense = 0
+GamePref.ZombieMove = 0
+GamePref.ZombieMoveNight = 3
+GamePref.ZombiePlayers = True
+GameStat.AirDropFrequency = 72
+GameStat.AirDropMarker = True
+GameStat.AllowedViewDistance = 6
+GameStat.AnimalCount = 0
+GameStat.AutoParty = False
+GameStat.BedrollExpiryTime = 45
+GameStat.BlockDamagePlayer = 100
+GameStat.BloodMoonDay = 0
+GameStat.BloodMoonEnemyCount = 8
+GameStat.BloodMoonWarning = 8
+GameStat.ChunkStabilityEnabled = True
+GameStat.CraftTimer = 
+GameStat.CurrentRoundIx = 0
+GameStat.DayLightLength = 18
+GameStat.DayLimitActive = False
+GameStat.DayLimitThisRound = 0
+GameStat.DropOnDeath = 1
+GameStat.DropOnQuit = 0
+GameStat.EnemyCount = 0
+GameStat.EnemyDifficulty = 0
+GameStat.EnemySpawnMode = True
+GameStat.FragLimitActive = False
+GameStat.FragLimitThisRound = 0
+GameStat.GameDifficulty = 1
+GameStat.GameDifficultyBonus = 1
+GameStat.GameModeId = 0
+GameStat.GameState = 0
+GameStat.GlobalMessageToShow = 
+GameStat.IsCreativeMenuEnabled = False
+GameStat.IsFlyingEnabled = False
+GameStat.IsPlayerCollisionEnabled = True
+GameStat.IsPlayerDamageEnabled = True
+GameStat.IsResetMapOnRestart = False
+GameStat.IsSaveSupplyCrates = True
+GameStat.IsSpawnEnemies = True
+GameStat.IsSpawnNearOtherPlayer = False
+GameStat.IsTeleportEnabled = False
+GameStat.IsVersionCheckDone = False
+GameStat.LandClaimCount = 3
+GameStat.LandClaimDeadZone = 30
+GameStat.LandClaimDecayMode = 0
+GameStat.LandClaimExpiryTime = 7
+GameStat.LandClaimOfflineDelay = 0
+GameStat.LandClaimOfflineDurabilityModifier = 4
+GameStat.LandClaimOnlineDurabilityModifier = 4
+GameStat.LandClaimSize = 41
+GameStat.LoadScene = 
+GameStat.LootTimer = 
+GameStat.OptionsPOICulling = 1
+GameStat.PartySharedKillRange = 100
+GameStat.PlayerKillingMode = 2
+GameStat.ScoreDiedMultiplier = -5
+GameStat.ScorePlayerKillMultiplier = 0
+GameStat.ScoreZombieKillMultiplier = 1
+GameStat.ShowAllPlayersOnMap = False
+GameStat.ShowFriendPlayerOnMap = True
+GameStat.ShowSpawnWindow = False
+GameStat.ShowWindow = 
+GameStat.TimeLimitActive = False
+GameStat.TimeLimitThisRound = 0
+GameStat.TimeOfDayIncPerSec = 6
+GameStat.TwitchBloodMoonAllowed = True
+GameStat.UNUSED_ShowZombieCounter = 
+GameStat.XPMultiplier = 100
+GameStat.ZombieHordeMeter = True
+2023-10-04T21:51:57 105.339 INF StartAsServer
+2023-10-04T21:51:58 106.365 INF Set Microsplat diffuse: MicroSplatConfig_diff_tarray_1 (UnityEngine.Texture2DArray)
+2023-10-04T21:51:58 106.365 INF Set Microsplat normals: MicroSplatConfig_normal_tarray_1 (UnityEngine.Texture2DArray)
+2023-10-04T21:51:58 106.365 INF Set Microsplat smooth:  MicroSplatConfig_smoothAO_tarray_1 (UnityEngine.Texture2DArray)
+2023-10-04T21:51:58 106.393 INF Loaded (local): materials in 1.04
+2023-10-04T21:51:58 106.494 INF Loaded (local): physicsbodies in 0.10
+2023-10-04T21:51:58 106.594 INF Loaded (local): painting in 0.10
+2023-10-04T21:51:59 106.789 INF Loaded (local): shapes in 0.20

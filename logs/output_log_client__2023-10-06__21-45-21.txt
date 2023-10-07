@@ -1,0 +1,1145 @@
+Mono path[0] = 'D:/Programs/Steam/steamapps/common/7 Days To Die/7DaysToDie_Data/Managed'
+Mono config path = 'D:/Programs/Steam/steamapps/common/7 Days To Die/MonoBleedingEdge/etc'
+Loading player data from D:/Programs/Steam/steamapps/common/7 Days To Die/7DaysToDie_Data/data.unity3d
+Initialize engine version: 2021.3.19f1 (c9714fde33b6)
+[Subsystems] Discovering subsystems at path D:/Programs/Steam/steamapps/common/7 Days To Die/7DaysToDie_Data/UnitySubsystems
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     4037 MB
+    Driver:   31.0.15.3623
+Begin MonoManager ReloadAssembly
+- Completed reload, in 11.625 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 49.769000 ms
+2023-10-06T21:46:07 0.092 INF Version: Alpha 21.1 (b16) Compatibility Version: Alpha 21.1, Build: WindowsPlayer 64 Bit
+2023-10-06T21:46:07 0.094 INF System information:
+2023-10-06T21:46:07 0.094 INF    OS: Windows 10  (10.0.19045) 64bit
+2023-10-06T21:46:07 0.094 INF    CPU: Intel(R) Core(TM) i5-4690K CPU @ 3.50GHz (cores: 4)
+2023-10-06T21:46:07 0.095 INF    RAM: 16332 MB
+2023-10-06T21:46:07 0.095 INF    GPU: NVIDIA GeForce GTX 970 (4037 MB)
+2023-10-06T21:46:07 0.163 INF    Graphics API: Direct3D 11.0 [level 11.1] (shader level 5.0)
+2023-10-06T21:46:07 0.199 INF Last played version: Alpha 21.1
+2023-10-06T21:46:07 0.201 INF Local UTC offset: 1 hours
+2023-10-06T21:46:07 0.229 INF Command line arguments: D:\Programs\Steam\steamapps\common\7 Days To Die\7DaysToDie.exe -force-d3d11 -nogs -logfile C:\Users\james\AppData\Roaming\7DaysToDie\logs\output_log_client__2023-10-06__21-45-21.txt
+2023-10-06T21:46:07 0.245 INF [Platform] Init
+2023-10-06T21:46:07 0.465 INF [Platform] Using native platform: Steam
+2023-10-06T21:46:07 0.466 INF [Platform] Using cross platform: EOS
+2023-10-06T21:46:07 0.466 INF [Platform] Using server platform: Steam
+2023-10-06T21:46:07 0.466 INF [Platform] Using server platform: XBL
+2023-10-06T21:46:07 0.475 INF Starting PlayerInputManager...
+2023-10-06T21:46:08 0.793 INF InControl (version 1.8.2 build 9357, native module = False, XInput = True)
+2023-10-06T21:46:08 0.810 INF [Platform] Initializing Steam
+2023-10-06T21:46:10 2.809 INF [Steamworks.NET] SteamAPI_Init() ok
+2023-10-06T21:46:10 2.811 INF [Steamworks.NET] Registering auth callbacks
+2023-10-06T21:46:10 2.813 INF Not running in Big Picture Mode, no on-screen keyboard available
+2023-10-06T21:46:10 2.813 INF [Platform] Initializing EOS
+2023-10-06T21:46:11 3.730 INF [EOS] Initialize: Success
+2023-10-06T21:46:11 3.949 INF [Platform] Initializing XBL
+2023-10-06T21:46:11 4.340 INF Localization language from platform: english
+2023-10-06T21:46:11 4.365 INF Texture quality is set to 1
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 94.012100 ms
+Fallback handler could not load library D:/Programs/Steam/steamapps/common/7 Days To Die/7DaysToDie_Data/MonoBleedingEdge/data-000002C162EFD0C0.dll
+2023-10-06T21:46:23 16.239 INF Awake IsFocused: True
+2023-10-06T21:46:23 16.239 INF Awake
+2023-10-06T21:46:24 17.016 INF Occlusion: Awake
+2023-10-06T21:46:24 17.032 WRN Device name for flag StandaloneWindows is unknown
+2023-10-06T21:46:24 17.056 INF ApplyAllOptions streaming budget 3633.3 MB
+2023-10-06T21:46:24 17.058 INF ApplyAllOptions current screen 1920 x 1080, 60hz, window 1920 x 1080, mode FullScreenWindow
+2023-10-06T21:46:24 17.059 INF Texture quality is set to 1
+2023-10-06T21:46:24 17.060 INF ApplyTextureFilter 1, AF Enable
+2023-10-06T21:46:24 17.061 INF ApplyTerrainOptions 2
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 6570.
+Total: 66.128200 ms (FindLiveObjects: 0.408000 ms CreateObjectMapping: 0.180900 ms MarkObjects: 65.492300 ms  DeleteObjects: 0.046200 ms)
+
+2023-10-06T21:46:26 18.678 INF [MODS] No mods folder found
+2023-10-06T21:46:26 18.678 INF [MODS] Initializing mod code
+2023-10-06T21:46:26 18.678 INF [MODS] Loading done
+2023-10-06T21:46:26 18.786 INF Loading permissions file at 'C:\Users\james\AppData\Roaming/7DaysToDie/Saves/serveradmin.xml'
+2023-10-06T21:46:26 18.892 INF Loading permissions file done.
+2023-10-06T21:46:26 19.015 INF GameSense server not found (no props file), disabling
+2023-10-06T21:46:26 19.018 INF [PartyQuests] Initialized
+2023-10-06T21:46:26 19.018 INF Awake done in 2779 ms
+2023-10-06T21:46:26 19.491 INF [XUi] Instantiating XUi from default prefab.
+2023-10-06T21:46:26 19.496 INF Reloading serveradmin.xml
+2023-10-06T21:46:26 19.496 INF Loading permissions file at 'C:\Users\james\AppData\Roaming/7DaysToDie/Saves/serveradmin.xml'
+2023-10-06T21:46:26 19.496 INF Loading permissions file done.
+2023-10-06T21:46:26 19.581 INF [XUi] XUi instantiation completed in 89 ms
+2023-10-06T21:46:27 20.219 INF [XUi] Loading XUi asynchronously
+2023-10-06T21:46:27 20.277 INF Updated culture for display texts
+2023-10-06T21:46:28 21.101 INF [XUi] Parsing all window groups completed in 814 ms total.
+Couldn't create a Convex Mesh from source mesh "Head" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+2023-10-06T21:46:37 30.446 INF [XUi] Initialized all window groups completed in 2708 ms total.
+2023-10-06T21:46:38 30.913 INF LoadTextureArraysForQuality quality -1 to 1, reload False
+2023-10-06T21:46:49 41.761 INF LoadTextureArraysForQuality took 10.847
+2023-10-06T21:46:49 41.879 INF Loaded (local): rwgmixer in 0.03
+2023-10-06T21:46:49 41.980 INF Loaded (local): archetypes in 0.08
+2023-10-06T21:46:49 42.028 INF Loaded (local): loadingscreen in 0.05
+2023-10-06T21:46:49 42.029 INF WorldStaticData.Init() needed 18.000s
+2023-10-06T21:46:49 42.048 INF [Steamworks.NET] Login ok.
+2023-10-06T21:46:49 42.049 INF [EOS] Login
+2023-10-06T21:46:49 42.411 INF AchievementManager: Received stats and achievements from Steam
+2023-10-06T21:46:49 42.431 WRN [Steam] Tick took exceptionally long: 53 ms
+2023-10-06T21:46:50 43.577 WRN [Steam] Tick took exceptionally long: 32 ms
+2023-10-06T21:46:51 44.166 INF [EOS] Login succeeded, PUID: 00029b07b6734cde870ee9a5989c255f
+2023-10-06T21:46:51 44.167 INF [EOS] Getting native user for 00029b07b6734cde870ee9a5989c255f
+2023-10-06T21:46:51 44.169 INF [EOS] CopyIdToken result: Success
+2023-10-06T21:46:52 45.441 INF [EOS] TransferProgress: News.xml, 4380 / 4380
+2023-10-06T21:46:53 45.653 INF [EOS] Read (News.xml) completed: Success, received 4322 bytes
+2023-10-06T21:47:04 56.904 INF NET: Starting server protocols
+2023-10-06T21:47:04 57.410 INF NET: LiteNetLib server started
+2023-10-06T21:47:04 57.412 INF [Steamworks.NET] NET: Server started
+2023-10-06T21:47:04 57.412 INF Started thread SteamNetworkingServer
+2023-10-06T21:47:04 57.412 INF [EOS-P2PS] Server started
+2023-10-06T21:47:04 57.414 INF StartGame
+2023-10-06T21:47:04 57.414 INF NetPackageManager Init
+2023-10-06T21:47:04 57.496 INF [XUi] Instantiating XUi from default prefab.
+2023-10-06T21:47:04 57.510 INF [XUi] XUi instantiation completed in 14 ms
+2023-10-06T21:47:04 57.520 INF Persistent GamePrefs saved
+GamePref.AdminFileName = serveradmin.xml
+GamePref.AirDropFrequency = 72
+GamePref.AirDropMarker = True
+GamePref.AllowSpawnNearBackpack = True
+GamePref.AutopilotMode = 0
+GamePref.BedrollDeadZoneSize = 15
+GamePref.BedrollExpiryTime = 45
+GamePref.BlockDamageAI = 100
+GamePref.BlockDamageAIBM = 100
+GamePref.BlockDamagePlayer = 100
+GamePref.BloodMoonEnemyCount = 8
+GamePref.BloodMoonFrequency = 7
+GamePref.BloodMoonRange = 0
+GamePref.BloodMoonWarning = 8
+GamePref.BuildCreate = False
+GamePref.ConnectToServerIP = 127.0.0.1
+GamePref.ConnectToServerPort = 26900
+GamePref.CraftTimer = 
+GamePref.CreateLevelDim = 8
+GamePref.CreateLevelName = My Level
+GamePref.CreativeMenuEnabled = False
+GamePref.DayCount = 3
+GamePref.DayLightLength = 18
+GamePref.DayNightLength = 60
+GamePref.DebugMenuEnabled = False
+GamePref.DebugMenuShowTasks = False
+GamePref.DebugStopEnemiesMoving = False
+GamePref.DropOnDeath = 1
+GamePref.DropOnQuit = 0
+GamePref.DynamicMeshDistance = 1000
+GamePref.DynamicMeshEnabled = True
+GamePref.DynamicMeshLandClaimBuffer = 3
+GamePref.DynamicMeshLandClaimOnly = True
+GamePref.DynamicMeshMaxItemCache = 3
+GamePref.DynamicMeshMaxRegionCache = 1
+GamePref.DynamicMeshUseImposters = False
+GamePref.DynamicSpawner = 
+GamePref.EACEnabled = False
+GamePref.EnableMapRendering = False
+GamePref.EnemyDifficulty = 0
+GamePref.EnemySpawnMode = True
+GamePref.FavoriteServersList = 
+GamePref.FragLimit = 20
+GamePref.GameDifficulty = 1
+GamePref.GameGuidClient = 
+GamePref.GameMode = GameModeSurvival
+GamePref.GameName = Jammy
+GamePref.GameNameClient = My Game
+GamePref.GameVersion = Alpha 21.1
+GamePref.GameWorld = Navezgane
+GamePref.HideCommandExecutionLog = 0
+GamePref.JoiningOptions = True
+GamePref.LandClaimCount = 3
+GamePref.LandClaimDeadZone = 30
+GamePref.LandClaimDecayMode = 0
+GamePref.LandClaimExpiryTime = 7
+GamePref.LandClaimOfflineDelay = 0
+GamePref.LandClaimOfflineDurabilityModifier = 4
+GamePref.LandClaimOnlineDurabilityModifier = 4
+GamePref.LandClaimSize = 41
+GamePref.Language = 
+GamePref.LanguageBrowser = 
+GamePref.LastGameResetRevision = 13
+GamePref.LastLoadedPrefab = 
+GamePref.LastLoadingTipRead = 1
+GamePref.LootAbundance = 100
+GamePref.LootRespawnDays = 7
+GamePref.LootTimer = 
+GamePref.MatchLength = 10
+GamePref.MaxChunkAge = -1
+GamePref.MaxQueuedMeshLayers = 40
+GamePref.MaxSpawnedAnimals = 50
+GamePref.MaxSpawnedZombies = 64
+GamePref.MaxUncoveredMapChunksPerPlayer = 524288
+GamePref.NewGameSetDefaults = True
+GamePref.NoGraphicsMode = False
+GamePref.OptionsAllowController = True
+GamePref.OptionsAmbientVolumeLevel = 1
+GamePref.OptionsAudioOcclusion = False
+GamePref.OptionsBackgroundGlobalOpacity = 0.75
+GamePref.OptionsControllerTriggerEffects = False
+GamePref.OptionsControllerVibration = True
+GamePref.OptionsControlsResetRevision = 6
+GamePref.OptionsDisableChunkLODs = False
+GamePref.OptionsDynamicMusicDailyTime = 0.45
+GamePref.OptionsDynamicMusicEnabled = True
+GamePref.OptionsForegroundGlobalOpacity = 1
+GamePref.OptionsGfxAA = 2
+GamePref.OptionsGfxAASharpness = 0
+GamePref.OptionsGfxBloom = True
+GamePref.OptionsGfxBrightness = 0.5
+GamePref.OptionsGfxDOF = False
+GamePref.OptionsGfxDynamicMinFPS = 30
+GamePref.OptionsGfxDynamicMode = 0
+GamePref.OptionsGfxDynamicScale = 1
+GamePref.OptionsGfxFOV = 65
+GamePref.OptionsGfxGameplayResolutionHeight = 0
+GamePref.OptionsGfxGameplayResolutionWidth = 0
+GamePref.OptionsGfxGrassDistance = 2
+GamePref.OptionsGfxLODDistance = 0.5
+GamePref.OptionsGfxMotionBlur = 1
+GamePref.OptionsGfxObjQuality = 2
+GamePref.OptionsGfxOcclusion = True
+GamePref.OptionsGfxQualityPreset = 2
+GamePref.OptionsGfxReflectQuality = 1
+GamePref.OptionsGfxReflectShadows = False
+GamePref.OptionsGfxResetRevision = 3
+GamePref.OptionsGfxResolution = 0
+GamePref.OptionsGfxShadowDistance = 1
+GamePref.OptionsGfxSSAO = True
+GamePref.OptionsGfxSSReflections = 1
+GamePref.OptionsGfxStreamMipmaps = True
+GamePref.OptionsGfxSunShafts = True
+GamePref.OptionsGfxTerrainQuality = 2
+GamePref.OptionsGfxTexFilter = 1
+GamePref.OptionsGfxTexQuality = 1
+GamePref.OptionsGfxTreeDistance = 4
+GamePref.OptionsGfxUMATexQuality = 1
+GamePref.OptionsGfxViewDistance = 6
+GamePref.OptionsGfxVsync = 1
+GamePref.OptionsGfxWaterPtlLimiter = 0.5
+GamePref.OptionsGfxWaterQuality = 1
+GamePref.OptionsHudOpacity = 1
+GamePref.OptionsHudSize = 1
+GamePref.OptionsInterfaceSensitivity = 0.75
+GamePref.OptionsIntroMovieEnabled = True
+GamePref.OptionsInvertMouse = False
+GamePref.OptionsJournalPopup = True
+GamePref.OptionsLiteNetLibMtuOverride = False
+GamePref.OptionsLookSensitivity = 0.5
+GamePref.OptionsMenuMusicVolumeLevel = 0.7
+GamePref.OptionsMicVolumeLevel = 0.75
+GamePref.OptionsMumblePositionalAudioSupport = False
+GamePref.OptionsMusicVolumeLevel = 0.6
+GamePref.OptionsOverallAudioVolumeLevel = 1
+GamePref.OptionsPlayChanceFrequency = 3
+GamePref.OptionsPlayChanceProbability = 0.983
+GamePref.OptionsPlayerModel = playerMale
+GamePref.OptionsPlayerModelTexture = Player/Male/Player_male
+GamePref.OptionsPOICulling = 1
+GamePref.OptionsQuestsAutoAccept = True
+GamePref.OptionsQuestsAutoShare = True
+GamePref.OptionsScreenBoundsValue = 1
+GamePref.OptionsSelectionBoxAlphaMultiplier = 0.4
+GamePref.OptionsShowCompass = True
+GamePref.OptionsShowCrosshair = True
+GamePref.OptionsStabSpawnBlocksOnGround = True
+GamePref.OptionsSubtitlesEnabled = True
+GamePref.OptionsTempCelsius = False
+GamePref.OptionsUiFpsScaling = 1
+GamePref.OptionsVehicleLookSensitivity = 0.5
+GamePref.OptionsVoiceChatEnabled = True
+GamePref.OptionsVoiceInputDevice = 
+GamePref.OptionsVoiceOutputDevice = 
+GamePref.OptionsVoiceVolumeLevel = 0.75
+GamePref.OptionsWeaponAiming = False
+GamePref.OptionsZoomAccel = 0.5
+GamePref.OptionsZoomSensitivity = 0.3
+GamePref.PartySharedKillRange = 100
+GamePref.PersistentPlayerProfiles = False
+GamePref.PlayerAutologin = False
+GamePref.PlayerKillingMode = 2
+GamePref.PlayerName = jamesgreen0795
+GamePref.PlayerSafeZoneHours = 7
+GamePref.PlayerSafeZoneLevel = 5
+GamePref.PlayerToken = 
+GamePref.PlaytestBiome = 3
+GamePref.RebuildMap = False
+GamePref.Region = Europe
+GamePref.SaveDataLimit = -1
+GamePref.SaveGameFolder = C:\Users\james\AppData\Roaming/7DaysToDie/Saves
+GamePref.SelectionContextMode = 0
+GamePref.SelectionOperationMode = 0
+GamePref.ServerAdminSlots = 0
+GamePref.ServerAdminSlotsPermission = 0
+GamePref.ServerDescription = 
+GamePref.ServerDisabledNetworkProtocols = 
+GamePref.ServerHistoryCache = 
+GamePref.ServerIP = 
+GamePref.ServerIsPublic = True
+GamePref.ServerLoginConfirmationText = 
+GamePref.ServerMaxAllowedViewDistance = 12
+GamePref.ServerMaxPlayerCount = 8
+GamePref.ServerMaxWorldTransferSpeedKiBs = 512
+GamePref.ServerName = Default Server
+GamePref.ServerPort = 26900
+GamePref.ServerReservedSlots = 0
+GamePref.ServerReservedSlotsPermission = 100
+GamePref.ServerVisibility = 1
+GamePref.ServerWebsiteURL = 
+GamePref.ShowFriendPlayerOnMap = True
+GamePref.TelnetEnabled = False
+GamePref.TelnetFailedLoginLimit = 10
+GamePref.TelnetFailedLoginsBlocktime = 10
+GamePref.TelnetPort = 25003
+GamePref.TerminalWindowEnabled = True
+GamePref.TwitchBloodMoonAllowed = True
+GamePref.TwitchServerPermission = 90
+GamePref.UNUSED_ControlPanelEnabled = False
+GamePref.UNUSED_ControlPanelPort = 8080
+GamePref.UNUSED_LastLoadedPrefabSize = 
+GamePref.UNUSED_OptionsBloom = 
+GamePref.UNUSED_OptionsDOF = 
+GamePref.UNUSED_OptionsFieldOfViewNew = 
+GamePref.UNUSED_OptionsGamma = 
+GamePref.UNUSED_OptionsMotionBlur = 
+GamePref.UNUSED_OptionsObjectBlur = 
+GamePref.UNUSED_OptionsReflectionBounces = 
+GamePref.UNUSED_OptionsReflectionCullList = 
+GamePref.UNUSED_OptionsReflectionFarClip = 
+GamePref.UNUSED_OptionsReflectionRefreshMode = 
+GamePref.UNUSED_OptionsReflectionShadowDistance = 
+GamePref.UNUSED_OptionsReflectionTimeSlicingMode = 
+GamePref.UNUSED_OptionsSSAO = 
+GamePref.UNUSED_OptionsStreamingMipmapsBudget = 
+GamePref.UNUSED_OptionsSunShafts = 
+GamePref.UNUSED_PlayerId = 
+GamePref.UserDataFolder = C:\Users\james\AppData\Roaming/7DaysToDie
+GamePref.WebDashboardEnabled = False
+GamePref.WebDashboardPort = 8080
+GamePref.WebDashboardUrl = 
+GamePref.WorldGenSeed = 
+GamePref.WorldGenSize = 8192
+GamePref.XPMultiplier = 100
+GamePref.ZombieBMMove = 3
+GamePref.ZombieFeralMove = 3
+GamePref.ZombieFeralSense = 0
+GamePref.ZombieMove = 0
+GamePref.ZombieMoveNight = 3
+GamePref.ZombiePlayers = True
+GameStat.AirDropFrequency = 0
+GameStat.AirDropMarker = True
+GameStat.AllowedViewDistance = 12
+GameStat.AnimalCount = 0
+GameStat.AutoParty = False
+GameStat.BedrollExpiryTime = 45
+GameStat.BlockDamagePlayer = 100
+GameStat.BloodMoonDay = 0
+GameStat.BloodMoonEnemyCount = 8
+GameStat.BloodMoonWarning = 8
+GameStat.ChunkStabilityEnabled = True
+GameStat.CraftTimer = 
+GameStat.CurrentRoundIx = 0
+GameStat.DayLightLength = 18
+GameStat.DayLimitActive = False
+GameStat.DayLimitThisRound = 0
+GameStat.DropOnDeath = 1
+GameStat.DropOnQuit = 0
+GameStat.EnemyCount = 0
+GameStat.EnemyDifficulty = Normal
+GameStat.EnemySpawnMode = True
+GameStat.FragLimitActive = False
+GameStat.FragLimitThisRound = 0
+GameStat.GameDifficulty = 2
+GameStat.GameDifficultyBonus = 1
+GameStat.GameModeId = 0
+GameStat.GameState = 0
+GameStat.GlobalMessageToShow = 
+GameStat.IsCreativeMenuEnabled = False
+GameStat.IsFlyingEnabled = False
+GameStat.IsPlayerCollisionEnabled = True
+GameStat.IsPlayerDamageEnabled = True
+GameStat.IsResetMapOnRestart = False
+GameStat.IsSaveSupplyCrates = True
+GameStat.IsSpawnEnemies = True
+GameStat.IsSpawnNearOtherPlayer = False
+GameStat.IsTeleportEnabled = False
+GameStat.IsVersionCheckDone = False
+GameStat.LandClaimCount = 3
+GameStat.LandClaimDeadZone = 30
+GameStat.LandClaimDecayMode = 0
+GameStat.LandClaimExpiryTime = 3
+GameStat.LandClaimOfflineDelay = 0
+GameStat.LandClaimOfflineDurabilityModifier = 32
+GameStat.LandClaimOnlineDurabilityModifier = 32
+GameStat.LandClaimSize = 41
+GameStat.LoadScene = 
+GameStat.LootTimer = 
+GameStat.OptionsPOICulling = 0
+GameStat.PartySharedKillRange = 100
+GameStat.PlayerKillingMode = KillStrangersOnly
+GameStat.ScoreDiedMultiplier = -5
+GameStat.ScorePlayerKillMultiplier = 1
+GameStat.ScoreZombieKillMultiplier = 1
+GameStat.ShowAllPlayersOnMap = False
+GameStat.ShowFriendPlayerOnMap = True
+GameStat.ShowSpawnWindow = False
+GameStat.ShowWindow = 
+GameStat.TimeLimitActive = False
+GameStat.TimeLimitThisRound = 0
+GameStat.TimeOfDayIncPerSec = 20
+GameStat.TwitchBloodMoonAllowed = True
+GameStat.UNUSED_ShowZombieCounter = 
+GameStat.XPMultiplier = 100
+GameStat.ZombieHordeMeter = False
+2023-10-06T21:47:04 57.581 INF StartAsServer
+2023-10-06T21:47:06 58.763 INF Set Microsplat diffuse: MicroSplatConfig_diff_tarray_1 (UnityEngine.Texture2DArray)
+2023-10-06T21:47:06 58.763 INF Set Microsplat normals: MicroSplatConfig_normal_tarray_1 (UnityEngine.Texture2DArray)
+2023-10-06T21:47:06 58.763 INF Set Microsplat smooth:  MicroSplatConfig_smoothAO_tarray_1 (UnityEngine.Texture2DArray)
+2023-10-06T21:47:06 58.794 INF Loaded (local): materials in 1.18
+2023-10-06T21:47:06 58.894 INF Loaded (local): physicsbodies in 0.10
+2023-10-06T21:47:06 58.961 INF Loaded (local): painting in 0.07
+2023-10-06T21:47:06 59.261 INF Loaded (local): shapes in 0.30
+Unloading 3 Unused Serialized files (Serialized files now loaded: 12)
+2023-10-06T21:50:00 233.413 INF Block IDs with mapping
+2023-10-06T21:50:00 233.428 INF Block IDs total 22097, terr 29, last 22319
+2023-10-06T21:50:00 233.448 INF Loaded (local): blocks in 174.19
+Unloading 65406 unused Assets to reduce memory usage. Loaded Objects now: 120473.
+Total: 501.416900 ms (FindLiveObjects: 17.165700 ms CreateObjectMapping: 22.908900 ms MarkObjects: 411.048900 ms  DeleteObjects: 50.293100 ms)
+
+2023-10-06T21:50:01 234.109 INF Loaded (local): progression in 0.66
+2023-10-06T21:50:02 234.836 INF Loaded (local): buffs in 0.73
+Xbox Trigger Effect: PistolTrigger effect(FeedbackSingle): str(0.8),StartPosition(0),endPos(0),amplitude(0)
+Xbox Trigger Effect: ShotgunTrigger effect(FeedbackSingle): str(0.8),StartPosition(0),endPos(0),amplitude(0)
+Xbox Trigger Effect: RifleTrigger effect(FeedbackSingle): str(0.8),StartPosition(0),endPos(0),amplitude(0)
+Xbox Trigger Effect: PistolShoot effect(FeedbackSingle): str(0.8),StartPosition(0),endPos(0),amplitude(0)
+Xbox Trigger Effect: ShotgunShoot effect(VibrationSingle): str(0.5),StartPosition(0),endPos(0),amplitude(0)
+Xbox Trigger Effect: RifleShoot effect(FeedbackSingle): str(0.8),StartPosition(0),endPos(0),amplitude(0)
+Xbox Trigger Effect: PistolZoom effect(VibrationSingle): str(0.35),StartPosition(0),endPos(0),amplitude(0)
+Xbox Trigger Effect: RifleZoom effect(VibrationSingle): str(0.65),StartPosition(0),endPos(0),amplitude(0)
+2023-10-06T21:50:02 234.942 INF Loaded (local): misc in 0.11
+2023-10-06T21:50:02 235.601 INF Loaded (local): items in 0.66
+2023-10-06T21:50:03 235.775 INF Item IDs with mapping
+2023-10-06T21:50:03 235.776 INF ItemIDs from Mapping
+2023-10-06T21:50:03 235.859 INF Loaded (local): item_modifiers in 0.26
+2023-10-06T21:50:03 236.015 INF Loaded (local): entityclasses in 0.16
+2023-10-06T21:50:03 236.058 INF Loaded (local): qualityinfo in 0.04
+2023-10-06T21:50:03 236.212 INF Loaded (local): sounds in 0.15
+2023-10-06T21:50:03 236.334 INF Loaded (local): recipes in 0.12
+2023-10-06T21:50:03 236.425 INF Loaded (local): blockplaceholders in 0.09
+2023-10-06T21:50:03 236.593 INF Loaded (local): loot in 0.17
+2023-10-06T21:50:04 236.704 INF Loaded (local): entitygroups in 0.11
+2023-10-06T21:50:04 236.792 INF Loaded (local): utilityai in 0.09
+2023-10-06T21:50:04 236.858 INF Loaded (local): vehicles in 0.07
+2023-10-06T21:50:04 236.908 INF Loaded (local): rwgmixer in 0.05
+2023-10-06T21:50:04 237.008 INF Loaded (local): weathersurvival in 0.10
+2023-10-06T21:50:04 237.058 INF Loaded (local): archetypes in 0.05
+2023-10-06T21:50:04 237.209 INF Loaded (local): quests in 0.15
+2023-10-06T21:50:04 237.275 INF Loaded (local): traders in 0.07
+2023-10-06T21:50:04 237.375 INF Loaded (local): npc in 0.10
+2023-10-06T21:50:04 237.442 INF Loaded (local): dialogs in 0.07
+2023-10-06T21:50:04 237.549 INF Loaded (local): ui_display in 0.11
+2023-10-06T21:50:05 237.642 INF Loaded (local): nav_objects in 0.09
+2023-10-06T21:50:05 237.758 INF Loaded (local): gamestages in 0.12
+2023-10-06T21:50:05 238.071 INF Loaded (local): gameevents in 0.31
+2023-10-06T21:50:05 238.196 INF Loaded (local): twitch in 0.12
+2023-10-06T21:50:05 238.258 INF Loaded (local): twitch_events in 0.06
+2023-10-06T21:50:05 238.349 INF Loaded (local): dmscontent in 0.09
+2023-10-06T21:50:05 238.392 INF Loaded (local): XUi_Common/styles in 0.04
+2023-10-06T21:50:05 238.442 INF Loaded (local): XUi_Common/controls in 0.05
+2023-10-06T21:50:05 238.492 INF Loaded (local): XUi/styles in 0.05
+2023-10-06T21:50:05 238.608 INF Loaded (local): XUi/controls in 0.12
+2023-10-06T21:50:06 238.692 INF Loaded (local): XUi/windows in 0.08
+2023-10-06T21:50:06 238.759 INF [XUi] Loading XUi asynchronously
+2023-10-06T21:50:06 238.781 INF Loaded (local): XUi/xui in 0.09
+2023-10-06T21:50:06 239.003 INF Loaded (local): biomes in 0.22
+2023-10-06T21:50:06 239.251 INF Loaded (local): worldglobal in 0.25
+2023-10-06T21:50:06 239.420 INF Loaded (local): spawning in 0.17
+2023-10-06T21:50:06 239.572 INF Loaded (local): loadingscreen in 0.15
+2023-10-06T21:50:07 239.666 INF createWorld: Navezgane, Jammy, GameModeSurvival
+2023-10-06T21:50:07 239.675 INF Occlusion: Enabled
+2023-10-06T21:50:07 239.742 INF Started thread ChunkRegeneration
+2023-10-06T21:50:07 239.745 INF Started thread ChunkCalc
+2023-10-06T21:50:07 239.748 INF Started thread ChunkMeshBake
+2023-10-06T21:50:07 239.814 INF [XUi] Parsing all window groups completed in 840 ms total.
+2023-10-06T21:50:07 239.850 INF World.Load: Navezgane
+2023-10-06T21:50:07 239.860 INF BloodMoon SetDay: day 7, last day 0, freq 7, range 0
+2023-10-06T21:50:07 240.006 INF Started thread WaterSimulationApplyChanges
+2023-10-06T21:50:10 243.077 INF ShapeControllers: 96
+2023-10-06T21:50:12 245.214 INF [XUi] Initialized all window groups completed in 1407 ms total.
+2023-10-06T21:51:23 316.408 INF Started thread GenerateChunks
+2023-10-06T21:51:25 318.356 INF Calculating world hashes took 1881 ms (world size 189 MiB)
+2023-10-06T21:51:25 318.492 INF Loading dtm raw file took 2080ms
+2023-10-06T21:51:26 318.675 INF Biomes image size w= 3072, h = 3072
+2023-10-06T21:51:26 319.481 INF Loading and creating biomes took 989ms
+2023-10-06T21:51:28 321.088 INF Loading and creating shader control textures took 1606ms
+2023-10-06T21:51:28 321.548 INF Loading and parsing of generator took 460ms
+2023-10-06T21:51:28 321.572 INF Computed 401 chunk groups containing a total of 7813 chunks. Largest group contains 462 chunks.
+2023-10-06T21:51:29 321.675 INF Started thread SaveChunks C:\Users\james\AppData\Roaming\7DaysToDie\Saves\Navezgane\Jammy\Region
+2023-10-06T21:51:30 323.623 INF [DECO] read 76442
+2023-10-06T21:51:31 323.717 INF Dynamic Music Initialized on Server
+2023-10-06T21:51:31 323.739 INF Dynamic Music Initialized on Client
+2023-10-06T21:51:31 324.061 INF AstarManager Init
+2023-10-06T21:51:32 324.659 INF WeatherManager: Init 8 weather packages
+2023-10-06T21:51:32 325.348 INF WeatherManager: ApplySavedPackages
+2023-10-06T21:51:32 325.352 INF createWorld() done
+2023-10-06T21:51:32 325.354 INF Loading players.xml
+2023-10-06T21:51:34 326.936 INF Created player with id=171
+2023-10-06T21:51:34 326.951 INF [PartyQuests] Player registered: [type=EntityPlayerLocal, name=jamesgreen0795, id=171]
+2023-10-06T21:51:34 327.033 INF Loaded player
+2023-10-06T21:51:34 327.515 INF VehicleManager C:\Users\james\AppData\Roaming/7DaysToDie/Saves/Navezgane/Jammy/vehicles.dat, loaded 0
+2023-10-06T21:51:34 327.518 INF DroneManager C:\Users\james\AppData\Roaming/7DaysToDie/Saves/Navezgane/Jammy/drones.dat, loaded 0
+2023-10-06T21:51:35 327.946 INF [EOS] Registering server
+2023-10-06T21:51:35 328.238 INF [DECO] written 76442, in 21ms
+2023-10-06T21:51:35 328.242 INF [DECO] write thread 3ms
+2023-10-06T21:51:35 328.322 INF OpenSpawnWindow
+2023-10-06T21:51:38 331.383 INF Loading dymesh settings
+2023-10-06T21:51:38 331.384 INF Dynamic Mesh Settings
+2023-10-06T21:51:38 331.384 INF Use Imposter Values: False
+2023-10-06T21:51:38 331.384 INF Only Player Areas: True
+2023-10-06T21:51:38 331.384 INF Player Area Buffer: 3
+2023-10-06T21:51:38 331.384 INF Max View Distance: 1000
+2023-10-06T21:51:38 331.384 INF Regen all on new world: False
+2023-10-06T21:51:38 331.402 INF Dymesh: Prepping dynamic mesh. Resend Default: True
+2023-10-06T21:51:38 331.402 INF Dymesh: Mesh location: C:\Users\james\AppData\Roaming/7DaysToDie/Saves/Navezgane/Jammy/DynamicMeshes/
+2023-10-06T21:51:38 331.402 INF StartGame done
+2023-10-06T21:51:38 331.473 INF 9996 EntityBackpack id 0, plyrId 176, (0.0, 0.0, 0.0) (0, 0), chunk False (0, 0, 0), items 3 resourceCloth, resourceScrapLead at (0, 0, 0, xz 0 0) : Read
+2023-10-06T21:51:38 331.474 INF 9996 EntityBackpack id 795, plyrId 176, (-705.6, 62.0, 966.8) (-45, 60), chunk True (-45, 3, 60), items 3 resourceCloth, resourceScrapLead at (0, 0, 0, xz 0 0) : Write
+2023-10-06T21:51:38 331.550 INF 9996 EntityBackpack id 795, plyrId 176, (-705.6, 62.0, 966.8) (-45, 60), chunk True (-45, 3, 60), items 3 resourceCloth, resourceScrapLead at (0, 0, 0, xz 0 0) : Start
+2023-10-06T21:51:38 331.565 INF [Steamworks.NET] GameServer.Init successful
+Calling Animator.GotoState on Synchronize layer
+2023-10-06T21:51:39 332.023 INF [EOS] Server registered, session: 09325705115f461fa38efcfaaba37cf0
+2023-10-06T21:51:39 332.028 INF [EOS] Session address: 90.192.121.16
+2023-10-06T21:51:39 332.035 INF [Steamworks.NET] Trying to create Lobby (visibility: k_ELobbyTypeFriendsOnly)
+2023-10-06T21:51:39 332.185 INF Dymesh: Warming dynamic mesh
+2023-10-06T21:51:39 332.185 INF Dymesh: Creating dynamic mesh manager
+2023-10-06T21:51:39 332.188 INF Dymesh: Awake
+2023-10-06T21:51:39 332.188 INF Dymesh: Mesh location: C:\Users\james\AppData\Roaming/7DaysToDie/Saves/Navezgane/Jammy/DynamicMeshes/
+2023-10-06T21:51:39 332.189 INF Dymesh: Loading Items: C:\Users\james\AppData\Roaming/7DaysToDie/Saves/Navezgane/Jammy/DynamicMeshes/
+2023-10-06T21:51:39 332.291 INF Dymesh: Loaded Items: 14
+2023-10-06T21:51:39 332.292 INF Dymesh: Loading all items took: 0.1028346 seconds.
+2023-10-06T21:51:39 332.588 INF Meshlist count is now 1
+2023-10-06T21:51:39 332.588 INF Meshlist count is now 2
+2023-10-06T21:51:39 332.589 INF Force load took 0 seconds
+2023-10-06T21:51:39 332.591 INF Clearing queues.
+2023-10-06T21:51:39 332.591 INF Cleared queues.
+2023-10-06T21:51:39 332.594 INF Dynamic thread starting
+2023-10-06T21:51:39 332.626 INF Dymesh door replacement: imposterBlock
+2023-10-06T21:51:40 332.722 INF [Steamworks.NET] Lobby creation succeeded, LobbyID=109775245181541413, server SteamID=, server public IP=9*.19*.12*.1*, server port=26900
+2023-10-06T21:51:40 332.728 INF [Steamworks.NET] Lobby entered: 109775245181541413
+2023-10-06T21:51:40 332.857 INF [Steamworks.NET] GameServer.LogOn successful, SteamID=90176962151560200, public IP=9*.19*.12*.1*
+2023-10-06T21:51:40 332.861 INF [Steamworks.NET] Exiting Lobby
+2023-10-06T21:51:40 332.861 INF [Steamworks.NET] Trying to create Lobby (visibility: k_ELobbyTypeFriendsOnly)
+2023-10-06T21:51:40 332.910 INF Missing paint ID XML entry: 255 for block 'woodShapes:cube'
+2023-10-06T21:51:40 333.201 INF [Steamworks.NET] Lobby creation succeeded, LobbyID=109775245181541427, server SteamID=90176962151560200, server public IP=9*.19*.12*.1*, server port=26900
+2023-10-06T21:51:40 333.204 INF [Steamworks.NET] Lobby entered: 109775245181541427
+2023-10-06T21:51:42 335.575 INF Respawn almost done
+2023-10-06T21:51:42 335.583 INF PlayerSpawnedInWorld (reason: LoadedGame, position: -712, 74, 920): localplayer
+2023-10-06T21:51:43 335.739 INF 10089+1 Origin Reposition (0.0, 0.0, 0.0) to (-720.0, 64.0, 912.0)
+2023-10-06T21:52:09 362.602 INF Time: 3.29m FPS: 59.80 Heap: 1714.3MB Max: 1714.3MB Chunks: 243 CGO: 160 Ply: 1 Zom: 0 Ent: 2 (2) Items: 1 CO: 1 RSS: 3624.8MB
+2023-10-06T21:52:18 371.143 INF 12030 EntityBackpack id 795, plyrId 176, (-705.6, 62.0, 966.8) (-45, 60), chunk True (-45, 3, 60), items 3 resourceCloth, resourceScrapLead at (0, 0, 0, xz 0 0) : Write
+2023-10-06T21:52:24 377.146 INF [Steamworks.NET] NET: P2PSessionRequest from: 76561197999471059
+2023-10-06T21:52:24 377.210 WRN [SteamServer] Tick took exceptionally long: 48 ms
+2023-10-06T21:52:28 381.194 INF [Steamworks.NET] NET: Received authentication package from 76561197999471059: valid password
+2023-10-06T21:52:28 381.200 INF Started thread NCSteam_Reader_Steam_76561197999471059_0
+2023-10-06T21:52:28 381.205 INF Started thread NCSteam_Writer_Steam_76561197999471059_0
+2023-10-06T21:52:28 381.207 INF Started thread NCSteam_Reader_Steam_76561197999471059_1
+2023-10-06T21:52:28 381.209 INF Started thread NCSteam_Writer_Steam_76561197999471059_1
+2023-10-06T21:52:28 381.211 INF [NET] PlayerConnected EntityID=-1, PltfmId='Steam_76561197999471059', CrossId='<unknown/none>', OwnerID='<unknown/none>', PlayerName='', ClientNumber='1'
+2023-10-06T21:52:28 381.302 INF NPPL.Read
+2023-10-06T21:52:28 381.307 INF PlayerLogin: Dan/Alpha 21.1
+2023-10-06T21:52:28 381.307 INF Client IP: 10.0.169.22
+2023-10-06T21:52:28 381.309 INF [Auth] PlayerName authorization successful: EntityID=-1, PltfmId='Steam_76561197999471059', CrossId='EOS_00026cdf053842ce9059c65e067bc7ff', OwnerID='<unknown/none>', PlayerName='Dan', ClientNumber='1'
+2023-10-06T21:52:28 381.310 INF [Auth] ServerState authorization successful: EntityID=-1, PltfmId='Steam_76561197999471059', CrossId='EOS_00026cdf053842ce9059c65e067bc7ff', OwnerID='<unknown/none>', PlayerName='Dan', ClientNumber='1'
+2023-10-06T21:52:28 381.310 INF [Auth] MpAllowed authorization successful: EntityID=-1, PltfmId='Steam_76561197999471059', CrossId='EOS_00026cdf053842ce9059c65e067bc7ff', OwnerID='<unknown/none>', PlayerName='Dan', ClientNumber='1'
+2023-10-06T21:52:28 381.310 INF [Auth] PlayerId authorization successful: EntityID=-1, PltfmId='Steam_76561197999471059', CrossId='EOS_00026cdf053842ce9059c65e067bc7ff', OwnerID='<unknown/none>', PlayerName='Dan', ClientNumber='1'
+2023-10-06T21:52:28 381.311 INF [Auth] DuplicateUserId authorization successful: EntityID=-1, PltfmId='Steam_76561197999471059', CrossId='EOS_00026cdf053842ce9059c65e067bc7ff', OwnerID='<unknown/none>', PlayerName='Dan', ClientNumber='1'
+2023-10-06T21:52:28 381.311 INF [Auth] VersionCheck authorization successful: EntityID=-1, PltfmId='Steam_76561197999471059', CrossId='EOS_00026cdf053842ce9059c65e067bc7ff', OwnerID='<unknown/none>', PlayerName='Dan', ClientNumber='1'
+2023-10-06T21:52:28 381.313 INF [Auth] PlayerSlots authorization successful: EntityID=-1, PltfmId='Steam_76561197999471059', CrossId='EOS_00026cdf053842ce9059c65e067bc7ff', OwnerID='<unknown/none>', PlayerName='Dan', ClientNumber='1'
+2023-10-06T21:52:28 381.313 INF [Auth] LegacyModAuthorizations authorization successful: EntityID=-1, PltfmId='Steam_76561197999471059', CrossId='EOS_00026cdf053842ce9059c65e067bc7ff', OwnerID='<unknown/none>', PlayerName='Dan', ClientNumber='1'
+2023-10-06T21:52:28 381.314 INF [Steamworks.NET] Auth.AuthenticateUser()
+2023-10-06T21:52:28 381.322 INF [Steamworks.NET] Authenticating player: Dan SteamId: 76561197999471059 TicketLen: 1024 Result: k_EBeginAuthSessionResultOK
+2023-10-06T21:52:29 382.580 INF [Steamworks.NET] Authentication callback. ID: 76561197999471059, owner: 76561197999471059, result: k_EAuthSessionResponseOK
+2023-10-06T21:52:29 382.580 INF [Auth] PlatformAuth authorization successful: EntityID=-1, PltfmId='Steam_76561197999471059', CrossId='EOS_00026cdf053842ce9059c65e067bc7ff', OwnerID='Steam_76561197999471059', PlayerName='Dan', ClientNumber='1'
+2023-10-06T21:52:29 382.581 INF [Auth] SteamFamily authorization successful: EntityID=-1, PltfmId='Steam_76561197999471059', CrossId='EOS_00026cdf053842ce9059c65e067bc7ff', OwnerID='Steam_76561197999471059', PlayerName='Dan', ClientNumber='1'
+2023-10-06T21:52:29 382.582 INF [Auth] Friends authorization successful: EntityID=-1, PltfmId='Steam_76561197999471059', CrossId='EOS_00026cdf053842ce9059c65e067bc7ff', OwnerID='Steam_76561197999471059', PlayerName='Dan', ClientNumber='1'
+2023-10-06T21:52:29 382.583 INF [Auth] SteamGroups authorization successful: EntityID=-1, PltfmId='Steam_76561197999471059', CrossId='EOS_00026cdf053842ce9059c65e067bc7ff', OwnerID='Steam_76561197999471059', PlayerName='Dan', ClientNumber='1'
+2023-10-06T21:52:29 382.584 INF [EOS] Verifying token for 00026cdf053842ce9059c65e067bc7ff
+2023-10-06T21:52:30 382.724 INF [EOS] Device=, Platform=steam, AccType=Steam, AccId=76561197999471059, PUID=00026cdf053842ce9059c65e067bc7ff
+2023-10-06T21:52:30 382.724 INF [Auth] CrossplatformAuth authorization successful: EntityID=-1, PltfmId='Steam_76561197999471059', CrossId='EOS_00026cdf053842ce9059c65e067bc7ff', OwnerID='Steam_76561197999471059', PlayerName='Dan', ClientNumber='1'
+2023-10-06T21:52:30 382.726 INF [Auth] BansAndWhitelist authorization successful: EntityID=-1, PltfmId='Steam_76561197999471059', CrossId='EOS_00026cdf053842ce9059c65e067bc7ff', OwnerID='Steam_76561197999471059', PlayerName='Dan', ClientNumber='1'
+2023-10-06T21:52:30 382.726 INF [Auth] Crossplay authorization successful: EntityID=-1, PltfmId='Steam_76561197999471059', CrossId='EOS_00026cdf053842ce9059c65e067bc7ff', OwnerID='Steam_76561197999471059', PlayerName='Dan', ClientNumber='1'
+2023-10-06T21:52:30 382.731 INF Allowing player with id EOS_00026cdf053842ce9059c65e067bc7ff
+2023-10-06T21:52:30 382.890 INF RequestToEnterGame: EOS_00026cdf053842ce9059c65e067bc7ff/Dan
+2023-10-06T21:52:39 392.573 INF Time: 3.79m FPS: 59.20 Heap: 1772.4MB Max: 1772.4MB Chunks: 243 CGO: 160 Ply: 1 Zom: 0 Ent: 2 (2) Items: 1 CO: 1 RSS: 3699.1MB
+2023-10-06T21:52:54 407.141 INF 14175 EntityBackpack id 795, plyrId 176, (-705.6, 62.0, 966.8) (-45, 60), chunk True (-45, 3, 60), items 3 resourceCloth, resourceScrapLead at (0, 0, 0, xz 0 0) : Write
+2023-10-06T21:53:09 422.589 INF Time: 4.29m FPS: 59.80 Heap: 1791.4MB Max: 1791.4MB Chunks: 243 CGO: 160 Ply: 1 Zom: 0 Ent: 2 (2) Items: 1 CO: 1 RSS: 3685.6MB
+2023-10-06T21:53:30 443.141 INF 16329 EntityBackpack id 795, plyrId 176, (-705.6, 62.0, 966.8) (-45, 60), chunk True (-45, 3, 60), items 3 resourceCloth, resourceScrapLead at (0, 0, 0, xz 0 0) : Write
+2023-10-06T21:53:39 452.559 INF VehicleManager saving 0 (0 + 0)
+2023-10-06T21:53:39 452.560 INF DroneManager saving 0 (0 + 0)
+2023-10-06T21:53:39 452.563 INF VehicleManager saved 9 bytes
+2023-10-06T21:53:39 452.567 INF DroneManager saved 9 bytes
+2023-10-06T21:53:39 452.606 INF Time: 4.79m FPS: 57.21 Heap: 1811.4MB Max: 1811.4MB Chunks: 243 CGO: 160 Ply: 1 Zom: 0 Ent: 2 (2) Items: 1 CO: 1 RSS: 3714.7MB
+2023-10-06T21:53:56 469.140 INF 17869 EntityBackpack id 795, plyrId 176, (-705.6, 62.0, 966.8) (-45, 60), chunk True (-45, 3, 60), items 3 resourceCloth, resourceScrapLead at (0, 0, 0, xz 0 0) : Write
+2023-10-06T21:54:06 478.880 INF RequestToSpawnPlayer: 176, Dan, 7
+2023-10-06T21:54:06 478.885 INF Created player with id=176
+2023-10-06T21:54:06 478.911 INF 18452 EntityBackpack id 795, plyrId 176, (-705.6, 62.0, 966.8) (-45, 60), chunk True (-45, 3, 60), items 3 resourceCloth, resourceScrapLead at (0, 0, 0, xz 0 0) : Write
+2023-10-06T21:54:06 479.540 INF 18484 EntityBackpack id 795, plyrId 176, (-705.6, 62.0, 966.8) (-45, 60), chunk True (-45, 3, 60), items 3 resourceCloth, resourceScrapLead at (0, 0, 0, xz 0 0) : Write
+2023-10-06T21:54:08 480.692 INF Dymesh: Update items to send for Dan id: 176  recieved: 15
+2023-10-06T21:54:08 480.697 INF Dymesh: Items to send: 0   Added: 0   chunks: 14
+Calling Animator.GotoState on Synchronize layer
+2023-10-06T21:54:09 482.623 INF Time: 5.29m FPS: 59.80 Heap: 1843.9MB Max: 1843.9MB Chunks: 307 CGO: 205 Ply: 2 Zom: 0 Ent: 3 (3) Items: 1 CO: 2 RSS: 3764.6MB
+2023-10-06T21:54:11 484.241 INF GMSG: Player 'Dan' joined the game
+2023-10-06T21:54:11 484.243 INF PlayerSpawnedInWorld (reason: JoinMultiplayer, position: -715, 74, 921): EntityID=176, PltfmId='Steam_76561197999471059', CrossId='EOS_00026cdf053842ce9059c65e067bc7ff', OwnerID='Steam_76561197999471059', PlayerName='Dan', ClientNumber='1'
+2023-10-06T21:54:27 500.173 INF [Steamworks.NET] NET: P2PSessionRequest from: 76561197979955412
+2023-10-06T21:54:31 504.055 INF [Steamworks.NET] NET: Received authentication package from 76561197979955412: valid password
+2023-10-06T21:54:31 504.057 INF Started thread NCSteam_Reader_Steam_76561197979955412_0
+2023-10-06T21:54:31 504.061 INF Started thread NCSteam_Writer_Steam_76561197979955412_0
+2023-10-06T21:54:31 504.063 INF Started thread NCSteam_Reader_Steam_76561197979955412_1
+2023-10-06T21:54:31 504.065 INF Started thread NCSteam_Writer_Steam_76561197979955412_1
+2023-10-06T21:54:31 504.065 INF [NET] PlayerConnected EntityID=-1, PltfmId='Steam_76561197979955412', CrossId='<unknown/none>', OwnerID='<unknown/none>', PlayerName='', ClientNumber='2'
+2023-10-06T21:54:31 504.191 INF NPPL.Read
+2023-10-06T21:54:31 504.205 INF PlayerLogin: BicktheFlean/Alpha 21.1
+2023-10-06T21:54:31 504.205 INF Client IP: 192.168.178.61
+2023-10-06T21:54:31 504.205 INF [Auth] PlayerName authorization successful: EntityID=-1, PltfmId='Steam_76561197979955412', CrossId='EOS_0002848d7eeb41258e6e798de8c3cbdd', OwnerID='<unknown/none>', PlayerName='BicktheFlean', ClientNumber='2'
+2023-10-06T21:54:31 504.205 INF [Auth] ServerState authorization successful: EntityID=-1, PltfmId='Steam_76561197979955412', CrossId='EOS_0002848d7eeb41258e6e798de8c3cbdd', OwnerID='<unknown/none>', PlayerName='BicktheFlean', ClientNumber='2'
+2023-10-06T21:54:31 504.205 INF [Auth] MpAllowed authorization successful: EntityID=-1, PltfmId='Steam_76561197979955412', CrossId='EOS_0002848d7eeb41258e6e798de8c3cbdd', OwnerID='<unknown/none>', PlayerName='BicktheFlean', ClientNumber='2'
+2023-10-06T21:54:31 504.205 INF [Auth] PlayerId authorization successful: EntityID=-1, PltfmId='Steam_76561197979955412', CrossId='EOS_0002848d7eeb41258e6e798de8c3cbdd', OwnerID='<unknown/none>', PlayerName='BicktheFlean', ClientNumber='2'
+2023-10-06T21:54:31 504.205 INF [Auth] DuplicateUserId authorization successful: EntityID=-1, PltfmId='Steam_76561197979955412', CrossId='EOS_0002848d7eeb41258e6e798de8c3cbdd', OwnerID='<unknown/none>', PlayerName='BicktheFlean', ClientNumber='2'
+2023-10-06T21:54:31 504.205 INF [Auth] VersionCheck authorization successful: EntityID=-1, PltfmId='Steam_76561197979955412', CrossId='EOS_0002848d7eeb41258e6e798de8c3cbdd', OwnerID='<unknown/none>', PlayerName='BicktheFlean', ClientNumber='2'
+2023-10-06T21:54:31 504.205 INF [Auth] PlayerSlots authorization successful: EntityID=-1, PltfmId='Steam_76561197979955412', CrossId='EOS_0002848d7eeb41258e6e798de8c3cbdd', OwnerID='<unknown/none>', PlayerName='BicktheFlean', ClientNumber='2'
+2023-10-06T21:54:31 504.205 INF [Auth] LegacyModAuthorizations authorization successful: EntityID=-1, PltfmId='Steam_76561197979955412', CrossId='EOS_0002848d7eeb41258e6e798de8c3cbdd', OwnerID='<unknown/none>', PlayerName='BicktheFlean', ClientNumber='2'
+2023-10-06T21:54:31 504.205 INF [Steamworks.NET] Auth.AuthenticateUser()
+2023-10-06T21:54:31 504.205 INF [Steamworks.NET] Authenticating player: BicktheFlean SteamId: 76561197979955412 TicketLen: 1024 Result: k_EBeginAuthSessionResultOK
+2023-10-06T21:54:32 505.142 INF 19991 EntityBackpack id 795, plyrId 176, (-705.6, 62.0, 966.8) (-45, 60), chunk True (-45, 3, 60), items 3 resourceCloth, resourceScrapLead at (0, 0, 0, xz 0 0) : Write
+2023-10-06T21:54:33 506.071 INF [Steamworks.NET] Authentication callback. ID: 76561197979955412, owner: 76561197979955412, result: k_EAuthSessionResponseOK
+2023-10-06T21:54:33 506.071 INF [Auth] PlatformAuth authorization successful: EntityID=-1, PltfmId='Steam_76561197979955412', CrossId='EOS_0002848d7eeb41258e6e798de8c3cbdd', OwnerID='Steam_76561197979955412', PlayerName='BicktheFlean', ClientNumber='2'
+2023-10-06T21:54:33 506.071 INF [Auth] SteamFamily authorization successful: EntityID=-1, PltfmId='Steam_76561197979955412', CrossId='EOS_0002848d7eeb41258e6e798de8c3cbdd', OwnerID='Steam_76561197979955412', PlayerName='BicktheFlean', ClientNumber='2'
+2023-10-06T21:54:33 506.072 INF [Auth] Friends authorization failed: EntityID=-1, PltfmId='Steam_76561197979955412', CrossId='EOS_0002848d7eeb41258e6e798de8c3cbdd', OwnerID='Steam_76561197979955412', PlayerName='BicktheFlean', ClientNumber='2'
+2023-10-06T21:54:33 506.073 INF Kicking player (Friends Only host): EntityID=-1, PltfmId='Steam_76561197979955412', CrossId='EOS_0002848d7eeb41258e6e798de8c3cbdd', OwnerID='Steam_76561197979955412', PlayerName='BicktheFlean', ClientNumber='2'
+2023-10-06T21:54:33 506.593 WRN DynamicMusic: -1 was not in Bloodmoon state cache on disconnect
+2023-10-06T21:54:33 506.593 WRN Client disconnected from dy mesh: Id: -1 Total: 1
+2023-10-06T21:54:33 506.593 WRN Client disconnect complete for -1 Total: 1
+2023-10-06T21:54:33 506.594 INF Player disconnected: EntityID=-1, PltfmId='Steam_76561197979955412', CrossId='EOS_0002848d7eeb41258e6e798de8c3cbdd', OwnerID='Steam_76561197979955412', PlayerName='BicktheFlean', ClientNumber='2'
+2023-10-06T21:54:33 506.594 INF Exited thread NCSteam_Reader_Steam_76561197979955412_1
+2023-10-06T21:54:33 506.594 INF Exited thread NCSteam_Reader_Steam_76561197979955412_0
+2023-10-06T21:54:33 506.594 INF Exited thread NCSteam_Writer_Steam_76561197979955412_0
+2023-10-06T21:54:33 506.594 INF Exited thread NCSteam_Writer_Steam_76561197979955412_1
+2023-10-06T21:54:33 506.599 INF [Steamworks.NET] NET: Connection closed: 76561197979955412
+2023-10-06T21:54:34 506.716 ERR [EOS] Failed unregistering player in session: NoChange
+2023-10-06T21:54:34 506.808 INF [Steamworks.NET] NET: Dropping client: 76561197979955412
+2023-10-06T21:54:40 512.640 INF Time: 5.79m FPS: 58.01 Heap: 1865.2MB Max: 1865.2MB Chunks: 307 CGO: 205 Ply: 2 Zom: 0 Ent: 3 (3) Items: 1 CO: 2 RSS: 3840.9MB
+2023-10-06T21:54:43 515.789 INF SectionType change from None to HomeDay
+2023-10-06T21:54:43 515.792 INF Played HomeDay
+2023-10-06T21:54:43 515.792 INF Fading in HomeDay
+2023-10-06T21:54:43 515.793 INF Notified SectionSelector that music played
+2023-10-06T21:54:46 518.823 INF fadeInCo complete on HomeDay
+2023-10-06T21:54:58 531.140 INF 21525 EntityBackpack id 795, plyrId 176, (-705.6, 62.0, 966.8) (-45, 60), chunk True (-45, 3, 60), items 3 resourceCloth, resourceScrapLead at (0, 0, 0, xz 0 0) : Write
+2023-10-06T21:55:10 542.655 INF Time: 6.29m FPS: 60.00 Heap: 1743.5MB Max: 1865.2MB Chunks: 307 CGO: 205 Ply: 2 Zom: 0 Ent: 3 (3) Items: 1 CO: 2 RSS: 3858.3MB
+2023-10-06T21:55:24 557.140 INF 23052 EntityBackpack id 795, plyrId 176, (-705.6, 62.0, 966.8) (-45, 60), chunk True (-45, 3, 60), items 3 resourceCloth, resourceScrapLead at (0, 0, 0, xz 0 0) : Write
+2023-10-06T21:55:39 572.571 INF VehicleManager saving 0 (0 + 0)
+2023-10-06T21:55:39 572.571 INF DroneManager saving 0 (0 + 0)
+2023-10-06T21:55:39 572.574 INF VehicleManager saved 9 bytes
+2023-10-06T21:55:39 572.578 INF DroneManager saved 9 bytes
+2023-10-06T21:55:40 572.671 INF Time: 6.79m FPS: 60.00 Heap: 1755.4MB Max: 1865.2MB Chunks: 307 CGO: 205 Ply: 2 Zom: 0 Ent: 3 (3) Items: 1 CO: 2 RSS: 3860.6MB
+2023-10-06T21:56:04 596.791 INF 438.8549 SleeperVolume -698, 66, 918: Restoring -692, 66, 921 (-44, 57) 'animalSnake', count 0
+2023-10-06T21:56:06 598.638 INF 440.7049 SleeperVolume -697, 61, 903: Restoring -681, 61, 903 (-43, 56) 'animalZombieDog', count 1
+2023-10-06T21:56:06 598.790 INF 440.8382 SleeperVolume -697, 61, 903: Restoring -697, 61, 908 (-44, 56) 'animalZombieDog', count 1
+2023-10-06T21:56:10 602.689 INF Time: 7.29m FPS: 55.02 Heap: 1782.3MB Max: 1865.2MB Chunks: 339 CGO: 248 Ply: 2 Zom: 3 Ent: 6 (6) Items: 1 CO: 2 RSS: 3890.4MB
+2023-10-06T21:56:14 607.140 INF 25954 EntityBackpack id 795, plyrId 176, (-705.6, 62.0, 966.8) (-45, 60), chunk True (-45, 3, 60), items 3 resourceCloth, resourceScrapLead at (0, 0, 0, xz 0 0) : Write
+2023-10-06T21:56:29 621.939 INF SectionType change from HomeDay to Exploration
+2023-10-06T21:56:29 621.939 INF Fading out HomeDay
+2023-10-06T21:56:29 621.942 INF Loading new config for Exploration...
+2023-10-06T21:56:29 621.944 INF Played Exploration
+2023-10-06T21:56:29 621.944 INF Fading in Exploration
+2023-10-06T21:56:29 621.956 INF Loading new ClipSets for Exploration...
+2023-10-06T21:56:29 622.574 INF Exploration loaded new config and clipsets
+2023-10-06T21:56:32 624.956 INF Paused HomeDay
+2023-10-06T21:56:32 624.957 INF fadeInCo complete on Exploration
+2023-10-06T21:56:40 633.072 INF Time: 7.79m FPS: 59.60 Heap: 1799.7MB Max: 1865.2MB Chunks: 353 CGO: 260 Ply: 2 Zom: 0 Ent: 5 (8) Items: 1 CO: 2 RSS: 3930.5MB
+2023-10-06T21:56:40 633.357 INF [DECO] written 76453, in 20ms
+2023-10-06T21:56:40 633.362 INF [DECO] write thread 3ms
+2023-10-06T21:56:59 652.036 INF [Steamworks.NET] NET: P2PSessionRequest from: 76561197979955412
+2023-10-06T21:57:00 653.330 INF [Steamworks.NET] NET: Received authentication package from 76561197979955412: valid password
+2023-10-06T21:57:00 653.333 INF Started thread NCSteam_Reader_Steam_76561197979955412_0
+2023-10-06T21:57:00 653.336 INF Started thread NCSteam_Reader_Steam_76561197979955412_1
+2023-10-06T21:57:00 653.338 INF [NET] PlayerConnected EntityID=-1, PltfmId='Steam_76561197979955412', CrossId='<unknown/none>', OwnerID='<unknown/none>', PlayerName='', ClientNumber='3'
+2023-10-06T21:57:00 653.338 INF Started thread NCSteam_Writer_Steam_76561197979955412_1
+2023-10-06T21:57:00 653.342 INF Started thread NCSteam_Writer_Steam_76561197979955412_0
+2023-10-06T21:57:01 653.771 INF NPPL.Read
+2023-10-06T21:57:01 653.772 INF PlayerLogin: BicktheFlean/Alpha 21.1
+2023-10-06T21:57:01 653.772 INF Client IP: 192.168.178.61
+2023-10-06T21:57:01 653.772 INF [Auth] PlayerName authorization successful: EntityID=-1, PltfmId='Steam_76561197979955412', CrossId='EOS_0002848d7eeb41258e6e798de8c3cbdd', OwnerID='<unknown/none>', PlayerName='BicktheFlean', ClientNumber='3'
+2023-10-06T21:57:01 653.772 INF [Auth] ServerState authorization successful: EntityID=-1, PltfmId='Steam_76561197979955412', CrossId='EOS_0002848d7eeb41258e6e798de8c3cbdd', OwnerID='<unknown/none>', PlayerName='BicktheFlean', ClientNumber='3'
+2023-10-06T21:57:01 653.772 INF [Auth] MpAllowed authorization successful: EntityID=-1, PltfmId='Steam_76561197979955412', CrossId='EOS_0002848d7eeb41258e6e798de8c3cbdd', OwnerID='<unknown/none>', PlayerName='BicktheFlean', ClientNumber='3'
+2023-10-06T21:57:01 653.772 INF [Auth] PlayerId authorization successful: EntityID=-1, PltfmId='Steam_76561197979955412', CrossId='EOS_0002848d7eeb41258e6e798de8c3cbdd', OwnerID='<unknown/none>', PlayerName='BicktheFlean', ClientNumber='3'
+2023-10-06T21:57:01 653.772 INF [Auth] DuplicateUserId authorization successful: EntityID=-1, PltfmId='Steam_76561197979955412', CrossId='EOS_0002848d7eeb41258e6e798de8c3cbdd', OwnerID='<unknown/none>', PlayerName='BicktheFlean', ClientNumber='3'
+2023-10-06T21:57:01 653.772 INF [Auth] VersionCheck authorization successful: EntityID=-1, PltfmId='Steam_76561197979955412', CrossId='EOS_0002848d7eeb41258e6e798de8c3cbdd', OwnerID='<unknown/none>', PlayerName='BicktheFlean', ClientNumber='3'
+2023-10-06T21:57:01 653.772 INF [Auth] PlayerSlots authorization successful: EntityID=-1, PltfmId='Steam_76561197979955412', CrossId='EOS_0002848d7eeb41258e6e798de8c3cbdd', OwnerID='<unknown/none>', PlayerName='BicktheFlean', ClientNumber='3'
+2023-10-06T21:57:01 653.772 INF [Auth] LegacyModAuthorizations authorization successful: EntityID=-1, PltfmId='Steam_76561197979955412', CrossId='EOS_0002848d7eeb41258e6e798de8c3cbdd', OwnerID='<unknown/none>', PlayerName='BicktheFlean', ClientNumber='3'
+2023-10-06T21:57:01 653.772 INF [Steamworks.NET] Auth.AuthenticateUser()
+2023-10-06T21:57:01 653.772 INF [Steamworks.NET] Authenticating player: BicktheFlean SteamId: 76561197979955412 TicketLen: 1024 Result: k_EBeginAuthSessionResultOK
+2023-10-06T21:57:02 655.138 INF 28758 EntityBackpack id 795, plyrId 176, (-705.6, 62.0, 966.8) (-45, 60), chunk True (-45, 3, 60), items 3 resourceCloth, resourceScrapLead at (0, 0, 0, xz 0 0) : Write
+2023-10-06T21:57:02 655.173 INF [Steamworks.NET] Authentication callback. ID: 76561197979955412, owner: 76561197979955412, result: k_EAuthSessionResponseOK
+2023-10-06T21:57:02 655.173 INF [Auth] PlatformAuth authorization successful: EntityID=-1, PltfmId='Steam_76561197979955412', CrossId='EOS_0002848d7eeb41258e6e798de8c3cbdd', OwnerID='Steam_76561197979955412', PlayerName='BicktheFlean', ClientNumber='3'
+2023-10-06T21:57:02 655.173 INF [Auth] SteamFamily authorization successful: EntityID=-1, PltfmId='Steam_76561197979955412', CrossId='EOS_0002848d7eeb41258e6e798de8c3cbdd', OwnerID='Steam_76561197979955412', PlayerName='BicktheFlean', ClientNumber='3'
+2023-10-06T21:57:02 655.173 INF [Auth] Friends authorization successful: EntityID=-1, PltfmId='Steam_76561197979955412', CrossId='EOS_0002848d7eeb41258e6e798de8c3cbdd', OwnerID='Steam_76561197979955412', PlayerName='BicktheFlean', ClientNumber='3'
+2023-10-06T21:57:02 655.173 INF [Auth] SteamGroups authorization successful: EntityID=-1, PltfmId='Steam_76561197979955412', CrossId='EOS_0002848d7eeb41258e6e798de8c3cbdd', OwnerID='Steam_76561197979955412', PlayerName='BicktheFlean', ClientNumber='3'
+2023-10-06T21:57:02 655.173 INF [EOS] Verifying token for 0002848d7eeb41258e6e798de8c3cbdd
+2023-10-06T21:57:02 655.387 INF [EOS] Device=, Platform=steam, AccType=Steam, AccId=76561197979955412, PUID=0002848d7eeb41258e6e798de8c3cbdd
+2023-10-06T21:57:02 655.387 INF [Auth] CrossplatformAuth authorization successful: EntityID=-1, PltfmId='Steam_76561197979955412', CrossId='EOS_0002848d7eeb41258e6e798de8c3cbdd', OwnerID='Steam_76561197979955412', PlayerName='BicktheFlean', ClientNumber='3'
+2023-10-06T21:57:02 655.387 INF [Auth] BansAndWhitelist authorization successful: EntityID=-1, PltfmId='Steam_76561197979955412', CrossId='EOS_0002848d7eeb41258e6e798de8c3cbdd', OwnerID='Steam_76561197979955412', PlayerName='BicktheFlean', ClientNumber='3'
+2023-10-06T21:57:02 655.387 INF [Auth] Crossplay authorization successful: EntityID=-1, PltfmId='Steam_76561197979955412', CrossId='EOS_0002848d7eeb41258e6e798de8c3cbdd', OwnerID='Steam_76561197979955412', PlayerName='BicktheFlean', ClientNumber='3'
+2023-10-06T21:57:02 655.391 INF Allowing player with id EOS_0002848d7eeb41258e6e798de8c3cbdd
+2023-10-06T21:57:02 655.587 INF RequestToEnterGame: EOS_0002848d7eeb41258e6e798de8c3cbdd/BicktheFlean
+2023-10-06T21:57:07 659.687 INF 501.3876 SleeperVolume -698, 66, 918: Restoring -692, 66, 921 (-44, 57) 'animalSnake', count 0
+2023-10-06T21:57:09 662.137 INF 503.8376 SleeperVolume -697, 61, 903: Restoring -681, 61, 903 (-43, 56) 'animalZombieDog', count 1
+2023-10-06T21:57:09 662.237 INF 503.9376 SleeperVolume -697, 61, 903: Restoring -697, 61, 908 (-44, 56) 'animalZombieDog', count 2
+2023-10-06T21:57:10 663.088 INF Time: 8.29m FPS: 59.00 Heap: 1851.3MB Max: 1865.2MB Chunks: 381 CGO: 304 Ply: 2 Zom: 2 Ent: 8 (11) Items: 1 CO: 2 RSS: 3968.2MB
+2023-10-06T21:57:32 684.956 INF Stopped HomeDay
+2023-10-06T21:57:32 684.956 INF fadeOutCo complete on HomeDay
+2023-10-06T21:57:33 685.688 INF 30575 EntityBackpack id 795, plyrId 176, (-705.6, 62.0, 966.8) (-45, 60), chunk True (-45, 3, 60), items 3 resourceCloth, resourceScrapLead at (0, 0, 0, xz 0 0) : OnEntityUnload markedForUnload False, IsDead True, IsDespawned False
+2023-10-06T21:57:33 685.744 INF 0 EntityBackpack id 795, plyrId 176, (-705.6, 62.0, 966.8) (-45, 60), chunk True (-45, 3, 60), items 3 resourceCloth, resourceScrapLead at (0, 0, 0, xz 0 0) : Write
+2023-10-06T21:57:40 692.636 INF RequestToSpawnPlayer: 882, BicktheFlean, 7
+2023-10-06T21:57:40 692.639 INF Created player with id=882
+2023-10-06T21:57:40 692.953 INF VehicleManager saving 0 (0 + 0)
+2023-10-06T21:57:40 692.954 INF DroneManager saving 0 (0 + 0)
+2023-10-06T21:57:40 692.955 INF VehicleManager saved 9 bytes
+2023-10-06T21:57:40 692.957 INF DroneManager saved 9 bytes
+2023-10-06T21:57:40 693.104 INF Time: 8.79m FPS: 59.60 Heap: 1886.6MB Max: 1886.6MB Chunks: 381 CGO: 252 Ply: 3 Zom: 0 Ent: 6 (13) Items: 1 CO: 3 RSS: 3974.5MB
+2023-10-06T21:57:40 693.406 INF [DECO] written 76462, in 18ms
+2023-10-06T21:57:40 693.410 INF [DECO] write thread 4ms
+2023-10-06T21:57:41 694.404 INF Dymesh: Update items to send for BicktheFlean id: 882  recieved: 0
+2023-10-06T21:57:41 694.407 INF Dymesh: Items to send: 0   Added: 14   chunks: 14
+Calling Animator.GotoState on Synchronize layer
+2023-10-06T21:57:44 697.287 INF GMSG: Player 'BicktheFlean' joined the game
+2023-10-06T21:57:44 697.287 INF PlayerSpawnedInWorld (reason: EnterMultiplayer, position: -1972, 81, 1041): EntityID=882, PltfmId='Steam_76561197979955412', CrossId='EOS_0002848d7eeb41258e6e798de8c3cbdd', OwnerID='Steam_76561197979955412', PlayerName='BicktheFlean', ClientNumber='3'
+2023-10-06T21:58:10 723.120 INF Time: 9.29m FPS: 59.20 Heap: 1826.2MB Max: 1886.6MB Chunks: 691 CGO: 365 Ply: 3 Zom: 0 Ent: 11 (13) Items: 0 CO: 3 RSS: 4058.6MB
+2023-10-06T21:58:32 745.108 WRN [EOS] [LogEOSRTC - Warning] EOS_RTCAudio_SetAudioOutputSettings is deprecated. Use EOS_RTCAudio_SetOutputDeviceSettings instead.
+2023-10-06T21:58:32 745.134 WRN [EOS] [LogEOSRTC - Warning] EOS_RTCAudio_SetAudioInputSettings is deprecated. Use EOS_RTCAudio_SetInputDeviceSettings instead.
+2023-10-06T21:58:32 745.558 INF [PartyQuests] Auto-sharing quest with new party: id=tier1_clear, code=-1439404784, name=Tier 1 Clear, POI Mushroom Mining Co.
+2023-10-06T21:58:32 745.559 INF [PartyQuests] Shared with party member Dan
+2023-10-06T21:58:33 745.672 INF Received shared quest: questCode=-1354459778, id=tier1_buried_supplies, POI UNNAMED
+2023-10-06T21:58:33 745.673 INF [PartyQuests] Received shared quest from Dan: id=tier1_buried_supplies, code=-1354459778, name=Tier 1 Buried Supplies, POI poi
+2023-10-06T21:58:33 746.154 INF [EOS-Voice] Joining lobby
+2023-10-06T21:58:33 746.155 INF [EOS-Voice] Trying to find lobby for id a28e6f72dbca482fb71537eb6dd4259f, attempt 1
+2023-10-06T21:58:33 746.526 INF [EOS-Voice] Found lobby: a28e6f72dbca482fb71537eb6dd4259f
+2023-10-06T21:58:33 746.529 INF [EOS-Voice] Found lobby on 1 attempt
+2023-10-06T21:58:34 747.424 WRN [EOS] [LogEOSRTC - Warning] RTCAudio Applying of volume has no effect when AGC is enabled. LocalProductUserId=[000...55f] RoomName=[conf+1600983045]
+2023-10-06T21:58:36 748.778 INF [EOS-Voice] Blocking user: EOS_00026cdf053842ce9059c65e067bc7ff = False
+2023-10-06T21:58:40 753.138 INF Time: 9.79m FPS: 57.61 Heap: 1851.8MB Max: 1886.6MB Chunks: 749 CGO: 426 Ply: 3 Zom: 0 Ent: 12 (15) Items: 0 CO: 3 RSS: 4116.1MB
+2023-10-06T21:58:40 753.456 INF [DECO] written 76472, in 18ms
+2023-10-06T21:58:40 753.460 INF [DECO] write thread 4ms
+2023-10-06T21:58:47 759.735 INF 34945+1 Origin Reposition (-720.0, 64.0, 912.0) to (-736.0, 48.0, 640.0)
+2023-10-06T21:59:10 783.154 INF Time: 10.29m FPS: 58.01 Heap: 1887.8MB Max: 1887.8MB Chunks: 786 CGO: 449 Ply: 3 Zom: 0 Ent: 12 (15) Items: 0 CO: 3 RSS: 4162.2MB
+2023-10-06T21:59:17 790.289 INF Mixer IsFinished: True
+ AudioSource is not playing: False
+ IsPaused: False
+ IsPlaying: True
+2023-10-06T21:59:17 790.297 INF Stopped Exploration
+2023-10-06T21:59:17 790.299 INF unloaded ClipSets on Exploration
+2023-10-06T21:59:17 790.337 INF Notified SectionSelector that music stopped
+2023-10-06T21:59:17 790.337 INF SectionType change from Exploration to None
+2023-10-06T21:59:40 812.970 INF VehicleManager saving 0 (0 + 0)
+2023-10-06T21:59:40 812.970 INF DroneManager saving 0 (0 + 0)
+2023-10-06T21:59:40 812.973 INF VehicleManager saved 9 bytes
+2023-10-06T21:59:40 812.977 INF DroneManager saved 9 bytes
+2023-10-06T21:59:40 813.171 INF Time: 10.79m FPS: 58.81 Heap: 1926.2MB Max: 1926.2MB Chunks: 818 CGO: 433 Ply: 3 Zom: 0 Ent: 12 (21) Items: 2 CO: 4 RSS: 4167.7MB
+2023-10-06T21:59:40 813.506 INF [DECO] written 76474, in 18ms
+2023-10-06T21:59:40 813.510 INF [DECO] write thread 3ms
+2023-10-06T21:59:43 816.378 WRN Entity [type=EntityItem, name=resourceClayLump, cnt=44] fell off the world, id=893 pos=(-669.2, -0.9, 817.2)
+2023-10-06T22:00:10 843.187 INF Time: 11.29m FPS: 56.61 Heap: 1969.6MB Max: 1969.6MB Chunks: 818 CGO: 440 Ply: 3 Zom: 2 Ent: 13 (27) Items: 2 CO: 4 RSS: 4219.7MB
+2023-10-06T22:00:17 849.789 INF 691.4855 SleeperVolume -857, 60, 626: Spawning -854, 63, 636 (-54, 39), group 'zombieLumberjack', class zombieLumberjack, count 2
+2023-10-06T22:00:31 863.938 INF 705.6354 SleeperVolume -862, 60, 628: Spawning -861, 72, 630 (-54, 39), group 'zombieDarlene', class zombieDarlene, count 3
+2023-10-06T22:00:37 870.237 INF 711.9352 SleeperVolume -2085, 88, 1007: Spawning -2085, 88, 1007 (-131, 62), group 'sleeperHordeStageGS1', class zombieJanitor, count 6
+2023-10-06T22:00:37 870.260 INF 711.9352 SleeperVolume -2088, 84, 1004: Spawning -2088, 84, 1004 (-131, 62), group 'sleeperHordeStageGS1', class zombieBusinessMan, count 6
+2023-10-06T22:00:37 870.340 INF 712.0353 SleeperVolume -2088, 84, 1004: Spawning -2082, 84, 1009 (-131, 63), group 'sleeperHordeStageGS1', class zombieArlene, count 6
+2023-10-06T22:00:37 870.439 INF 712.1353 SleeperVolume -2073, 85, 1002: Spawning -2071, 85, 1009 (-130, 63), group 'zombieUtilityWorker', class zombieUtilityWorker, count 6
+2023-10-06T22:00:38 871.437 INF 713.1353 SleeperVolume -2081, 84, 994: Spawning -2077, 84, 1000 (-130, 62), group 'zombieJanitor', class zombieJanitor, count 10
+2023-10-06T22:00:39 872.208 INF 713.902 SleeperVolume -861, 60, 634: Spawning -859, 63, 636 (-54, 39), group 'zombieArlene', class zombieArlene, count 12
+2023-10-06T22:00:40 873.204 INF Time: 11.79m FPS: 56.21 Heap: 1880.8MB Max: 1969.6MB Chunks: 818 CGO: 460 Ply: 3 Zom: 13 Ent: 25 (34) Items: 0 CO: 3 RSS: 4282.9MB
+2023-10-06T22:00:40 873.564 INF [DECO] written 76478, in 18ms
+2023-10-06T22:00:40 873.568 INF [DECO] write thread 4ms
+2023-10-06T22:01:10 903.218 INF Time: 12.29m FPS: 57.81 Heap: 1894.4MB Max: 1969.6MB Chunks: 818 CGO: 461 Ply: 3 Zom: 13 Ent: 25 (34) Items: 0 CO: 3 RSS: 4445.4MB
+2023-10-06T22:01:13 905.957 INF Entity zombieUtilityWorker 912 killed by BicktheFlean 882
+2023-10-06T22:01:24 916.740 INF 758.4348 SleeperVolume -2089, 89, 994: Spawning -2079, 89, 998 (-130, 62), group 'zombieUtilityWorker', class zombieUtilityWorker, count 14
+2023-10-06T22:01:24 916.841 INF 758.5348 SleeperVolume -2089, 89, 994: Spawning -2087, 89, 1007 (-131, 62), group 'VultureGroup', class animalZombieVulture, count 14
+2023-10-06T22:01:30 923.374 INF Entity animalZombieVulture 921 killed by BicktheFlean 882
+2023-10-06T22:01:40 932.990 INF VehicleManager saving 0 (0 + 0)
+2023-10-06T22:01:40 932.990 INF DroneManager saving 0 (0 + 0)
+2023-10-06T22:01:40 932.993 INF VehicleManager saved 9 bytes
+2023-10-06T22:01:40 932.997 INF DroneManager saved 9 bytes
+2023-10-06T22:01:40 933.255 INF Time: 12.79m FPS: 55.02 Heap: 1912.3MB Max: 1969.6MB Chunks: 822 CGO: 468 Ply: 3 Zom: 15 Ent: 32 (41) Items: 0 CO: 3 RSS: 4439.2MB
+2023-10-06T22:01:41 933.632 INF [DECO] written 76478, in 17ms
+2023-10-06T22:01:41 933.636 INF [DECO] write thread 4ms
+2023-10-06T22:01:51 944.154 INF 45579 EntityBackpack id 0, plyrId 176, (0.0, 0.0, 0.0) (0, 0), chunk False (0, 0, 0), items 3 resourceCloth, resourceScrapLead at (0, 0, 0, xz 0 0) : Read
+2023-10-06T22:01:51 944.158 INF 45579 EntityBackpack id 795, plyrId 176, (-705.6, 62.0, 966.8) (-45, 60), chunk True (-45, 3, 60), items 3 resourceCloth, resourceScrapLead at (0, 0, 0, xz 0 0) : Start
+2023-10-06T22:01:51 944.192 INF 45581 EntityBackpack id 795, plyrId 176, (-705.6, 62.0, 966.8) (-45, 60), chunk True (-45, 3, 60), items 3 resourceCloth, resourceScrapLead at (0, 0, 0, xz 0 0) : Write
+2023-10-06T22:01:52 945.390 INF zombieJoe SpawnLimbGore loaded preafab in asset bundle. path: @:Entities/Zombies/Dismemberment/Joe/Blunt/Head.prefab
+2023-10-06T22:01:52 945.393 INF Entity zombieJoe 897 killed by jamesgreen0795 171
+2023-10-06T22:01:58 950.954 INF 792.6511 SleeperVolume -861, 60, 634: Restoring -859, 63, 636 (-54, 39) 'zombieArlene', count 15
+2023-10-06T22:02:10 962.837 INF 804.5342 SleeperVolume -697, 61, 903: Restoring -697, 61, 908 (-44, 56) 'animalZombieDog', count 17
+2023-10-06T22:02:10 962.937 INF 804.6342 SleeperVolume -697, 61, 903: Restoring -681, 61, 903 (-43, 56) 'animalZombieDog', count 17
+2023-10-06T22:02:10 963.274 INF Time: 13.29m FPS: 50.79 Heap: 1935.1MB Max: 1969.6MB Chunks: 836 CGO: 436 Ply: 3 Zom: 19 Ent: 37 (50) Items: 1 CO: 3 RSS: 4475.7MB
+2023-10-06T22:02:11 964.537 INF 46649 EntityBackpack id 795, plyrId 176, (-705.6, 62.0, 966.8) (-45, 60), chunk True (-45, 3, 60), items 3 resourceCloth, resourceScrapLead at (0, 0, 0, xz 0 0) : Write
+2023-10-06T22:02:14 966.972 INF Entity zombieUtilityWorker 920 killed by BicktheFlean 882
+2023-10-06T22:02:14 967.437 INF 809.1342 SleeperVolume -698, 66, 918: Restoring -692, 66, 921 (-44, 57) 'animalSnake', count 18
+2023-10-06T22:02:29 982.385 INF SectionType change from None to Exploration
+2023-10-06T22:02:29 982.385 INF Loading new config for Exploration...
+2023-10-06T22:02:29 982.386 INF Played Exploration
+2023-10-06T22:02:29 982.386 INF Fading in Exploration
+2023-10-06T22:02:29 982.386 INF Notified SectionSelector that music played
+2023-10-06T22:02:29 982.405 INF Loading new ClipSets for Exploration...
+2023-10-06T22:02:30 982.968 INF Exploration loaded new config and clipsets
+Calling Animator.GotoState on Synchronize layer
+2023-10-06T22:02:32 985.422 INF fadeInCo complete on Exploration
+2023-10-06T22:02:41 993.636 INF Time: 13.79m FPS: 57.21 Heap: 1966.0MB Max: 1969.6MB Chunks: 836 CGO: 384 Ply: 3 Zom: 15 Ent: 32 (58) Items: 3 CO: 3 RSS: 4482.5MB
+2023-10-06T22:02:41 994.009 INF [DECO] written 76481, in 18ms
+2023-10-06T22:02:41 994.014 INF [DECO] write thread 5ms
+2023-10-06T22:03:11 1023.652 INF Time: 14.29m FPS: 58.80 Heap: 1999.3MB Max: 1999.3MB Chunks: 836 CGO: 378 Ply: 3 Zom: 13 Ent: 28 (58) Items: 3 CO: 3 RSS: 4487.9MB
+2023-10-06T22:03:15 1027.956 INF zombieYo SpawnLimbGore loaded preafab in asset bundle. path: @:Entities/Zombies/Dismemberment/Yo/Blunt/LeftUpperArm.prefab
+2023-10-06T22:03:15 1027.960 INF Entity zombieYo 895 killed by jamesgreen0795 171
+2023-10-06T22:03:38 1050.839 INF 892.1833 SleeperVolume -857, 60, 626: Restoring -854, 63, 636 (-54, 39) 'zombieLumberjack', count 10
+2023-10-06T22:03:38 1051.489 INF 892.8333 SleeperVolume -862, 60, 628: Restoring -861, 72, 630 (-54, 39) 'zombieDarlene', count 11
+2023-10-06T22:03:40 1053.360 INF VehicleManager saving 0 (0 + 0)
+2023-10-06T22:03:40 1053.360 INF DroneManager saving 0 (0 + 0)
+2023-10-06T22:03:40 1053.362 INF VehicleManager saved 9 bytes
+2023-10-06T22:03:40 1053.366 INF DroneManager saved 9 bytes
+2023-10-06T22:03:41 1053.676 INF Time: 14.79m FPS: 53.82 Heap: 1914.7MB Max: 1999.3MB Chunks: 836 CGO: 389 Ply: 3 Zom: 11 Ent: 27 (56) Items: 1 CO: 3 RSS: 4536.2MB
+2023-10-06T22:03:41 1053.946 INF SectionType change from Exploration to Suspense
+2023-10-06T22:03:41 1053.947 INF Fading out Exploration
+2023-10-06T22:03:41 1053.947 INF Loading new config for Suspense...
+2023-10-06T22:03:41 1053.947 INF Played Suspense
+2023-10-06T22:03:41 1053.947 INF Fading in Suspense
+2023-10-06T22:03:41 1053.947 INF 895.2832 SleeperVolume -861, 60, 634: Restoring -859, 63, 636 (-54, 39) 'zombieArlene', count 11
+2023-10-06T22:03:41 1053.978 INF Loading new ClipSets for Suspense...
+2023-10-06T22:03:41 1054.373 INF Suspense loaded new config and clipsets
+2023-10-06T22:03:41 1054.507 INF [DECO] written 76481, in 19ms
+2023-10-06T22:03:41 1054.511 INF [DECO] write thread 4ms
+2023-10-06T22:03:42 1055.537 INF 896.7332 SleeperVolume -2089, 84, 996: Spawning -2089, 84, 1001 (-131, 62), group 'sleeperHordeStageGS1', class zombieSteveCrawler, count 12
+2023-10-06T22:03:42 1055.538 WRN Spawn zombieSteveCrawler can't walk on block sleeperIdle with walkType 21
+2023-10-06T22:03:43 1055.638 INF 896.8332 SleeperVolume -2089, 84, 996: Spawning -2088, 84, 1001 (-131, 62), group 'sleeperHordeStageGS1', class zombieTomClark, count 12
+2023-10-06T22:03:44 1056.971 INF Paused Exploration
+2023-10-06T22:03:44 1056.971 INF fadeInCo complete on Suspense
+2023-10-06T22:03:58 1071.388 INF AIAirDrop: Computed flight paths for 1 aircraft.
+2023-10-06T22:03:58 1071.388 INF AIAirDrop: Waiting for supply crate chunk locations to load...
+2023-10-06T22:03:59 1071.736 INF 912.933 SleeperVolume -2085, 88, 1007: Restoring -2085, 88, 1007 (-131, 62) 'zombieJanitor', count 13
+2023-10-06T22:03:59 1071.740 INF 912.933 SleeperVolume -2088, 84, 1004: Restoring -2082, 84, 1009 (-131, 63) 'zombieArlene', count 13
+2023-10-06T22:03:59 1071.853 INF 913.0497 SleeperVolume -2088, 84, 1004: Restoring -2088, 84, 1004 (-131, 62) 'zombieBusinessMan', count 13
+2023-10-06T22:04:04 1077.088 INF AIAirDrop: Spawned aircraft at ((202.6, 243.6, 168.5)), heading ((-0.9, 0.5))
+2023-10-06T22:04:08 1081.211 INF AIAirDrop: Spawned supply crate at (-237.4, 233.6, 408.0), plane is at (-234.79, 243.56, 406.59)
+2023-10-06T22:04:08 1081.523 INF [PartyQuests] Auto-sharing quest with new party: id=tier1_clear, code=-1439404784, name=Tier 1 Clear, POI Mushroom Mining Co.
+2023-10-06T22:04:08 1081.523 INF [PartyQuests] Not sharing with party member Dan, already shared
+2023-10-06T22:04:08 1081.523 INF [PartyQuests] Shared with party member BicktheFlean
+2023-10-06T22:04:10 1083.090 INF [EOS-Voice] Blocking user: EOS_0002848d7eeb41258e6e798de8c3cbdd = False
+2023-10-06T22:04:11 1083.843 INF Time: 15.29m FPS: 52.43 Heap: 1929.5MB Max: 1999.3MB Chunks: 914 CGO: 402 Ply: 3 Zom: 16 Ent: 34 (64) Items: 1 CO: 4 RSS: 4024.5MB
+2023-10-06T22:04:41 1113.864 INF Time: 15.79m FPS: 51.03 Heap: 1945.5MB Max: 1999.3MB Chunks: 916 CGO: 395 Ply: 3 Zom: 14 Ent: 31 (64) Items: 1 CO: 4 RSS: 3962.2MB
+2023-10-06T22:04:44 1116.992 INF Stopped Exploration
+2023-10-06T22:04:44 1116.992 INF fadeOutCo complete on Exploration
+2023-10-06T22:04:44 1116.992 INF Mixer IsFinished: False
+ AudioSource is not playing: True
+ IsPaused: False
+ IsPlaying: False
+2023-10-06T22:04:44 1116.992 INF unloaded ClipSets on Exploration
+2023-10-06T22:04:47 1119.885 INF SectionType change from Suspense to Exploration
+2023-10-06T22:04:47 1119.885 INF Fading out Suspense
+2023-10-06T22:04:47 1119.885 INF Loading new config for Exploration...
+2023-10-06T22:04:47 1119.885 INF Played Exploration
+2023-10-06T22:04:47 1119.885 INF Fading in Exploration
+2023-10-06T22:04:47 1119.903 INF Loading new ClipSets for Exploration...
+2023-10-06T22:04:47 1120.111 INF Exploration loaded new config and clipsets
+2023-10-06T22:04:50 1122.904 INF Paused Suspense
+2023-10-06T22:04:50 1122.905 INF fadeInCo complete on Exploration
+2023-10-06T22:04:53 1125.734 INF Entity zombieLumberjack 940 killed by jamesgreen0795 171
+2023-10-06T22:05:07 1140.437 INF 981.6322 SleeperVolume -861, 60, 634: Restoring -859, 63, 636 (-54, 39) 'zombieArlene', count 12
+2023-10-06T22:05:08 1140.636 INF SectionType change from Exploration to Suspense
+2023-10-06T22:05:08 1140.636 INF Fading out Exploration
+2023-10-06T22:05:08 1140.637 INF Unpaused Suspense
+2023-10-06T22:05:08 1140.637 INF Fading in Suspense
+2023-10-06T22:05:11 1143.677 INF Paused Exploration
+2023-10-06T22:05:11 1143.677 INF fadeInCo complete on Suspense
+2023-10-06T22:05:11 1143.868 INF Time: 16.29m FPS: 55.81 Heap: 1963.4MB Max: 1999.3MB Chunks: 916 CGO: 402 Ply: 3 Zom: 13 Ent: 28 (65) Items: 1 CO: 4 RSS: 3960.0MB
+2023-10-06T22:05:17 1149.667 INF Entity zombieArlene 950 killed by jamesgreen0795 171
+2023-10-06T22:05:21 1153.799 INF 994.9987 SleeperVolume -2089, 84, 996: Restoring -2088, 84, 1001 (-131, 62) 'zombieTomClark', count 12
+2023-10-06T22:05:40 1173.516 INF VehicleManager saving 0 (0 + 0)
+2023-10-06T22:05:40 1173.518 INF DroneManager saving 0 (0 + 0)
+2023-10-06T22:05:40 1173.519 INF DroneManager saved 9 bytes
+2023-10-06T22:05:40 1173.521 INF VehicleManager saved 9 bytes
+2023-10-06T22:05:41 1173.883 INF Time: 16.79m FPS: 58.61 Heap: 1990.4MB Max: 1999.3MB Chunks: 916 CGO: 384 Ply: 3 Zom: 13 Ent: 26 (66) Items: 1 CO: 3 RSS: 3964.5MB
+2023-10-06T22:05:51 1183.949 INF 1025.148 SleeperVolume -2081, 84, 994: Restoring -2077, 84, 1000 (-130, 62) 'zombieJanitor', count 12
+2023-10-06T22:05:51 1184.050 INF 1025.248 SleeperVolume -2081, 84, 994: Spawning -2078, 84, 1001 (-130, 62), group 'zombieJanitor', class zombieJanitor, count 12
+2023-10-06T22:05:58 1191.044 INF Entity animalChicken 938 killed
+2023-10-06T22:06:11 1203.700 INF Stopped Exploration
+2023-10-06T22:06:11 1203.700 INF fadeOutCo complete on Exploration
+2023-10-06T22:06:11 1203.700 INF Mixer IsFinished: False
+ AudioSource is not playing: True
+ IsPaused: False
+ IsPlaying: False
+2023-10-06T22:06:11 1203.700 INF unloaded ClipSets on Exploration
+2023-10-06T22:06:11 1203.908 INF Time: 17.29m FPS: 57.01 Heap: 2021.5MB Max: 2021.5MB Chunks: 916 CGO: 398 Ply: 3 Zom: 8 Ent: 21 (70) Items: 3 CO: 3 RSS: 3981.0MB
+2023-10-06T22:06:38 1230.849 INF 1072.048 SleeperVolume -1937, 80, 1011: Spawning -1936, 83, 1015 (-121, 63), group 'zombieYo', class zombieYo, count 4
+2023-10-06T22:06:39 1231.749 INF 1072.948 SleeperVolume -1935, 80, 1010: Spawning -1934, 88, 1010 (-121, 63), group 'zombieSteveCrawler', class zombieSteveCrawler, count 5
+2023-10-06T22:06:40 1233.097 INF 1074.298 SleeperVolume -698, 66, 918: Restoring -692, 66, 921 (-44, 57) 'animalSnake', count 6
+2023-10-06T22:06:41 1233.916 INF Time: 17.79m FPS: 59.40 Heap: 2052.7MB Max: 2052.7MB Chunks: 916 CGO: 360 Ply: 3 Zom: 7 Ent: 16 (73) Items: 3 CO: 3 RSS: 4003.0MB
+2023-10-06T22:06:42 1234.997 INF 1076.198 SleeperVolume -697, 61, 903: Restoring -681, 61, 903 (-43, 56) 'animalZombieDog', count 7
+2023-10-06T22:06:42 1235.097 INF 1076.298 SleeperVolume -697, 61, 903: Restoring -697, 61, 908 (-44, 56) 'animalZombieDog', count 7
+2023-10-06T22:06:44 1236.897 INF 61999 EntityBackpack id 795, plyrId 176, (-705.6, 62.0, 966.8) (-45, 60), chunk True (-45, 3, 60), items 3 resourceCloth, resourceScrapLead at (0, 0, 0, xz 0 0) : Write
+2023-10-06T22:06:47 1239.823 INF Mixer IsFinished: True
+ AudioSource is not playing: False
+ IsPaused: False
+ IsPlaying: True
+2023-10-06T22:06:47 1239.830 INF Stopped Suspense
+2023-10-06T22:06:47 1239.830 INF unloaded ClipSets on Suspense
+2023-10-06T22:06:47 1239.849 INF Notified SectionSelector that music stopped
+2023-10-06T22:06:47 1239.849 INF SectionType change from Suspense to None
+2023-10-06T22:07:02 1255.282 INF Entity zombieYo 956 killed by BicktheFlean 882
+2023-10-06T22:07:05 1257.889 INF 1099.081 SleeperVolume -712, 61, 951: Restoring -709, 62, 956 (-45, 59) 'zombieNurse', count 8
+2023-10-06T22:07:05 1257.987 INF 1099.181 SleeperVolume -712, 61, 951: Restoring -707, 62, 962 (-45, 60) 'zombieTomClark', count 8
+2023-10-06T22:07:08 1260.997 INF 1102.198 SleeperVolume -713, 61, 963: Restoring -706, 62, 965 (-45, 60) 'zombieTomClark', count 8
+2023-10-06T22:07:09 1261.835 INF 1103.031 SleeperVolume -721, 61, 969: Restoring -708, 62, 969 (-45, 60) 'zombieUtilityWorker', count 9
+2023-10-06T22:07:09 1261.949 INF 1103.147 SleeperVolume -721, 61, 969: Restoring -718, 62, 975 (-45, 60) 'zombieJanitor', count 9
+2023-10-06T22:07:09 1262.048 INF 1103.247 SleeperVolume -721, 61, 969: Restoring -703, 62, 969 (-44, 60) 'zombieUtilityWorker', count 9
+2023-10-06T22:07:10 1263.150 INF 63555 EntityBackpack id 795, plyrId 176, (-705.6, 62.0, 966.8) (-45, 60), chunk True (-45, 3, 60), items 3 resourceCloth, resourceScrapLead at (0, 0, 0, xz 0 0) : Write
+2023-10-06T22:07:11 1263.932 INF Time: 18.29m FPS: 59.40 Heap: 1940.5MB Max: 2052.7MB Chunks: 916 CGO: 320 Ply: 3 Zom: 12 Ent: 20 (76) Items: 1 CO: 3 RSS: 4027.8MB
+2023-10-06T22:07:40 1293.536 INF VehicleManager saving 0 (0 + 0)
+2023-10-06T22:07:40 1293.536 INF DroneManager saving 0 (0 + 0)
+2023-10-06T22:07:40 1293.539 INF VehicleManager saved 9 bytes
+2023-10-06T22:07:40 1293.542 INF DroneManager saved 9 bytes
+2023-10-06T22:07:41 1293.953 INF Time: 18.79m FPS: 59.60 Heap: 1952.7MB Max: 2052.7MB Chunks: 916 CGO: 289 Ply: 3 Zom: 6 Ent: 13 (78) Items: 1 CO: 3 RSS: 4018.5MB
+2023-10-06T22:07:41 1294.615 INF [DECO] written 76481, in 18ms
+2023-10-06T22:07:41 1294.619 INF [DECO] write thread 4ms
+2023-10-06T22:08:11 1323.965 INF Time: 19.29m FPS: 60.00 Heap: 1966.4MB Max: 2052.7MB Chunks: 916 CGO: 291 Ply: 3 Zom: 5 Ent: 15 (86) Items: 1 CO: 3 RSS: 4023.5MB
+2023-10-06T22:08:16 1329.051 INF 67465 EntityBackpack id 795, plyrId 176, (-705.6, 62.0, 966.8) (-45, 60), chunk True (-45, 3, 60), items 3 resourceCloth, resourceScrapLead at (0, 0, 0, xz 0 0) : OnEntityUnload markedForUnload False, IsDead True, IsDespawned False
+2023-10-06T22:08:16 1329.132 INF 0 EntityBackpack id 795, plyrId 176, (-705.6, 62.0, 966.8) (-45, 60), chunk True (-45, 3, 60), items 3 resourceCloth, resourceScrapLead at (0, 0, 0, xz 0 0) : Write
+2023-10-06T22:08:41 1353.979 INF Time: 19.79m FPS: 59.00 Heap: 1981.2MB Max: 2052.7MB Chunks: 916 CGO: 306 Ply: 3 Zom: 9 Ent: 19 (98) Items: 1 CO: 3 RSS: 4026.6MB
+2023-10-06T22:08:42 1354.667 INF [DECO] written 76487, in 18ms
+2023-10-06T22:08:42 1354.671 INF [DECO] write thread 3ms
+2023-10-06T22:08:59 1371.948 INF 1213.146 SleeperVolume -1765, 75, 1042: Spawning -1764, 83, 1044 (-111, 65), group 'scoutHordeStageGS1', class zombieMarlene, count 7
+2023-10-06T22:09:11 1383.997 INF Time: 20.29m FPS: 59.60 Heap: 1999.1MB Max: 2052.7MB Chunks: 916 CGO: 301 Ply: 3 Zom: 7 Ent: 20 (108) Items: 1 CO: 3 RSS: 4047.2MB
+2023-10-06T22:09:14 1386.899 INF 1228.096 SleeperVolume -1037, 113, 1201: Spawning -1010, 117, 1209 (-64, 75), group 'sleeperHordeStageGS8', class zombieJanitor, count 7
+2023-10-06T22:09:14 1386.998 INF 1228.196 SleeperVolume -1037, 113, 1201: Spawning -1010, 117, 1207 (-64, 75), group 'VultureGroup', class animalZombieVulture, count 7
+2023-10-06T22:09:14 1387.100 INF 1228.296 SleeperVolume -1037, 113, 1201: Spawning -1009, 117, 1208 (-64, 75), group 'VultureGroup', class animalZombieVulture, count 7
+2023-10-06T22:09:38 1411.348 INF GMSG: Player 'Dan' died
+2023-10-06T22:09:38 1411.363 INF 72360 EntityBackpack id 0, plyrId 176, (0.0, 0.0, 0.0) (0, 0), chunk False (0, 0, 0), items 9 meleeToolRepairT0StoneAxe, meleeToolRepairT0StoneAxe at (0, 0, 0, xz 0 0) : Read
+2023-10-06T22:09:38 1411.363 INF 72360 EntityBackpack id 1001, plyrId 176, (-988.8, 118.1, 1207.1) (-62, 75), chunk True (-62, 7, 75), items 9 meleeToolRepairT0StoneAxe, meleeToolRepairT0StoneAxe at (0, 0, 0, xz 0 0) : Write
+2023-10-06T22:09:38 1411.370 INF 72360 EntityBackpack id 1001, plyrId 176, (-988.8, 118.1, 1207.1) (-62, 75), chunk True (-62, 7, 75), items 9 meleeToolRepairT0StoneAxe, meleeToolRepairT0StoneAxe at (0, 0, 0, xz 0 0) : Start
+2023-10-06T22:09:40 1413.546 INF VehicleManager saving 0 (0 + 0)
+2023-10-06T22:09:40 1413.547 INF DroneManager saving 0 (0 + 0)
+2023-10-06T22:09:40 1413.549 INF VehicleManager saved 9 bytes
+2023-10-06T22:09:40 1413.553 INF DroneManager saved 9 bytes
+2023-10-06T22:09:41 1414.032 INF Time: 20.80m FPS: 59.40 Heap: 2019.9MB Max: 2052.7MB Chunks: 916 CGO: 274 Ply: 3 Zom: 8 Ent: 19 (112) Items: 2 CO: 3 RSS: 4062.2MB
+2023-10-06T22:09:52 1424.849 INF 73156 EntityBackpack id 1001, plyrId 176, (-988.8, 116.0, 1207.1) (-62, 75), chunk True (-62, 7, 75), items 9 meleeToolRepairT0StoneAxe, meleeToolRepairT0StoneAxe at (0, 0, 0, xz 0 0) : OnEntityUnload markedForUnload False, IsDead True, IsDespawned False
+2023-10-06T22:09:52 1425.047 INF 73168 EntityBackpack id 0, plyrId 176, (0.0, 0.0, 0.0) (0, 0), chunk False (0, 0, 0), items 3 resourceCloth, resourceScrapLead at (0, 0, 0, xz 0 0) : Read
+2023-10-06T22:09:52 1425.047 INF 73168 EntityBackpack id 795, plyrId 176, (-705.6, 62.0, 966.8) (-45, 60), chunk True (-45, 3, 60), items 3 resourceCloth, resourceScrapLead at (0, 0, 0, xz 0 0) : Write
+2023-10-06T22:09:52 1425.050 INF 73168 EntityBackpack id 795, plyrId 176, (-705.6, 62.0, 966.8) (-45, 60), chunk True (-45, 3, 60), items 3 resourceCloth, resourceScrapLead at (0, 0, 0, xz 0 0) : Start
+2023-10-06T22:09:52 1425.497 INF 73194 EntityBackpack id 795, plyrId 176, (-705.6, 62.0, 966.8) (-45, 60), chunk True (-45, 3, 60), items 3 resourceCloth, resourceScrapLead at (0, 0, 0, xz 0 0) : Write
+2023-10-06T22:09:53 1425.733 INF 0 EntityBackpack id 1001, plyrId 176, (-988.8, 116.0, 1207.1) (-62, 75), chunk True (-62, 7, 75), items 9 meleeToolRepairT0StoneAxe, meleeToolRepairT0StoneAxe at (0, 0, 0, xz 0 0) : Write
+2023-10-06T22:09:54 1427.430 INF Entity animalRabbit 992 killed by BicktheFlean 882
+2023-10-06T22:09:58 1431.547 INF Entity zombieDarlene 941 killed by jamesgreen0795 171
+2023-10-06T22:09:59 1431.896 INF SectionType change from None to Suspense
+2023-10-06T22:09:59 1431.896 INF Loading new config for Suspense...
+2023-10-06T22:09:59 1431.896 INF Played Suspense
+2023-10-06T22:09:59 1431.896 INF Fading in Suspense
+2023-10-06T22:09:59 1431.896 INF Notified SectionSelector that music played
+2023-10-06T22:09:59 1431.915 INF Loading new ClipSets for Suspense...
+2023-10-06T22:09:59 1432.316 INF Suspense loaded new config and clipsets
+2023-10-06T22:09:59 1432.497 INF PlayerSpawnedInWorld (reason: Died, position: -713, 74, 916): EntityID=176, PltfmId='Steam_76561197999471059', CrossId='EOS_00026cdf053842ce9059c65e067bc7ff', OwnerID='Steam_76561197999471059', PlayerName='Dan', ClientNumber='1'
+Calling Animator.GotoState on Synchronize layer
+2023-10-06T22:10:02 1434.930 INF fadeInCo complete on Suspense
+2023-10-06T22:10:04 1436.896 INF SectionType change from Suspense to Exploration
+2023-10-06T22:10:04 1436.896 INF Fading out Suspense
+2023-10-06T22:10:04 1436.896 INF Loading new config for Exploration...
+2023-10-06T22:10:04 1436.896 INF Played Exploration
+2023-10-06T22:10:04 1436.896 INF Fading in Exploration
+2023-10-06T22:10:04 1436.915 INF Loading new ClipSets for Exploration...
+2023-10-06T22:10:04 1437.598 INF Exploration loaded new config and clipsets
+2023-10-06T22:10:07 1439.931 INF Paused Suspense
+2023-10-06T22:10:07 1439.931 INF fadeInCo complete on Exploration
+2023-10-06T22:10:12 1444.664 INF Time: 21.30m FPS: 50.43 Heap: 2066.4MB Max: 2066.4MB Chunks: 975 CGO: 272 Ply: 3 Zom: 6 Ent: 17 (123) Items: 3 CO: 3 RSS: 4069.7MB
+2023-10-06T22:10:26 1458.649 WRN AddDecorationAt id=21978 r=3 d=0 m=0 m2=0 m3=0, -1560, 61, 951 replacing
+2023-10-06T22:10:34 1467.095 WRN AddDecorationAt id=21967 r=1 d=0 m=0 m2=0 m3=0, -1560, 61, 951 replacing
+2023-10-06T22:10:42 1474.684 INF Time: 21.80m FPS: 59.20 Heap: 1983.6MB Max: 2066.4MB Chunks: 975 CGO: 273 Ply: 3 Zom: 6 Ent: 17 (108) Items: 3 CO: 3 RSS: 4090.3MB
+2023-10-06T22:10:42 1475.373 INF [DECO] written 76490, in 24ms
+2023-10-06T22:10:42 1475.378 INF [DECO] write thread 5ms
+2023-10-06T22:11:07 1499.931 INF Stopped Suspense
+2023-10-06T22:11:07 1499.931 INF fadeOutCo complete on Suspense
+2023-10-06T22:11:07 1499.931 INF Mixer IsFinished: False
+ AudioSource is not playing: True
+ IsPaused: False
+ IsPlaying: False
+2023-10-06T22:11:07 1499.931 INF unloaded ClipSets on Suspense
+2023-10-06T22:11:12 1504.694 INF Time: 22.30m FPS: 59.40 Heap: 1994.0MB Max: 2066.4MB Chunks: 975 CGO: 272 Ply: 3 Zom: 6 Ent: 17 (108) Items: 3 CO: 3 RSS: 4092.4MB
+2023-10-06T22:11:29 1521.794 WRN AddDecorationAt id=21978 r=25 d=0 m=0 m2=0 m3=0, -1560, 61, 951 replacing
+2023-10-06T22:11:41 1534.191 INF VehicleManager saving 0 (0 + 0)
+2023-10-06T22:11:41 1534.191 INF DroneManager saving 0 (0 + 0)
+2023-10-06T22:11:41 1534.194 INF VehicleManager saved 9 bytes
+2023-10-06T22:11:41 1534.197 INF DroneManager saved 9 bytes
+2023-10-06T22:11:42 1534.717 INF Time: 22.80m FPS: 59.00 Heap: 2007.4MB Max: 2066.4MB Chunks: 975 CGO: 261 Ply: 3 Zom: 5 Ent: 13 (110) Items: 3 CO: 3 RSS: 4096.3MB
+2023-10-06T22:11:42 1535.412 INF [DECO] written 76491, in 18ms
+2023-10-06T22:11:42 1535.416 INF [DECO] write thread 3ms
+2023-10-06T22:12:12 1564.728 INF Time: 23.30m FPS: 59.60 Heap: 2027.4MB Max: 2066.4MB Chunks: 975 CGO: 265 Ply: 3 Zom: 5 Ent: 15 (112) Items: 5 CO: 3 RSS: 4100.1MB
+2023-10-06T22:12:14 1567.493 INF SectionType change from Exploration to None
+2023-10-06T22:12:14 1567.493 INF Fading out Exploration
+2023-10-06T22:12:17 1570.530 INF Paused Exploration
+2023-10-06T22:12:17 1570.581 INF Notified SectionSelector that music stopped
+2023-10-06T22:12:27 1580.035 INF 1420.61 SleeperVolume -698, 66, 918: Restoring -692, 66, 921 (-44, 57) 'animalSnake', count 5
+2023-10-06T22:12:29 1582.146 INF 1422.727 SleeperVolume -697, 61, 903: Restoring -697, 61, 908 (-44, 56) 'animalZombieDog', count 6
+2023-10-06T22:12:29 1582.245 INF 1422.827 SleeperVolume -697, 61, 903: Restoring -681, 61, 903 (-43, 56) 'animalZombieDog', count 7
+2023-10-06T22:12:34 1587.170 INF 82661 EntityBackpack id 795, plyrId 176, (-705.6, 62.0, 966.8) (-45, 60), chunk True (-45, 3, 60), items 3 resourceCloth, resourceScrapLead at (0, 0, 0, xz 0 0) : Write
+2023-10-06T22:12:34 1587.594 INF 1428.177 SleeperVolume -712, 61, 951: Restoring -709, 62, 956 (-45, 59) 'zombieNurse', count 9
+2023-10-06T22:12:35 1587.686 INF 1428.26 SleeperVolume -712, 61, 951: Restoring -707, 62, 962 (-45, 60) 'zombieTomClark', count 9
+2023-10-06T22:12:36 1589.545 INF 1430.127 SleeperVolume -713, 61, 963: Restoring -706, 62, 965 (-45, 60) 'zombieTomClark', count 12
+2023-10-06T22:12:37 1590.493 INF 1431.077 SleeperVolume -721, 61, 969: Restoring -708, 62, 969 (-45, 60) 'zombieUtilityWorker', count 13
+2023-10-06T22:12:37 1590.594 INF 1431.177 SleeperVolume -721, 61, 969: Restoring -718, 62, 975 (-45, 60) 'zombieJanitor', count 13
+2023-10-06T22:12:38 1590.693 INF 1431.277 SleeperVolume -721, 61, 969: Restoring -703, 62, 969 (-44, 60) 'zombieUtilityWorker', count 13
+2023-10-06T22:12:42 1594.745 INF Time: 23.80m FPS: 58.21 Heap: 2047.2MB Max: 2066.4MB Chunks: 975 CGO: 275 Ply: 3 Zom: 16 Ent: 24 (123) Items: 5 CO: 3 RSS: 4102.0MB
+2023-10-06T22:12:44 1596.645 INF UnloadUnusedAssets after 21.04426 m, took 0 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 13)
+Unloading 10767 unused Assets to reduce memory usage. Loaded Objects now: 439148.
+Total: 1058.051800 ms (FindLiveObjects: 42.630900 ms CreateObjectMapping: 21.411200 ms MarkObjects: 977.873500 ms  DeleteObjects: 16.135600 ms)
+
+2023-10-06T22:13:08 1621.145 INF 84563 EntityBackpack id 795, plyrId 176, (-705.6, 62.0, 966.8) (-45, 60), chunk True (-45, 3, 60), items 3 resourceCloth, resourceScrapLead at (0, 0, 0, xz 0 0) : Write
+2023-10-06T22:13:12 1625.528 INF Time: 24.30m FPS: 59.20 Heap: 2070.3MB Max: 2070.3MB Chunks: 975 CGO: 280 Ply: 3 Zom: 11 Ent: 19 (126) Items: 5 CO: 3 RSS: 4140.5MB
+2023-10-06T22:13:17 1630.529 INF Stopped Exploration
+2023-10-06T22:13:17 1630.529 INF fadeOutCo complete on Exploration
+2023-10-06T22:13:17 1630.529 INF Mixer IsFinished: False
+ AudioSource is not playing: True
+ IsPaused: False
+ IsPlaying: False
+2023-10-06T22:13:17 1630.529 INF unloaded ClipSets on Exploration
+2023-10-06T22:13:42 1654.960 INF VehicleManager saving 0 (0 + 0)
+2023-10-06T22:13:42 1654.960 INF DroneManager saving 0 (0 + 0)
+2023-10-06T22:13:42 1654.963 INF VehicleManager saved 9 bytes
+2023-10-06T22:13:42 1654.966 INF DroneManager saved 9 bytes
+2023-10-06T22:13:42 1655.543 INF Time: 24.80m FPS: 56.81 Heap: 2103.6MB Max: 2103.6MB Chunks: 975 CGO: 275 Ply: 3 Zom: 8 Ent: 17 (131) Items: 5 CO: 3 RSS: 4151.0MB
+2023-10-06T22:13:43 1656.213 INF [DECO] written 76490, in 18ms
+2023-10-06T22:13:43 1656.217 INF [DECO] write thread 3ms
+2023-10-06T22:13:43 1656.630 INF Entity zombieMoe 1023 killed by BicktheFlean 882
+2023-10-06T22:13:54 1667.343 INF 87260 EntityBackpack id 795, plyrId 176, (-705.6, 62.0, 966.8) (-45, 60), chunk True (-45, 3, 60), items 3 resourceCloth, resourceScrapLead at (0, 0, 0, xz 0 0) : OnEntityUnload markedForUnload False, IsDead True, IsDespawned False
+2023-10-06T22:13:54 1667.413 INF 0 EntityBackpack id 795, plyrId 176, (-705.6, 62.0, 966.8) (-45, 60), chunk True (-45, 3, 60), items 3 resourceCloth, resourceScrapLead at (0, 0, 0, xz 0 0) : Write
+2023-10-06T22:13:54 1667.501 INF 87269 EntityBackpack id 0, plyrId 176, (0.0, 0.0, 0.0) (0, 0), chunk False (0, 0, 0), items 9 meleeToolRepairT0StoneAxe, meleeToolRepairT0StoneAxe at (0, 0, 0, xz 0 0) : Read
+2023-10-06T22:13:54 1667.512 INF 87269 EntityBackpack id 1001, plyrId 176, (-988.8, 116.0, 1207.1) (-62, 75), chunk True (-62, 7, 75), items 9 meleeToolRepairT0StoneAxe, meleeToolRepairT0StoneAxe at (0, 0, 0, xz 0 0) : Start
+2023-10-06T22:13:55 1667.695 INF 87280 EntityBackpack id 1001, plyrId 176, (-988.8, 116.0, 1207.1) (-62, 75), chunk True (-62, 7, 75), items 9 meleeToolRepairT0StoneAxe, meleeToolRepairT0StoneAxe at (0, 0, 0, xz 0 0) : Write
+2023-10-06T22:14:12 1685.561 INF Time: 25.30m FPS: 57.21 Heap: 2007.9MB Max: 2103.6MB Chunks: 975 CGO: 299 Ply: 3 Zom: 8 Ent: 21 (136) Items: 7 CO: 3 RSS: 4178.0MB
+2023-10-06T22:14:28 1701.442 INF 89252 EntityBackpack id 1001, plyrId 176, (-988.8, 116.0, 1207.1) (-62, 75), chunk True (-62, 7, 75), items 9 meleeToolRepairT0StoneAxe, meleeToolRepairT0StoneAxe at (0, 0, 0, xz 0 0) : Write
+2023-10-06T22:14:42 1715.578 INF Time: 25.80m FPS: 57.61 Heap: 2019.6MB Max: 2103.6MB Chunks: 975 CGO: 327 Ply: 3 Zom: 11 Ent: 23 (146) Items: 7 CO: 3 RSS: 4182.4MB
+2023-10-06T22:14:43 1716.261 INF [DECO] written 76490, in 19ms
+2023-10-06T22:14:43 1716.266 INF [DECO] write thread 4ms
+2023-10-06T22:14:46 1719.011 INF 90287 EntityBackpack id 1001, plyrId 176, (-988.8, 116.0, 1207.1) (-62, 75), chunk True (-62, 7, 75), items 0  at (0, 0, 0, xz 0 0) : RemoveBackpack empty True, reason empty
+2023-10-06T22:14:46 1719.012 INF 90287 EntityBackpack id 1001, plyrId 176, (-988.8, 116.0, 1207.1) (-62, 75), chunk True (-62, 7, 75), items 0  at (0, 0, 0, xz 0 0) : OnEntityUnload markedForUnload False, IsDead True, IsDespawned False
+2023-10-06T22:14:51 1724.393 INF 1564.209 SleeperVolume -1037, 113, 1201: Restoring -1009, 117, 1208 (-64, 75) 'animalZombieVulture', count 10
+2023-10-06T22:14:51 1724.493 INF 1564.309 SleeperVolume -1037, 113, 1201: Restoring -1010, 117, 1207 (-64, 75) 'animalZombieVulture', count 10
+2023-10-06T22:14:51 1724.593 INF 1564.409 SleeperVolume -1037, 113, 1201: Restoring -1010, 117, 1209 (-64, 75) 'zombieJanitor', count 10
+2023-10-06T22:15:00 1733.111 INF Entity animalZombieVulture 1053 killed by Dan 176
+2023-10-06T22:15:12 1745.594 INF Time: 26.30m FPS: 57.01 Heap: 2035.0MB Max: 2103.6MB Chunks: 975 CGO: 339 Ply: 3 Zom: 14 Ent: 27 (155) Items: 7 CO: 3 RSS: 4177.7MB
+2023-10-06T22:15:15 1748.111 INF Entity animalZombieVulture 1052 killed by Dan 176
+2023-10-06T22:15:21 1753.775 INF zombieJanitor SpawnLimbGore loaded preafab in asset bundle. path: @:Entities/Zombies/Dismemberment/Mechanic/Blunt/Head.prefab
+2023-10-06T22:15:21 1753.777 INF Entity zombieJanitor 1054 killed by Dan 176
+2023-10-06T22:15:29 1762.593 INF SectionType change from None to Exploration
+2023-10-06T22:15:29 1762.593 INF Loading new config for Exploration...
+2023-10-06T22:15:29 1762.593 INF Played Exploration
+2023-10-06T22:15:29 1762.593 INF Fading in Exploration
+2023-10-06T22:15:29 1762.593 INF Notified SectionSelector that music played
+2023-10-06T22:15:29 1762.613 INF Loading new ClipSets for Exploration...
+2023-10-06T22:15:30 1762.709 INF Exploration loaded new config and clipsets
+2023-10-06T22:15:32 1765.606 INF fadeInCo complete on Exploration
+2023-10-06T22:15:42 1774.977 INF VehicleManager saving 0 (0 + 0)
+2023-10-06T22:15:42 1774.977 INF DroneManager saving 0 (0 + 0)
+2023-10-06T22:15:42 1774.980 INF VehicleManager saved 9 bytes
+2023-10-06T22:15:42 1774.984 INF DroneManager saved 9 bytes
+2023-10-06T22:15:42 1775.611 INF Time: 26.80m FPS: 58.61 Heap: 2052.7MB Max: 2103.6MB Chunks: 975 CGO: 322 Ply: 3 Zom: 11 Ent: 25 (158) Items: 7 CO: 3 RSS: 4180.5MB
+2023-10-06T22:15:43 1776.316 INF [DECO] written 76491, in 20ms
+2023-10-06T22:15:43 1776.320 INF [DECO] write thread 4ms
+2023-10-06T22:16:12 1805.423 INF 95126+1 Origin Reposition (-736.0, 48.0, 640.0) to (-496.0, 48.0, 560.0)
+2023-10-06T22:16:13 1805.642 INF Time: 27.30m FPS: 52.03 Heap: 2095.9MB Max: 2103.6MB Chunks: 975 CGO: 331 Ply: 3 Zom: 15 Ent: 31 (178) Items: 7 CO: 3 RSS: 4244.9MB
+2023-10-06T22:16:43 1835.645 INF Time: 27.80m FPS: 51.03 Heap: 2129.5MB Max: 2129.5MB Chunks: 975 CGO: 340 Ply: 3 Zom: 15 Ent: 33 (192) Items: 7 CO: 3 RSS: 4269.6MB
+2023-10-06T22:16:43 1836.378 INF [DECO] written 76492, in 18ms
+2023-10-06T22:16:43 1836.382 INF [DECO] write thread 4ms
+2023-10-06T22:16:45 1837.786 INF 96823 EntityBackpack id 0, plyrId 176, (0.0, 0.0, 0.0) (0, 0), chunk False (0, 0, 0), items 2 resourceSewingKit, resourceRockSmall at (0, 0, 0, xz 0 0) : Read
+2023-10-06T22:16:45 1837.791 INF 96823 EntityBackpack id 333, plyrId 176, (-527.7, 61.2, 337.4) (-33, 21), chunk True (-33, 3, 21), items 2 resourceSewingKit, resourceRockSmall at (0, 0, 0, xz 0 0) : Start
+2023-10-06T22:17:13 1865.663 INF Time: 28.30m FPS: 49.04 Heap: 2060.7MB Max: 2129.5MB Chunks: 975 CGO: 357 Ply: 3 Zom: 11 Ent: 29 (182) Items: 8 CO: 3 RSS: 4292.8MB
+2023-10-06T22:17:41 1894.397 WRN navobject already exists in list
+2023-10-06T22:17:42 1894.996 INF VehicleManager saving 0 (0 + 0)
+2023-10-06T22:17:42 1894.996 INF DroneManager saving 0 (0 + 0)
+2023-10-06T22:17:42 1894.998 INF VehicleManager saved 9 bytes
+2023-10-06T22:17:42 1895.000 INF DroneManager saved 9 bytes
+2023-10-06T22:17:43 1895.677 INF Time: 28.80m FPS: 58.61 Heap: 2077.2MB Max: 2129.5MB Chunks: 975 CGO: 329 Ply: 3 Zom: 15 Ent: 34 (198) Items: 8 CO: 3 RSS: 4296.5MB
+2023-10-06T22:17:43 1896.413 INF [DECO] written 76506, in 18ms
+2023-10-06T22:17:43 1896.417 INF [DECO] write thread 3ms
+2023-10-06T22:17:52 1905.243 INF Entity zombieBoe 1105 killed by jamesgreen0795 171
+2023-10-06T22:17:52 1905.252 INF 1745.057 SleeperVolume -1397, 86, 1191: Spawning -1396, 86, 1191 (-88, 74), group 'zombieMoe', class zombieMoe, count 15
+2023-10-06T22:17:52 1905.259 INF 1745.057 SleeperVolume -1397, 86, 1192: Spawning -1395, 86, 1193 (-88, 74), group 'zombieUtilityWorker', class zombieUtilityWorker, count 15
+2023-10-06T22:17:53 1905.960 INF Entity zombieArlene 1065 killed by BicktheFlean 882
+2023-10-06T22:18:07 1919.875 INF Entity zombieJoe 1113 killed by jamesgreen0795 171
+2023-10-06T22:18:13 1925.692 INF Time: 29.30m FPS: 55.42 Heap: 2093.0MB Max: 2129.5MB Chunks: 975 CGO: 309 Ply: 3 Zom: 15 Ent: 34 (203) Items: 8 CO: 3 RSS: 4301.6MB
+2023-10-06T22:18:17 1930.378 INF Mixer IsFinished: True
+ AudioSource is not playing: False
+ IsPaused: False
+ IsPlaying: True
+2023-10-06T22:18:17 1930.387 INF Stopped Exploration
+2023-10-06T22:18:17 1930.387 INF unloaded ClipSets on Exploration
+2023-10-06T22:18:17 1930.413 INF Notified SectionSelector that music stopped
+2023-10-06T22:18:17 1930.414 INF SectionType change from Exploration to None
+2023-10-06T22:18:23 1936.156 INF 102139+1 Origin Reposition (-496.0, 48.0, 560.0) to (-288.0, 48.0, 400.0)
+2023-10-06T22:18:43 1955.713 INF Time: 29.80m FPS: 53.22 Heap: 2111.4MB Max: 2129.5MB Chunks: 975 CGO: 318 Ply: 3 Zom: 15 Ent: 29 (209) Items: 9 CO: 3 RSS: 4312.7MB
+2023-10-06T22:18:43 1956.464 INF [DECO] written 76507, in 18ms
+2023-10-06T22:18:43 1956.468 INF [DECO] write thread 3ms
+2023-10-06T22:19:06 1978.760 INF Entity sc_General 949 killed
+2023-10-06T22:19:13 1985.722 INF Time: 30.30m FPS: 51.03 Heap: 2136.2MB Max: 2136.2MB Chunks: 975 CGO: 323 Ply: 3 Zom: 15 Ent: 28 (218) Items: 9 CO: 3 RSS: 4307.3MB
+2023-10-06T22:19:42 2015.006 INF VehicleManager saving 0 (0 + 0)
+2023-10-06T22:19:42 2015.006 INF DroneManager saving 0 (0 + 0)
+2023-10-06T22:19:42 2015.009 INF VehicleManager saved 9 bytes
+2023-10-06T22:19:42 2015.012 INF DroneManager saved 9 bytes
+2023-10-06T22:19:43 2015.740 INF Time: 30.80m FPS: 57.21 Heap: 2177.9MB Max: 2177.9MB Chunks: 975 CGO: 252 Ply: 3 Zom: 9 Ent: 19 (220) Items: 11 CO: 3 RSS: 4000.2MB
+2023-10-06T22:19:52 2025.190 INF 1865.005 SleeperVolume -240, 60, 465: Spawning -238, 63, 465 (-15, 29), group 'ZombiesCrawlers', class zombieSteveCrawler, count 10
+2023-10-06T22:20:09 2041.839 INF Entity animalChicken 1139 killed by jamesgreen0795 171
+2023-10-06T22:20:13 2045.756 INF Time: 31.30m FPS: 59.80 Heap: 2209.3MB Max: 2209.3MB Chunks: 975 CGO: 246 Ply: 3 Zom: 8 Ent: 16 (227) Items: 11 CO: 3 RSS: 4027.7MB
+2023-10-06T22:20:36 2069.157 INF Entity zombieDarlene 1140 killed by jamesgreen0795 171
+Calling Animator.GotoState on Synchronize layer
+2023-10-06T22:20:43 2076.123 INF Time: 31.80m FPS: 59.60 Heap: 1996.4MB Max: 2209.3MB Chunks: 975 CGO: 246 Ply: 3 Zom: 7 Ent: 13 (59) Items: 2 CO: 3 RSS: 4032.3MB
+2023-10-06T22:20:44 2076.707 INF [DECO] written 76508, in 18ms
+2023-10-06T22:20:44 2076.711 INF [DECO] write thread 3ms
+Calling Animator.GotoState on Synchronize layer
+Calling Animator.GotoState on Synchronize layer
+2023-10-06T22:21:13 2106.122 INF Time: 32.30m FPS: 56.81 Heap: 2015.9MB Max: 2209.3MB Chunks: 975 CGO: 258 Ply: 3 Zom: 8 Ent: 14 (63) Items: 2 CO: 3 RSS: 4032.4MB
+2023-10-06T22:21:13 2106.343 INF 1946.004 SleeperVolume -240, 60, 465: Restoring -238, 63, 465 (-15, 29) 'zombieSteveCrawler', count 8
+2023-10-06T22:21:29 2122.438 INF SectionType change from None to Exploration
+2023-10-06T22:21:29 2122.438 INF Loading new config for Exploration...
+2023-10-06T22:21:29 2122.438 INF Played Exploration
+2023-10-06T22:21:29 2122.438 INF Fading in Exploration
+2023-10-06T22:21:29 2122.438 INF Notified SectionSelector that music played
+2023-10-06T22:21:29 2122.458 INF Loading new ClipSets for Exploration...
+2023-10-06T22:21:30 2122.906 INF Exploration loaded new config and clipsets
+2023-10-06T22:21:32 2125.461 INF fadeInCo complete on Exploration
+2023-10-06T22:21:37 2130.338 INF SectionType change from Exploration to Suspense
+2023-10-06T22:21:37 2130.338 INF Fading out Exploration
+2023-10-06T22:21:37 2130.338 INF Loading new config for Suspense...
+2023-10-06T22:21:37 2130.338 INF Played Suspense
+2023-10-06T22:21:37 2130.338 INF Fading in Suspense
+2023-10-06T22:21:37 2130.357 INF Loading new ClipSets for Suspense...
+2023-10-06T22:21:38 2130.636 INF Suspense loaded new config and clipsets
+2023-10-06T22:21:40 2133.357 INF Paused Exploration
+2023-10-06T22:21:40 2133.357 INF fadeInCo complete on Suspense
+2023-10-06T22:21:42 2135.429 INF VehicleManager saving 0 (0 + 0)
+2023-10-06T22:21:42 2135.431 INF DroneManager saving 0 (0 + 0)
+2023-10-06T22:21:42 2135.433 INF VehicleManager saved 9 bytes
+2023-10-06T22:21:42 2135.434 INF DroneManager saved 9 bytes
+2023-10-06T22:21:43 2136.388 INF Time: 32.80m FPS: 55.42 Heap: 2034.9MB Max: 2209.3MB Chunks: 975 CGO: 234 Ply: 3 Zom: 7 Ent: 12 (65) Items: 2 CO: 3 RSS: 4048.8MB
+2023-10-06T22:21:44 2137.006 INF [DECO] written 76511, in 18ms
+2023-10-06T22:21:44 2137.010 INF [DECO] write thread 3ms
+2023-10-06T22:22:13 2166.407 INF Time: 33.31m FPS: 59.20 Heap: 2050.6MB Max: 2209.3MB Chunks: 975 CGO: 256 Ply: 3 Zom: 9 Ent: 17 (71) Items: 2 CO: 3 RSS: 4041.1MB
+2023-10-06T22:22:24 2177.457 INF Entity animalChicken 1149 killed by Dan 176
+2023-10-06T22:22:40 2193.376 INF Stopped Exploration
+2023-10-06T22:22:40 2193.376 INF fadeOutCo complete on Exploration
+2023-10-06T22:22:40 2193.376 INF Mixer IsFinished: False
+ AudioSource is not playing: True
+ IsPaused: False
+ IsPlaying: False
+2023-10-06T22:22:40 2193.377 INF unloaded ClipSets on Exploration
+2023-10-06T22:22:43 2196.422 INF Time: 33.81m FPS: 57.01 Heap: 2067.3MB Max: 2209.3MB Chunks: 975 CGO: 294 Ply: 3 Zom: 12 Ent: 23 (79) Items: 2 CO: 3 RSS: 4042.1MB
+2023-10-06T22:22:50 2203.572 INF Entity zombieSteveCrawler 1146 killed by jamesgreen0795 171

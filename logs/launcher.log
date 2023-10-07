@@ -1,0 +1,24 @@
+2023-10-06 22:28:08
+
+Orig CWD:          D:\Programs\Steam\steamapps\common\7 Days To Die
+argv[0]:           D:\Programs\Steam\steamapps\common\7 Days To Die\7dLauncher.exe
+App.ExeName:       D:\Programs\Steam\steamapps\common\7 Days To Die\7dLauncher.exe
+GetModuleFileName: D:\Programs\Steam\steamapps\common\7 Days To Die\7dLauncher.exe
+
+AppData: C:\Users\james\AppData\Roaming
+
+Launcher invocation: D:\Programs\Steam\steamapps\common\7 Days To Die\7dLauncher.exe
+    -from-steam
+
+From Steam: TRUE
+From BPM: FALSE
+On SteamDeck: FALSE
+
+Executing: D:\Programs\Steam\steamapps\common\7 Days To Die\7DaysToDie_EAC.exe
+    -force-d3d11
+    -nogs
+    -logfile
+    C:\Users\james\AppData\Roaming\7DaysToDie\logs\output_log_client__2023-10-06__22-28-07.txt
+
+Launched the game executable
+

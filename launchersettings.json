@@ -1,0 +1,10 @@
+{
+  "ShowLauncher" : false,
+  "DefaultRunConfig" : {
+    "ExclusiveMode" : false,
+    "Renderer" : "dx11",
+    "UseEAC" : true,
+    "UseNativeInput" : false,
+    "AdditionalParameters" : ""
+  }
+}
