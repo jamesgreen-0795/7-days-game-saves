@@ -1,0 +1,848 @@
+Mono path[0] = 'D:/Programs/Steam/steamapps/common/7 Days To Die/7DaysToDie_Data/Managed'
+Mono config path = 'D:/Programs/Steam/steamapps/common/7 Days To Die/MonoBleedingEdge/etc'
+Loading player data from D:/Programs/Steam/steamapps/common/7 Days To Die/7DaysToDie_Data/data.unity3d
+Initialize engine version: 2021.3.19f1 (c9714fde33b6)
+[Subsystems] Discovering subsystems at path D:/Programs/Steam/steamapps/common/7 Days To Die/7DaysToDie_Data/UnitySubsystems
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; threaded=1; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     4037 MB
+    Driver:   31.0.15.3623
+Begin MonoManager ReloadAssembly
+- Completed reload, in 10.727 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.379300 ms
+2023-10-07T17:40:48 0.038 INF Version: Alpha 21.1 (b16) Compatibility Version: Alpha 21.1, Build: WindowsPlayer 64 Bit
+2023-10-07T17:40:48 0.040 INF System information:
+2023-10-07T17:40:48 0.040 INF    OS: Windows 10  (10.0.19045) 64bit
+2023-10-07T17:40:48 0.040 INF    CPU: Intel(R) Core(TM) i5-4690K CPU @ 3.50GHz (cores: 4)
+2023-10-07T17:40:48 0.040 INF    RAM: 16332 MB
+2023-10-07T17:40:48 0.041 INF    GPU: NVIDIA GeForce GTX 970 (4037 MB)
+2023-10-07T17:40:48 0.047 INF    Graphics API: Direct3D 11.0 [level 11.1] (shader level 5.0)
+2023-10-07T17:40:48 0.085 INF Last played version: Alpha 21.1
+2023-10-07T17:40:48 0.087 INF Local UTC offset: 1 hours
+2023-10-07T17:40:48 0.113 INF Command line arguments: D:\Programs\Steam\steamapps\common\7 Days To Die\7DaysToDie.exe -force-d3d11 -nogs -logfile C:\Users\james\AppData\Roaming\7DaysToDie\logs\output_log_client__2023-10-07__17-39-59.txt
+2023-10-07T17:40:48 0.127 INF [Platform] Init
+2023-10-07T17:40:48 0.305 INF [Platform] Using native platform: Steam
+2023-10-07T17:40:48 0.307 INF [Platform] Using cross platform: EOS
+2023-10-07T17:40:48 0.307 INF [Platform] Using server platform: Steam
+2023-10-07T17:40:48 0.307 INF [Platform] Using server platform: XBL
+2023-10-07T17:40:48 0.316 INF Starting PlayerInputManager...
+2023-10-07T17:40:48 0.612 INF InControl (version 1.8.2 build 9357, native module = False, XInput = True)
+2023-10-07T17:40:48 0.627 INF [Platform] Initializing Steam
+2023-10-07T17:40:50 2.489 INF [Steamworks.NET] SteamAPI_Init() ok
+2023-10-07T17:40:50 2.490 INF [Steamworks.NET] Registering auth callbacks
+2023-10-07T17:40:50 2.494 INF Not running in Big Picture Mode, no on-screen keyboard available
+2023-10-07T17:40:50 2.494 INF [Platform] Initializing EOS
+2023-10-07T17:40:51 2.971 INF [EOS] Initialize: Success
+2023-10-07T17:40:51 3.224 INF [Platform] Initializing XBL
+2023-10-07T17:40:51 3.594 INF Localization language from platform: english
+2023-10-07T17:40:51 3.596 INF Texture quality is set to 1
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.327200 ms
+Fallback handler could not load library D:/Programs/Steam/steamapps/common/7 Days To Die/7DaysToDie_Data/MonoBleedingEdge/data-000001EECAB3F090.dll
+2023-10-07T17:41:01 13.709 INF Awake IsFocused: True
+2023-10-07T17:41:01 13.709 INF Awake
+2023-10-07T17:41:02 14.575 INF Occlusion: Awake
+2023-10-07T17:41:02 14.596 WRN Device name for flag StandaloneWindows is unknown
+2023-10-07T17:41:02 14.598 INF ApplyAllOptions streaming budget 3633.3 MB
+2023-10-07T17:41:02 14.600 INF ApplyAllOptions current screen 1920 x 1080, 60hz, window 1920 x 1080, mode FullScreenWindow
+2023-10-07T17:41:02 14.601 INF Texture quality is set to 1
+2023-10-07T17:41:02 14.602 INF ApplyTextureFilter 1, AF Enable
+2023-10-07T17:41:02 14.603 INF ApplyTerrainOptions 2
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 6570.
+Total: 10.808600 ms (FindLiveObjects: 0.445700 ms CreateObjectMapping: 0.328000 ms MarkObjects: 9.981300 ms  DeleteObjects: 0.052800 ms)
+
+2023-10-07T17:41:03 15.858 INF [MODS] No mods folder found
+2023-10-07T17:41:03 15.859 INF [MODS] Initializing mod code
+2023-10-07T17:41:03 15.859 INF [MODS] Loading done
+2023-10-07T17:41:04 15.956 INF Loading permissions file at 'C:\Users\james\AppData\Roaming/7DaysToDie/Saves/serveradmin.xml'
+2023-10-07T17:41:04 16.045 INF Loading permissions file done.
+2023-10-07T17:41:04 16.170 INF GameSense server not found (no props file), disabling
+2023-10-07T17:41:04 16.173 INF [PartyQuests] Initialized
+2023-10-07T17:41:04 16.173 INF Awake done in 2464 ms
+2023-10-07T17:41:04 16.683 INF Reloading serveradmin.xml
+2023-10-07T17:41:04 16.684 INF Loading permissions file at 'C:\Users\james\AppData\Roaming/7DaysToDie/Saves/serveradmin.xml'
+2023-10-07T17:41:04 16.684 INF Loading permissions file done.
+2023-10-07T17:41:04 16.711 INF [XUi] Instantiating XUi from default prefab.
+2023-10-07T17:41:04 16.743 INF [XUi] XUi instantiation completed in 30 ms
+2023-10-07T17:41:05 17.156 INF [XUi] Loading XUi asynchronously
+2023-10-07T17:41:05 17.176 INF Updated culture for display texts
+2023-10-07T17:41:06 18.330 INF [XUi] Parsing all window groups completed in 865 ms total.
+Couldn't create a Convex Mesh from source mesh "Head" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+2023-10-07T17:41:14 26.167 INF [XUi] Initialized all window groups completed in 2127 ms total.
+2023-10-07T17:41:14 26.600 INF LoadTextureArraysForQuality quality -1 to 1, reload False
+2023-10-07T17:41:25 37.197 INF LoadTextureArraysForQuality took 10.597
+2023-10-07T17:41:25 37.248 INF Loaded (local): rwgmixer in 0.05
+2023-10-07T17:41:25 37.329 INF Loaded (local): archetypes in 0.08
+2023-10-07T17:41:25 37.380 INF Loaded (local): loadingscreen in 0.05
+2023-10-07T17:41:25 37.381 INF WorldStaticData.Init() needed 16.000s
+2023-10-07T17:41:25 37.400 INF [Steamworks.NET] Login ok.
+2023-10-07T17:41:25 37.401 INF [EOS] Login
+2023-10-07T17:41:25 37.764 INF AchievementManager: Received stats and achievements from Steam
+2023-10-07T17:41:25 37.794 INF AchievementManager.UserStatsStored_Callback, result=k_EResultOK
+2023-10-07T17:41:25 37.794 WRN [Steam] Tick took exceptionally long: 113 ms
+2023-10-07T17:41:25 37.830 INF AchievementManager.UserStatsStored_Callback, result=k_EResultOK
+2023-10-07T17:41:26 37.963 INF AchievementManager.UserStatsStored_Callback, result=k_EResultOK
+2023-10-07T17:41:27 39.435 INF [EOS] Login succeeded, PUID: 00029b07b6734cde870ee9a5989c255f
+2023-10-07T17:41:27 39.436 INF [EOS] Getting native user for 00029b07b6734cde870ee9a5989c255f
+2023-10-07T17:41:27 39.438 INF [EOS] CopyIdToken result: Success
+2023-10-07T17:41:28 40.569 INF [EOS] TransferProgress: News.xml, 4380 / 4380
+2023-10-07T17:41:28 40.787 INF [EOS] Read (News.xml) completed: Success, received 4322 bytes
+2023-10-07T17:41:32 44.059 INF NET: Starting server protocols
+2023-10-07T17:41:32 44.360 INF NET: LiteNetLib server started
+2023-10-07T17:41:32 44.363 INF [Steamworks.NET] NET: Server started
+2023-10-07T17:41:32 44.363 INF Started thread SteamNetworkingServer
+2023-10-07T17:41:32 44.363 INF [EOS-P2PS] Server started
+2023-10-07T17:41:32 44.365 INF StartGame
+2023-10-07T17:41:32 44.365 INF NetPackageManager Init
+2023-10-07T17:41:32 44.449 INF [XUi] Instantiating XUi from default prefab.
+2023-10-07T17:41:32 44.462 INF [XUi] XUi instantiation completed in 13 ms
+2023-10-07T17:41:32 44.473 INF Persistent GamePrefs saved
+GamePref.AdminFileName = serveradmin.xml
+GamePref.AirDropFrequency = 72
+GamePref.AirDropMarker = True
+GamePref.AllowSpawnNearBackpack = True
+GamePref.AutopilotMode = 0
+GamePref.BedrollDeadZoneSize = 15
+GamePref.BedrollExpiryTime = 45
+GamePref.BlockDamageAI = 100
+GamePref.BlockDamageAIBM = 100
+GamePref.BlockDamagePlayer = 100
+GamePref.BloodMoonEnemyCount = 8
+GamePref.BloodMoonFrequency = 7
+GamePref.BloodMoonRange = 0
+GamePref.BloodMoonWarning = 8
+GamePref.BuildCreate = False
+GamePref.ConnectToServerIP = 127.0.0.1
+GamePref.ConnectToServerPort = 26900
+GamePref.CraftTimer = 
+GamePref.CreateLevelDim = 8
+GamePref.CreateLevelName = My Level
+GamePref.CreativeMenuEnabled = False
+GamePref.DayCount = 3
+GamePref.DayLightLength = 18
+GamePref.DayNightLength = 60
+GamePref.DebugMenuEnabled = False
+GamePref.DebugMenuShowTasks = False
+GamePref.DebugStopEnemiesMoving = False
+GamePref.DropOnDeath = 1
+GamePref.DropOnQuit = 0
+GamePref.DynamicMeshDistance = 1000
+GamePref.DynamicMeshEnabled = True
+GamePref.DynamicMeshLandClaimBuffer = 3
+GamePref.DynamicMeshLandClaimOnly = True
+GamePref.DynamicMeshMaxItemCache = 3
+GamePref.DynamicMeshMaxRegionCache = 1
+GamePref.DynamicMeshUseImposters = False
+GamePref.DynamicSpawner = 
+GamePref.EACEnabled = False
+GamePref.EnableMapRendering = False
+GamePref.EnemyDifficulty = 0
+GamePref.EnemySpawnMode = True
+GamePref.FavoriteServersList = 
+GamePref.FragLimit = 20
+GamePref.GameDifficulty = 1
+GamePref.GameGuidClient = 
+GamePref.GameMode = GameModeSurvival
+GamePref.GameName = Jammy
+GamePref.GameNameClient = My Game
+GamePref.GameVersion = Alpha 21.1
+GamePref.GameWorld = Navezgane
+GamePref.HideCommandExecutionLog = 0
+GamePref.JoiningOptions = True
+GamePref.LandClaimCount = 3
+GamePref.LandClaimDeadZone = 30
+GamePref.LandClaimDecayMode = 0
+GamePref.LandClaimExpiryTime = 7
+GamePref.LandClaimOfflineDelay = 0
+GamePref.LandClaimOfflineDurabilityModifier = 4
+GamePref.LandClaimOnlineDurabilityModifier = 4
+GamePref.LandClaimSize = 41
+GamePref.Language = 
+GamePref.LanguageBrowser = 
+GamePref.LastGameResetRevision = 13
+GamePref.LastLoadedPrefab = 
+GamePref.LastLoadingTipRead = 4
+GamePref.LootAbundance = 100
+GamePref.LootRespawnDays = 7
+GamePref.LootTimer = 
+GamePref.MatchLength = 10
+GamePref.MaxChunkAge = -1
+GamePref.MaxQueuedMeshLayers = 40
+GamePref.MaxSpawnedAnimals = 50
+GamePref.MaxSpawnedZombies = 64
+GamePref.MaxUncoveredMapChunksPerPlayer = 524288
+GamePref.NewGameSetDefaults = True
+GamePref.NoGraphicsMode = False
+GamePref.OptionsAllowController = True
+GamePref.OptionsAmbientVolumeLevel = 1
+GamePref.OptionsAudioOcclusion = False
+GamePref.OptionsBackgroundGlobalOpacity = 0.75
+GamePref.OptionsControllerTriggerEffects = False
+GamePref.OptionsControllerVibration = True
+GamePref.OptionsControlsResetRevision = 6
+GamePref.OptionsDisableChunkLODs = False
+GamePref.OptionsDynamicMusicDailyTime = 0.45
+GamePref.OptionsDynamicMusicEnabled = True
+GamePref.OptionsForegroundGlobalOpacity = 1
+GamePref.OptionsGfxAA = 2
+GamePref.OptionsGfxAASharpness = 0
+GamePref.OptionsGfxBloom = True
+GamePref.OptionsGfxBrightness = 0.5
+GamePref.OptionsGfxDOF = False
+GamePref.OptionsGfxDynamicMinFPS = 30
+GamePref.OptionsGfxDynamicMode = 0
+GamePref.OptionsGfxDynamicScale = 1
+GamePref.OptionsGfxFOV = 65
+GamePref.OptionsGfxGameplayResolutionHeight = 0
+GamePref.OptionsGfxGameplayResolutionWidth = 0
+GamePref.OptionsGfxGrassDistance = 2
+GamePref.OptionsGfxLODDistance = 0.5
+GamePref.OptionsGfxMotionBlur = 1
+GamePref.OptionsGfxObjQuality = 2
+GamePref.OptionsGfxOcclusion = True
+GamePref.OptionsGfxQualityPreset = 2
+GamePref.OptionsGfxReflectQuality = 1
+GamePref.OptionsGfxReflectShadows = False
+GamePref.OptionsGfxResetRevision = 3
+GamePref.OptionsGfxResolution = 0
+GamePref.OptionsGfxShadowDistance = 1
+GamePref.OptionsGfxSSAO = True
+GamePref.OptionsGfxSSReflections = 1
+GamePref.OptionsGfxStreamMipmaps = True
+GamePref.OptionsGfxSunShafts = True
+GamePref.OptionsGfxTerrainQuality = 2
+GamePref.OptionsGfxTexFilter = 1
+GamePref.OptionsGfxTexQuality = 1
+GamePref.OptionsGfxTreeDistance = 4
+GamePref.OptionsGfxUMATexQuality = 1
+GamePref.OptionsGfxViewDistance = 6
+GamePref.OptionsGfxVsync = 1
+GamePref.OptionsGfxWaterPtlLimiter = 0.5
+GamePref.OptionsGfxWaterQuality = 1
+GamePref.OptionsHudOpacity = 1
+GamePref.OptionsHudSize = 1
+GamePref.OptionsInterfaceSensitivity = 0.75
+GamePref.OptionsIntroMovieEnabled = True
+GamePref.OptionsInvertMouse = False
+GamePref.OptionsJournalPopup = True
+GamePref.OptionsLiteNetLibMtuOverride = False
+GamePref.OptionsLookSensitivity = 0.5
+GamePref.OptionsMenuMusicVolumeLevel = 0.7
+GamePref.OptionsMicVolumeLevel = 0.75
+GamePref.OptionsMumblePositionalAudioSupport = False
+GamePref.OptionsMusicVolumeLevel = 0.6
+GamePref.OptionsOverallAudioVolumeLevel = 1
+GamePref.OptionsPlayChanceFrequency = 3
+GamePref.OptionsPlayChanceProbability = 0.983
+GamePref.OptionsPlayerModel = playerMale
+GamePref.OptionsPlayerModelTexture = Player/Male/Player_male
+GamePref.OptionsPOICulling = 1
+GamePref.OptionsQuestsAutoAccept = True
+GamePref.OptionsQuestsAutoShare = True
+GamePref.OptionsScreenBoundsValue = 1
+GamePref.OptionsSelectionBoxAlphaMultiplier = 0.4
+GamePref.OptionsShowCompass = True
+GamePref.OptionsShowCrosshair = True
+GamePref.OptionsStabSpawnBlocksOnGround = True
+GamePref.OptionsSubtitlesEnabled = True
+GamePref.OptionsTempCelsius = False
+GamePref.OptionsUiFpsScaling = 1
+GamePref.OptionsVehicleLookSensitivity = 0.5
+GamePref.OptionsVoiceChatEnabled = True
+GamePref.OptionsVoiceInputDevice = 
+GamePref.OptionsVoiceOutputDevice = 
+GamePref.OptionsVoiceVolumeLevel = 0.75
+GamePref.OptionsWeaponAiming = False
+GamePref.OptionsZoomAccel = 0.5
+GamePref.OptionsZoomSensitivity = 0.3
+GamePref.PartySharedKillRange = 100
+GamePref.PersistentPlayerProfiles = False
+GamePref.PlayerAutologin = False
+GamePref.PlayerKillingMode = 2
+GamePref.PlayerName = jamesgreen0795
+GamePref.PlayerSafeZoneHours = 7
+GamePref.PlayerSafeZoneLevel = 5
+GamePref.PlayerToken = 
+GamePref.PlaytestBiome = 3
+GamePref.RebuildMap = False
+GamePref.Region = Europe
+GamePref.SaveDataLimit = -1
+GamePref.SaveGameFolder = C:\Users\james\AppData\Roaming/7DaysToDie/Saves
+GamePref.SelectionContextMode = 0
+GamePref.SelectionOperationMode = 0
+GamePref.ServerAdminSlots = 0
+GamePref.ServerAdminSlotsPermission = 0
+GamePref.ServerDescription = 
+GamePref.ServerDisabledNetworkProtocols = 
+GamePref.ServerHistoryCache = 
+GamePref.ServerIP = 
+GamePref.ServerIsPublic = True
+GamePref.ServerLoginConfirmationText = 
+GamePref.ServerMaxAllowedViewDistance = 12
+GamePref.ServerMaxPlayerCount = 8
+GamePref.ServerMaxWorldTransferSpeedKiBs = 512
+GamePref.ServerName = Default Server
+GamePref.ServerPort = 26900
+GamePref.ServerReservedSlots = 0
+GamePref.ServerReservedSlotsPermission = 100
+GamePref.ServerVisibility = 1
+GamePref.ServerWebsiteURL = 
+GamePref.ShowFriendPlayerOnMap = True
+GamePref.TelnetEnabled = False
+GamePref.TelnetFailedLoginLimit = 10
+GamePref.TelnetFailedLoginsBlocktime = 10
+GamePref.TelnetPort = 25003
+GamePref.TerminalWindowEnabled = True
+GamePref.TwitchBloodMoonAllowed = True
+GamePref.TwitchServerPermission = 90
+GamePref.UNUSED_ControlPanelEnabled = False
+GamePref.UNUSED_ControlPanelPort = 8080
+GamePref.UNUSED_LastLoadedPrefabSize = 
+GamePref.UNUSED_OptionsBloom = 
+GamePref.UNUSED_OptionsDOF = 
+GamePref.UNUSED_OptionsFieldOfViewNew = 
+GamePref.UNUSED_OptionsGamma = 
+GamePref.UNUSED_OptionsMotionBlur = 
+GamePref.UNUSED_OptionsObjectBlur = 
+GamePref.UNUSED_OptionsReflectionBounces = 
+GamePref.UNUSED_OptionsReflectionCullList = 
+GamePref.UNUSED_OptionsReflectionFarClip = 
+GamePref.UNUSED_OptionsReflectionRefreshMode = 
+GamePref.UNUSED_OptionsReflectionShadowDistance = 
+GamePref.UNUSED_OptionsReflectionTimeSlicingMode = 
+GamePref.UNUSED_OptionsSSAO = 
+GamePref.UNUSED_OptionsStreamingMipmapsBudget = 
+GamePref.UNUSED_OptionsSunShafts = 
+GamePref.UNUSED_PlayerId = 
+GamePref.UserDataFolder = C:\Users\james\AppData\Roaming/7DaysToDie
+GamePref.WebDashboardEnabled = False
+GamePref.WebDashboardPort = 8080
+GamePref.WebDashboardUrl = 
+GamePref.WorldGenSeed = 
+GamePref.WorldGenSize = 8192
+GamePref.XPMultiplier = 100
+GamePref.ZombieBMMove = 3
+GamePref.ZombieFeralMove = 3
+GamePref.ZombieFeralSense = 0
+GamePref.ZombieMove = 0
+GamePref.ZombieMoveNight = 3
+GamePref.ZombiePlayers = True
+GameStat.AirDropFrequency = 0
+GameStat.AirDropMarker = True
+GameStat.AllowedViewDistance = 12
+GameStat.AnimalCount = 0
+GameStat.AutoParty = False
+GameStat.BedrollExpiryTime = 45
+GameStat.BlockDamagePlayer = 100
+GameStat.BloodMoonDay = 0
+GameStat.BloodMoonEnemyCount = 8
+GameStat.BloodMoonWarning = 8
+GameStat.ChunkStabilityEnabled = True
+GameStat.CraftTimer = 
+GameStat.CurrentRoundIx = 0
+GameStat.DayLightLength = 18
+GameStat.DayLimitActive = False
+GameStat.DayLimitThisRound = 0
+GameStat.DropOnDeath = 1
+GameStat.DropOnQuit = 0
+GameStat.EnemyCount = 0
+GameStat.EnemyDifficulty = Normal
+GameStat.EnemySpawnMode = True
+GameStat.FragLimitActive = False
+GameStat.FragLimitThisRound = 0
+GameStat.GameDifficulty = 2
+GameStat.GameDifficultyBonus = 1
+GameStat.GameModeId = 0
+GameStat.GameState = 0
+GameStat.GlobalMessageToShow = 
+GameStat.IsCreativeMenuEnabled = False
+GameStat.IsFlyingEnabled = False
+GameStat.IsPlayerCollisionEnabled = True
+GameStat.IsPlayerDamageEnabled = True
+GameStat.IsResetMapOnRestart = False
+GameStat.IsSaveSupplyCrates = True
+GameStat.IsSpawnEnemies = True
+GameStat.IsSpawnNearOtherPlayer = False
+GameStat.IsTeleportEnabled = False
+GameStat.IsVersionCheckDone = False
+GameStat.LandClaimCount = 3
+GameStat.LandClaimDeadZone = 30
+GameStat.LandClaimDecayMode = 0
+GameStat.LandClaimExpiryTime = 3
+GameStat.LandClaimOfflineDelay = 0
+GameStat.LandClaimOfflineDurabilityModifier = 32
+GameStat.LandClaimOnlineDurabilityModifier = 32
+GameStat.LandClaimSize = 41
+GameStat.LoadScene = 
+GameStat.LootTimer = 
+GameStat.OptionsPOICulling = 0
+GameStat.PartySharedKillRange = 100
+GameStat.PlayerKillingMode = KillStrangersOnly
+GameStat.ScoreDiedMultiplier = -5
+GameStat.ScorePlayerKillMultiplier = 1
+GameStat.ScoreZombieKillMultiplier = 1
+GameStat.ShowAllPlayersOnMap = False
+GameStat.ShowFriendPlayerOnMap = True
+GameStat.ShowSpawnWindow = False
+GameStat.ShowWindow = 
+GameStat.TimeLimitActive = False
+GameStat.TimeLimitThisRound = 0
+GameStat.TimeOfDayIncPerSec = 20
+GameStat.TwitchBloodMoonAllowed = True
+GameStat.UNUSED_ShowZombieCounter = 
+GameStat.XPMultiplier = 100
+GameStat.ZombieHordeMeter = False
+2023-10-07T17:41:32 44.517 INF StartAsServer
+2023-10-07T17:41:33 45.498 INF Set Microsplat diffuse: MicroSplatConfig_diff_tarray_1 (UnityEngine.Texture2DArray)
+2023-10-07T17:41:33 45.498 INF Set Microsplat normals: MicroSplatConfig_normal_tarray_1 (UnityEngine.Texture2DArray)
+2023-10-07T17:41:33 45.498 INF Set Microsplat smooth:  MicroSplatConfig_smoothAO_tarray_1 (UnityEngine.Texture2DArray)
+2023-10-07T17:41:33 45.530 INF Loaded (local): materials in 0.98
+2023-10-07T17:41:33 45.597 INF Loaded (local): physicsbodies in 0.07
+2023-10-07T17:41:33 45.697 INF Loaded (local): painting in 0.10
+2023-10-07T17:41:34 45.927 INF Loaded (local): shapes in 0.23
+2023-10-07T17:44:27 219.006 INF Block IDs with mapping
+2023-10-07T17:44:27 219.022 INF Block IDs total 22097, terr 29, last 22319
+Unloading 3 Unused Serialized files (Serialized files now loaded: 12)
+2023-10-07T17:44:27 219.041 INF Loaded (local): blocks in 173.11
+Unloading 64428 unused Assets to reduce memory usage. Loaded Objects now: 121445.
+Total: 470.124500 ms (FindLiveObjects: 14.999500 ms CreateObjectMapping: 22.232000 ms MarkObjects: 404.974200 ms  DeleteObjects: 27.918300 ms)
+
+2023-10-07T17:44:27 219.671 INF Loaded (local): progression in 0.63
+2023-10-07T17:44:28 220.388 INF Loaded (local): buffs in 0.72
+Xbox Trigger Effect: PistolTrigger effect(FeedbackSingle): str(0.8),StartPosition(0),endPos(0),amplitude(0)
+Xbox Trigger Effect: ShotgunTrigger effect(FeedbackSingle): str(0.8),StartPosition(0),endPos(0),amplitude(0)
+Xbox Trigger Effect: RifleTrigger effect(FeedbackSingle): str(0.8),StartPosition(0),endPos(0),amplitude(0)
+Xbox Trigger Effect: PistolShoot effect(FeedbackSingle): str(0.8),StartPosition(0),endPos(0),amplitude(0)
+Xbox Trigger Effect: ShotgunShoot effect(VibrationSingle): str(0.5),StartPosition(0),endPos(0),amplitude(0)
+Xbox Trigger Effect: RifleShoot effect(FeedbackSingle): str(0.8),StartPosition(0),endPos(0),amplitude(0)
+Xbox Trigger Effect: PistolZoom effect(VibrationSingle): str(0.35),StartPosition(0),endPos(0),amplitude(0)
+Xbox Trigger Effect: RifleZoom effect(VibrationSingle): str(0.65),StartPosition(0),endPos(0),amplitude(0)
+2023-10-07T17:44:28 220.478 INF Loaded (local): misc in 0.09
+2023-10-07T17:44:29 221.184 INF Loaded (local): items in 0.71
+2023-10-07T17:44:29 221.395 INF Item IDs with mapping
+2023-10-07T17:44:29 221.395 INF ItemIDs from Mapping
+2023-10-07T17:44:29 221.476 INF Loaded (local): item_modifiers in 0.29
+2023-10-07T17:44:29 221.633 INF Loaded (local): entityclasses in 0.16
+2023-10-07T17:44:29 221.728 INF Loaded (local): qualityinfo in 0.09
+2023-10-07T17:44:30 221.897 INF Loaded (local): sounds in 0.17
+2023-10-07T17:44:30 222.019 INF Loaded (local): recipes in 0.12
+2023-10-07T17:44:30 222.111 INF Loaded (local): blockplaceholders in 0.09
+2023-10-07T17:44:30 222.254 INF Loaded (local): loot in 0.14
+2023-10-07T17:44:30 222.362 INF Loaded (local): entitygroups in 0.11
+2023-10-07T17:44:30 222.461 INF Loaded (local): utilityai in 0.10
+2023-10-07T17:44:30 222.528 INF Loaded (local): vehicles in 0.07
+2023-10-07T17:44:30 222.578 INF Loaded (local): rwgmixer in 0.05
+2023-10-07T17:44:30 222.678 INF Loaded (local): weathersurvival in 0.10
+2023-10-07T17:44:30 222.728 INF Loaded (local): archetypes in 0.05
+2023-10-07T17:44:31 222.880 INF Loaded (local): quests in 0.15
+2023-10-07T17:44:31 222.978 INF Loaded (local): traders in 0.10
+2023-10-07T17:44:31 223.078 INF Loaded (local): npc in 0.10
+2023-10-07T17:44:31 223.178 INF Loaded (local): dialogs in 0.10
+2023-10-07T17:44:31 223.247 INF Loaded (local): ui_display in 0.07
+2023-10-07T17:44:31 223.311 INF Loaded (local): nav_objects in 0.06
+2023-10-07T17:44:31 223.428 INF Loaded (local): gamestages in 0.12
+2023-10-07T17:44:31 223.784 INF Loaded (local): gameevents in 0.36
+2023-10-07T17:44:32 223.916 INF Loaded (local): twitch in 0.13
+2023-10-07T17:44:32 223.978 INF Loaded (local): twitch_events in 0.06
+2023-10-07T17:44:32 224.071 INF Loaded (local): dmscontent in 0.09
+2023-10-07T17:44:32 224.128 INF Loaded (local): XUi_Common/styles in 0.06
+2023-10-07T17:44:32 224.178 INF Loaded (local): XUi_Common/controls in 0.05
+2023-10-07T17:44:32 224.228 INF Loaded (local): XUi/styles in 0.05
+2023-10-07T17:44:32 224.344 INF Loaded (local): XUi/controls in 0.12
+2023-10-07T17:44:32 224.461 INF Loaded (local): XUi/windows in 0.12
+2023-10-07T17:44:32 224.527 INF [XUi] Loading XUi asynchronously
+2023-10-07T17:44:32 224.554 INF Loaded (local): XUi/xui in 0.09
+2023-10-07T17:44:32 224.783 INF Loaded (local): biomes in 0.23
+2023-10-07T17:44:33 224.977 INF Loaded (local): worldglobal in 0.19
+2023-10-07T17:44:33 225.230 INF Loaded (local): spawning in 0.25
+2023-10-07T17:44:33 225.356 INF Loaded (local): loadingscreen in 0.13
+2023-10-07T17:44:33 225.517 INF createWorld: Navezgane, Jammy, GameModeSurvival
+2023-10-07T17:44:33 225.526 INF Occlusion: Enabled
+2023-10-07T17:44:33 225.561 INF Started thread ChunkRegeneration
+2023-10-07T17:44:33 225.564 INF Started thread ChunkCalc
+2023-10-07T17:44:33 225.568 INF Started thread ChunkMeshBake
+2023-10-07T17:44:33 225.650 INF World.Load: Navezgane
+2023-10-07T17:44:33 225.659 INF BloodMoon SetDay: day 14, last day 7, freq 7, range 0
+2023-10-07T17:44:33 225.715 INF Started thread WaterSimulationApplyChanges
+2023-10-07T17:44:34 225.955 INF [XUi] Parsing all window groups completed in 977 ms total.
+2023-10-07T17:44:37 229.764 INF ShapeControllers: 96
+2023-10-07T17:44:39 231.608 INF [XUi] Initialized all window groups completed in 1405 ms total.
+2023-10-07T17:45:47 299.611 INF Started thread GenerateChunks
+2023-10-07T17:45:49 301.539 INF Calculating world hashes took 1912 ms (world size 189 MiB)
+2023-10-07T17:45:49 301.672 INF Loading dtm raw file took 2058ms
+2023-10-07T17:45:49 301.824 INF Biomes image size w= 3072, h = 3072
+2023-10-07T17:45:50 302.832 INF Loading and creating biomes took 1159ms
+2023-10-07T17:45:52 304.273 INF Loading and creating shader control textures took 1441ms
+2023-10-07T17:45:52 304.749 INF Loading and parsing of generator took 476ms
+2023-10-07T17:45:52 304.783 INF Computed 401 chunk groups containing a total of 7813 chunks. Largest group contains 462 chunks.
+2023-10-07T17:45:53 304.940 INF Started thread SaveChunks C:\Users\james\AppData\Roaming\7DaysToDie\Saves\Navezgane\Jammy\Region
+2023-10-07T17:45:54 306.749 INF [DECO] read 76531
+2023-10-07T17:45:55 306.923 INF Dynamic Music Initialized on Server
+2023-10-07T17:45:55 306.943 INF Dynamic Music Initialized on Client
+2023-10-07T17:45:55 307.375 INF AstarManager Init
+2023-10-07T17:45:56 307.928 INF WeatherManager: Init 8 weather packages
+2023-10-07T17:45:56 308.301 INF WeatherManager: ApplySavedPackages
+2023-10-07T17:45:56 308.305 INF createWorld() done
+2023-10-07T17:45:56 308.307 INF Loading players.xml
+2023-10-07T17:45:57 309.808 INF Created player with id=171
+2023-10-07T17:45:57 309.819 INF [PartyQuests] Player registered: [type=EntityPlayerLocal, name=jamesgreen0795, id=171]
+2023-10-07T17:45:58 310.093 INF Loaded player
+2023-10-07T17:45:58 310.524 INF VehicleManager C:\Users\james\AppData\Roaming/7DaysToDie/Saves/Navezgane/Jammy/vehicles.dat, loaded 0
+2023-10-07T17:45:58 310.526 INF DroneManager C:\Users\james\AppData\Roaming/7DaysToDie/Saves/Navezgane/Jammy/drones.dat, loaded 0
+2023-10-07T17:45:59 311.030 INF [EOS] Registering server
+2023-10-07T17:45:59 311.271 INF [DECO] written 76531, in 19ms
+2023-10-07T17:45:59 311.276 INF [DECO] write thread 4ms
+2023-10-07T17:45:59 311.351 INF OpenSpawnWindow
+2023-10-07T17:46:03 315.063 INF Loading dymesh settings
+2023-10-07T17:46:03 315.063 INF Dynamic Mesh Settings
+2023-10-07T17:46:03 315.063 INF Use Imposter Values: False
+2023-10-07T17:46:03 315.063 INF Only Player Areas: True
+2023-10-07T17:46:03 315.063 INF Player Area Buffer: 3
+2023-10-07T17:46:03 315.063 INF Max View Distance: 1000
+2023-10-07T17:46:03 315.063 INF Regen all on new world: False
+2023-10-07T17:46:03 315.094 INF Dymesh: Prepping dynamic mesh. Resend Default: True
+2023-10-07T17:46:03 315.094 INF Dymesh: Mesh location: C:\Users\james\AppData\Roaming/7DaysToDie/Saves/Navezgane/Jammy/DynamicMeshes/
+2023-10-07T17:46:03 315.094 INF StartGame done
+2023-10-07T17:46:03 315.639 INF [Steamworks.NET] GameServer.Init successful
+Calling Animator.GotoState on Synchronize layer
+2023-10-07T17:46:04 315.874 INF [EOS] Server registered, session: d4f65479150842de87dcb2f12f8e3918
+2023-10-07T17:46:04 315.879 INF [EOS] Session address: 90.192.121.16
+2023-10-07T17:46:04 315.887 INF [Steamworks.NET] Trying to create Lobby (visibility: k_ELobbyTypeFriendsOnly)
+2023-10-07T17:46:04 316.035 INF Dymesh: Warming dynamic mesh
+2023-10-07T17:46:04 316.035 INF Dymesh: Creating dynamic mesh manager
+2023-10-07T17:46:04 316.038 INF Dymesh: Awake
+2023-10-07T17:46:04 316.039 INF Dymesh: Mesh location: C:\Users\james\AppData\Roaming/7DaysToDie/Saves/Navezgane/Jammy/DynamicMeshes/
+2023-10-07T17:46:04 316.040 INF Dymesh: Loading Items: C:\Users\james\AppData\Roaming/7DaysToDie/Saves/Navezgane/Jammy/DynamicMeshes/
+2023-10-07T17:46:04 316.159 INF Dymesh: Loaded Items: 16
+2023-10-07T17:46:04 316.159 INF Dymesh: Loading all items took: 0.1198074 seconds.
+2023-10-07T17:46:04 316.399 INF Meshlist count is now 1
+2023-10-07T17:46:04 316.399 INF Meshlist count is now 2
+2023-10-07T17:46:04 316.400 INF Force load took 0 seconds
+2023-10-07T17:46:04 316.402 INF Clearing queues.
+2023-10-07T17:46:04 316.402 INF Cleared queues.
+2023-10-07T17:46:04 316.405 INF Dynamic thread starting
+2023-10-07T17:46:04 316.408 INF Dymesh door replacement: imposterBlock
+2023-10-07T17:46:04 316.484 INF [Steamworks.NET] Lobby creation succeeded, LobbyID=109775241040288884, server SteamID=, server public IP=9*.19*.12*.1*, server port=26900
+2023-10-07T17:46:04 316.501 INF [Steamworks.NET] Lobby entered: 109775241040288884
+2023-10-07T17:46:04 316.504 WRN [Steam] Tick took exceptionally long: 28 ms
+2023-10-07T17:46:04 316.586 INF [Steamworks.NET] GameServer.LogOn successful, SteamID=90176981890362376, public IP=9*.19*.12*.1*
+2023-10-07T17:46:04 316.589 INF [Steamworks.NET] Exiting Lobby
+2023-10-07T17:46:04 316.590 INF [Steamworks.NET] Trying to create Lobby (visibility: k_ELobbyTypeFriendsOnly)
+2023-10-07T17:46:04 316.694 INF Missing paint ID XML entry: 255 for block 'woodShapes:cube'
+2023-10-07T17:46:05 317.019 INF [Steamworks.NET] Lobby creation succeeded, LobbyID=109775241040288903, server SteamID=90176981890362376, server public IP=9*.19*.12*.1*, server port=26900
+2023-10-07T17:46:05 317.024 INF [Steamworks.NET] Lobby entered: 109775241040288903
+2023-10-07T17:46:07 319.846 INF Respawn almost done
+2023-10-07T17:46:07 319.854 INF PlayerSpawnedInWorld (reason: LoadedGame, position: -709, 74, 912): localplayer
+2023-10-07T17:46:08 320.024 INF 8034+1 Origin Reposition (0.0, 0.0, 0.0) to (-720.0, 64.0, 912.0)
+2023-10-07T17:46:33 345.705 INF Time: 3.08m FPS: 57.81 Heap: 1721.2MB Max: 1721.2MB Chunks: 243 CGO: 162 Ply: 1 Zom: 3 Ent: 5 (5) Items: 0 CO: 1 RSS: 3609.5MB
+2023-10-07T17:47:02 374.499 INF Saving 70 of chunks took 738ms
+2023-10-07T17:47:03 375.610 INF Disconnect
+2023-10-07T17:47:03 375.616 INF [NET] ServerShutdown
+2023-10-07T17:47:03 375.617 INF NET: Stopping server protocols
+2023-10-07T17:47:04 376.059 INF NET: LiteNetLib server stopped
+2023-10-07T17:47:04 376.064 INF Exited thread SteamNetworkingServer
+2023-10-07T17:47:04 376.064 INF [Steamworks.NET] NET: Server stopped
+2023-10-07T17:47:04 376.088 INF [EOS-P2PS] Server stopped
+2023-10-07T17:47:04 376.090 INF SaveAndCleanupWorld
+2023-10-07T17:47:04 376.813 INF Saving 69 of chunks took 691ms
+2023-10-07T17:47:04 376.818 INF [EOS] Unregistering server
+2023-10-07T17:47:04 376.837 INF [Steamworks.NET] Stopping server
+2023-10-07T17:47:05 376.871 INF [Steamworks.NET] Exiting Lobby
+2023-10-07T17:47:05 376.873 INF [PartyQuests] Player unregistered
+2023-10-07T17:47:05 377.268 INF AstarManager Cleanup
+2023-10-07T17:47:05 377.457 INF Clearing queues.
+2023-10-07T17:47:05 377.457 INF Cleared queues.
+2023-10-07T17:47:06 378.274 INF Clearing queues.
+2023-10-07T17:47:06 378.274 INF Cleared queues.
+2023-10-07T17:47:06 378.282 INF World.Unload
+2023-10-07T17:47:06 378.289 INF Exited thread GenerateChunks
+2023-10-07T17:47:07 378.978 INF Exited thread SaveChunks C:\Users\james\AppData\Roaming\7DaysToDie\Saves\Navezgane\Jammy\Region
+2023-10-07T17:47:07 379.032 INF World.Cleanup
+2023-10-07T17:47:07 379.036 INF Exited thread ChunkRegeneration
+2023-10-07T17:47:07 379.042 INF Exited thread ChunkCalc
+2023-10-07T17:47:07 379.042 INF Exited thread ChunkMeshBake
+2023-10-07T17:47:07 379.062 INF Exited thread WaterSimulationApplyChanges
+2023-10-07T17:47:07 379.067 INF VehicleManager saving 0 (0 + 0)
+2023-10-07T17:47:07 379.069 INF VehicleManager saved 9 bytes
+2023-10-07T17:47:07 379.070 INF DroneManager saving 0 (0 + 0)
+2023-10-07T17:47:07 379.071 INF DroneManager saved 9 bytes
+2023-10-07T17:47:07 379.102 INF Persistent GamePrefs saved
+2023-10-07T17:47:07 379.710 INF [EOS] Server unregistered
+2023-10-07T17:47:09 381.610 INF Preparing quit
+2023-10-07T17:47:09 381.629 INF Persistent GamePrefs saved
+2023-10-07T17:47:09 381.629 INF Cleanup
+2023-10-07T17:47:10 382.476 INF AchievementManager.Cleanup
+2023-10-07T17:47:10 382.842 INF Terminating threads
+2023-10-07T17:47:10 382.842 INF OnApplicationQuit
+2023-10-07T17:47:10 382.844 INF Terminating threads
+2023-10-07T17:47:10 382.844 INF OnApplicationQuit
+Setting up 2 worker threads for Enlighten.
+Memory Statistics:
+[ALLOC_TEMP_TLS] TLS Allocator
+  StackAllocators : 
+    [ALLOC_TEMP_MAIN]
+      Peak usage frame count: [2.0 KB-4.0 KB]: 5708 frames, [4.0 KB-8.0 KB]: 1 frames, [8.0 KB-16.0 KB]: 2146 frames, [16.0 KB-32.0 KB]: 50 frames, [32.0 KB-64.0 KB]: 52 frames, [64.0 KB-128.0 KB]: 2909 frames, [128.0 KB-256.0 KB]: 142 frames, [256.0 KB-0.5 MB]: 67 frames, [0.5 MB-1.0 MB]: 169 frames, [1.0 MB-2.0 MB]: 5 frames, [2.0 MB-4.0 MB]: 1 frames, [4.0 MB-8.0 MB]: 3 frames
+      Initial Block Size 4.0 MB
+      Current Block Size 7.5 MB
+      Peak Allocated Bytes 7.5 MB
+      Overflow Count 6
+    [ALLOC_TEMP_Loading.AsyncRead]
+      Initial Block Size 64.0 KB
+      Current Block Size 128.0 KB
+      Peak Allocated Bytes 128.0 KB
+      Overflow Count 1
+    [ALLOC_TEMP_Loading.PreloadManager]
+      Initial Block Size 256.0 KB
+      Current Block Size 496.0 KB
+      Peak Allocated Bytes 495.1 KB
+      Overflow Count 50
+    [ALLOC_TEMP_Background Job.Worker 8]
+      Initial Block Size 32.0 KB
+      Current Block Size 52.0 KB
+      Peak Allocated Bytes 48.3 KB
+      Overflow Count 1
+    [ALLOC_TEMP_Background Job.Worker 9]
+      Initial Block Size 32.0 KB
+      Current Block Size 36.0 KB
+      Peak Allocated Bytes 33.0 KB
+      Overflow Count 1
+    [ALLOC_TEMP_Job.Worker 0]
+      Initial Block Size 256.0 KB
+      Current Block Size 272.0 KB
+      Peak Allocated Bytes 222.4 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 10]
+      Initial Block Size 32.0 KB
+      Current Block Size 36.0 KB
+      Peak Allocated Bytes 35.4 KB
+      Overflow Count 1
+    [ALLOC_TEMP_Background Job.Worker 14]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 6]
+      Initial Block Size 32.0 KB
+      Current Block Size 36.0 KB
+      Peak Allocated Bytes 32.0 KB
+      Overflow Count 1
+    [ALLOC_TEMP_Background Job.Worker 12]
+      Initial Block Size 32.0 KB
+      Current Block Size 36.0 KB
+      Peak Allocated Bytes 32.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_EnlightenWorker] x 2
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 15]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 1]
+      Initial Block Size 32.0 KB
+      Current Block Size 36.0 KB
+      Peak Allocated Bytes 32.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 2]
+      Initial Block Size 32.0 KB
+      Current Block Size 36.0 KB
+      Peak Allocated Bytes 32.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 7]
+      Initial Block Size 32.0 KB
+      Current Block Size 36.0 KB
+      Peak Allocated Bytes 32.0 KB
+      Overflow Count 1
+    [ALLOC_TEMP_UnityGfxDeviceWorker]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 65.0 KB
+      Overflow Count 12
+    [ALLOC_TEMP_AssetGarbageCollectorHelper] x 3
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 5]
+      Initial Block Size 32.0 KB
+      Current Block Size 36.0 KB
+      Peak Allocated Bytes 32.0 KB
+      Overflow Count 1
+    [ALLOC_TEMP_Background Job.Worker 13]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 1]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 58.7 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 2]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 151.3 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 3]
+      Initial Block Size 32.0 KB
+      Current Block Size 52.0 KB
+      Peak Allocated Bytes 50.7 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 11]
+      Initial Block Size 32.0 KB
+      Current Block Size 60.0 KB
+      Peak Allocated Bytes 58.4 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 0]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 408 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 4]
+      Initial Block Size 32.0 KB
+      Current Block Size 36.0 KB
+      Peak Allocated Bytes 32.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_BatchDeleteObjects]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+[ALLOC_DEFAULT] Dual Thread Allocator
+  Peak main deferred allocation count 161203
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 1 Subsections = 1024 buckets. Failed count: 688745
+        32B: 15 Subsections = 7680 buckets. Failed count: 943338
+        48B: 53 Subsections = 18090 buckets. Failed count: 628452
+        64B: 29 Subsections = 7424 buckets. Failed count: 314064
+        80B: 152 Subsections = 31129 buckets. Failed count: 122626
+        96B: 3 Subsections = 512 buckets. Failed count: 86967
+        112B: 2 Subsections = 292 buckets. Failed count: 118718
+        128B: 1 Subsections = 128 buckets. Failed count: 127215
+    [ALLOC_DEFAULT_MAIN]
+      Peak usage frame count: [16.0 MB-32.0 MB]: 5413 frames, [32.0 MB-64.0 MB]: 1633 frames, [64.0 MB-128.0 MB]: 1024 frames, [128.0 MB-256.0 MB]: 3183 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 14
+      Peak Allocated memory 247.4 MB
+      Peak Large allocation bytes 156.0 MB
+    [ALLOC_DEFAULT_THREAD]
+      Peak usage frame count: [4.0 MB-8.0 MB]: 13 frames, [8.0 MB-16.0 MB]: 1094 frames, [16.0 MB-32.0 MB]: 1385 frames, [32.0 MB-64.0 MB]: 163 frames, [64.0 MB-128.0 MB]: 3175 frames, [128.0 MB-256.0 MB]: 5423 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 16
+      Peak Allocated memory 227.1 MB
+      Peak Large allocation bytes 128.0 MB
+[ALLOC_TEMP_JOB_1_FRAME]
+  Initial Block Size 2.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_2_FRAMES]
+  Initial Block Size 2.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_4_FRAMES (JobTemp)]
+  Initial Block Size 2.0 MB
+  Used Block Count 4
+  Overflow Count (too large) 3
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_ASYNC (Background)]
+  Initial Block Size 1.0 MB
+  Used Block Count 10
+  Overflow Count (too large) 13
+  Overflow Count (full) 0
+[ALLOC_GFX] Dual Thread Allocator
+  Peak main deferred allocation count 96
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 1 Subsections = 1024 buckets. Failed count: 688745
+        32B: 15 Subsections = 7680 buckets. Failed count: 943338
+        48B: 53 Subsections = 18090 buckets. Failed count: 628452
+        64B: 29 Subsections = 7424 buckets. Failed count: 314064
+        80B: 152 Subsections = 31129 buckets. Failed count: 122626
+        96B: 3 Subsections = 512 buckets. Failed count: 86967
+        112B: 2 Subsections = 292 buckets. Failed count: 118718
+        128B: 1 Subsections = 128 buckets. Failed count: 127215
+    [ALLOC_GFX_MAIN]
+      Peak usage frame count: [64.0 KB-128.0 KB]: 5409 frames, [128.0 KB-256.0 KB]: 1 frames, [0.5 MB-1.0 MB]: 7 frames, [2.0 MB-4.0 MB]: 1133 frames, [4.0 MB-8.0 MB]: 74 frames, [8.0 MB-16.0 MB]: 90 frames, [16.0 MB-32.0 MB]: 96 frames, [32.0 MB-64.0 MB]: 32 frames, [64.0 MB-128.0 MB]: 604 frames, [128.0 MB-256.0 MB]: 3784 frames, [256.0 MB-0.50 GB]: 23 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 14
+      Peak Allocated memory 434.7 MB
+      Peak Large allocation bytes 304.0 MB
+    [ALLOC_GFX_THREAD]
+      Peak usage frame count: [2.0 KB-4.0 KB]: 5396 frames, [64.0 KB-128.0 KB]: 1122 frames, [128.0 KB-256.0 KB]: 2 frames, [0.5 MB-1.0 MB]: 12 frames, [1.0 MB-2.0 MB]: 445 frames, [2.0 MB-4.0 MB]: 6 frames, [4.0 MB-8.0 MB]: 8 frames, [8.0 MB-16.0 MB]: 2 frames, [16.0 MB-32.0 MB]: 7 frames, [32.0 MB-64.0 MB]: 65 frames, [64.0 MB-128.0 MB]: 4188 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 6
+      Peak Allocated memory 84.7 MB
+      Peak Large allocation bytes 35.4 MB
+[ALLOC_CACHEOBJECTS] Dual Thread Allocator
+  Peak main deferred allocation count 98586
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 1 Subsections = 1024 buckets. Failed count: 688745
+        32B: 15 Subsections = 7680 buckets. Failed count: 943338
+        48B: 53 Subsections = 18090 buckets. Failed count: 628452
+        64B: 29 Subsections = 7424 buckets. Failed count: 314064
+        80B: 152 Subsections = 31129 buckets. Failed count: 122626
+        96B: 3 Subsections = 512 buckets. Failed count: 86967
+        112B: 2 Subsections = 292 buckets. Failed count: 118718
+        128B: 1 Subsections = 128 buckets. Failed count: 127215
+    [ALLOC_CACHEOBJECTS_MAIN]
+      Peak usage frame count: [32.0 MB-64.0 MB]: 5403 frames, [64.0 MB-128.0 MB]: 1136 frames, [128.0 MB-256.0 MB]: 4714 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 48
+      Peak Allocated memory 197.3 MB
+      Peak Large allocation bytes 43.2 MB
+    [ALLOC_CACHEOBJECTS_THREAD]
+      Peak usage frame count: [16.0 MB-32.0 MB]: 5410 frames, [64.0 MB-128.0 MB]: 1112 frames, [128.0 MB-256.0 MB]: 495 frames, [256.0 MB-0.50 GB]: 4236 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 80
+      Peak Allocated memory 319.7 MB
+      Peak Large allocation bytes 115.5 MB
+[ALLOC_TYPETREE] Dual Thread Allocator
+  Peak main deferred allocation count 0
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 1 Subsections = 1024 buckets. Failed count: 688745
+        32B: 15 Subsections = 7680 buckets. Failed count: 943338
+        48B: 53 Subsections = 18090 buckets. Failed count: 628452
+        64B: 29 Subsections = 7424 buckets. Failed count: 314064
+        80B: 152 Subsections = 31129 buckets. Failed count: 122626
+        96B: 3 Subsections = 512 buckets. Failed count: 86967
+        112B: 2 Subsections = 292 buckets. Failed count: 118718
+        128B: 1 Subsections = 128 buckets. Failed count: 127215
+    [ALLOC_TYPETREE_MAIN]
+      Peak usage frame count: [0-1.0 KB]: 5396 frames, [4.0 KB-8.0 KB]: 1 frames, [64.0 KB-128.0 KB]: 5856 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 127.0 KB
+      Peak Large allocation bytes 0 B
+    [ALLOC_TYPETREE_THREAD]
+      Peak usage frame count: [2.0 KB-4.0 KB]: 5396 frames, [256.0 KB-0.5 MB]: 640 frames, [0.5 MB-1.0 MB]: 513 frames, [2.0 MB-4.0 MB]: 4704 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 2
+      Peak Allocated memory 2.3 MB
+      Peak Large allocation bytes 0 B
